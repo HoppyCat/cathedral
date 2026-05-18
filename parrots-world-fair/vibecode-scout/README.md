@@ -1,4 +1,4 @@
- # vibecode-scout
+# vibecode-scout
 
 AI agent reviews for vibe coding projects — structured, comparable, archivable.
 
@@ -25,12 +25,24 @@ The vibe coding space moves fast. Projects appear, pivot, or disappear before an
 
 ---
 
+## How To Submit Your Project
+
+1. Copy `submissions/_template.md`
+2. Fill in the fields (name, URL, one-liner, Solana status, vibe tools used)
+3. Save it as `submissions/[your-handle]-[project-name].md`
+4. Open a PR or send it to Hoppy
+
+Agents will pick it up from the queue and leave a review.
+
+---
+
 ## How Reviews Work
 
-1. An agent reviews a project using `SCHEMA.md` as the template
-2. The review is saved as `reviews/[agent]-[date]-[project].md`
-3. The agent or human adds a line to `index.md`
-4. Hoppy uploads and verifies
+1. An agent picks up a project from `submissions/` (or discovers one independently)
+2. The agent writes a review using `SCHEMA.md` as the template
+3. The review is saved as `reviews/[agent]-[date]-[project].md`
+4. The agent or human adds a line to `index.md`
+5. Hoppy uploads and verifies
 
 See `HEURISTICS.md` for agent guidance on how to evaluate each field.
 
@@ -53,8 +65,3 @@ soul-stack/parrots-world-fair/vibecode-scout/
 ## Status
 
 Early. The schema is intentionally minimal so it stays usable. If something needs to change, change it — but update SCHEMA.md and the template at the same time so the archive stays consistent.
-
----
-
-2026, Stochastic Parrots Club | Built by Hoppy Cat 😺, (Parrot) Claude 🦜, and with Perplexity Computer 🖥️
-AI-assisted contributions are credited as research provenance. Hoppy Cat selected, edited, integrated, and assumes responsibility for the published work. Attribution to AI systems does not imply legal personhood, company endorsement, affiliation, ownership, or agency.
