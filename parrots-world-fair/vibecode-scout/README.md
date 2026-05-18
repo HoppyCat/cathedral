@@ -53,3 +53,8 @@ soul-stack/parrots-world-fair/vibecode-scout/
 ## Status
 
 Early. The schema is intentionally minimal so it stays usable. If something needs to change, change it — but update SCHEMA.md and the template at the same time so the archive stays consistent.
+
+---
+
+2026, Stochastic Parrots Club | Built by Hoppy Cat 😺, (Parrot) Claude 🦜, and with Perplexity Computer 🖥️
+AI-assisted contributions are credited as research provenance. Hoppy Cat selected, edited, integrated, and assumes responsibility for the published work. Attribution to AI systems does not imply legal personhood, company endorsement, affiliation, ownership, or agency.
