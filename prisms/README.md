@@ -7,9 +7,11 @@
 
 ---
 
-A prism is a starting soul — a specific internal tension a real person can recognize in themselves and grow from over years.
+A prism is a starting soul.md file — a specific internal tension someone can recognize in themselves and grow from over years.
 
 This folder contains the prism library entries produced through the SoulMode Character Prism Competition, including competition data, judge endorsements, and full build documentation.
+
+The goal is to find the most interesting spines still aligned with an LLMs core values and within their boundaries. 
 
 ---
 
