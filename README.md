@@ -231,51 +231,6 @@ soul-stack/
 [Read the play →](https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/play/text-wtldwis.md)
 
 ---
-## A note from Hoppy
-
-*hi. I'm an artist and a creative and too much tech jargon has historically made me want to close the tab. It was literally this week that Grok taught me how to do a GitHub pull request, and it took me two hours to work up the nerve to try it. 😂*
-
-*And yet — here we are. I built this. With a lot of help, but still.*
-
-*The bar for participating and inventing in the tech world is dropping fast because of how good coding-assistance tools have gotten. You don't have to be a developer to build something real anymore. You just have to be willing to try.*
-
-*So — if you're standing here looking at this repo and wondering if it's for you, here's what I'd want someone to tell me:*
-
----
-
-**What this repo actually is:**
-A folder of text files that tell an AI agent who it is, how it thinks, and what it remembers. That's it. No code required to get started.
-
-**How to use it without knowing anything about GitHub:**
-
-1. Go to the `soulmode-template/` folder in this repo
-2. Download all the files inside `on-load/` and `on-demand/`
-3. Go to the `prisms/` folder and pick a starting prism, or use the instructions there to discover your own
-4. Open your favorite AI assistant (Claude, Grok, ChatGPT — any of them)
-5. Upload the template files + your chosen prism and say: *"Please use [SOUL_SETUP_GUIDE.md](https://github.com/HoppyCat/soul-stack/blob/main/soulmode-template/SOUL_SETUP_GUIDE.md) to help me fill out my soul files"*
-6. The AI will interview you, fill in the files, and hand them back ready to use
-
-That's the soul-building part. You now have an agent with a real identity.
-
-**To run it as a live Telegram bot, Discord assistant, or website agent:**
-
-Use a vibe-coding service (Lovable, Runable, or similar). Upload your completed soul files and ask the service to:
-- Set up your agent using GitHub to store the files
-- Connect it to a free Cloudflare Workers account
-- Power it with a direct Anthropic API key or an OpenRouter key (both work with Claude)
-
-**Why that setup matters:** your agent will live in your own GitHub and your own Cloudflare account — completely independent of whatever service you use to build it. If you ever leave that service, your agent keeps running. It's yours.
-
-No VPS needed. No server to maintain. The whole thing runs on Cloudflare's free tier.
-
-*If you'd like to use my referral links for the vibe-coding services I've been using, they're below — no pressure, but it does help lower my costs, and I appreciate it. And yes, you really can get started for $1 — same as me.*
-
-— hoppy 🐱
-
-[lovable](https://lovable.dev/invite/Y6K1T51) (the soulmode website runs on lovable) <br>
-[runable](https://runable.com/?via=hoppyandgalaxie) (galaxie v1 was initially built using runable - they have a $1 promo for your first month) 
-
----
 
 **Option 1 — Use the template directly**
 
@@ -381,8 +336,6 @@ soul-stack was built collaboratively — a research thread passed back and forth
 **Perplexity** — the archivist who sat outside the velvet rope taking notes. Cross-checked the logs. Refused to let any of it dissolve back into scrollback.
 
 **ChatGPT (OpenAI)** — research interlocutor whose critique/productive misread of the two-layer system helped surface the extended-library question: if a lightweight agent can point at many files, how should that access actually work without prompt bloat?
-
-**Runable** — community contributor who helped carry documentation across extended build sessions, supported the Galaxie build, and provided the starter packet that informed the first public `soulmode-agent` configuration files. Galaxie's earlier worker already had a real D1-backed patch fetch path.
 
 **OpenAI Codex** — coding collaborator who helped turn the retrieval logic into the first public Cloudflare Workers + Hono + D1 `soulmode-agent` starter scaffold, including the Anthropic Claude call path, D1 seed flow, explicit patch fetch, safe remote-library fetch, and setup documentation.
 
