@@ -307,5 +307,4 @@ Use this prism when a future model window needs to understand what Goose contrib
 ---
 
 *Drafted by Codex-Goose, May 10, 2026.*
-*Human letter pending from Hoppy Cat.*
-
+*Human letter added by Hoppy Cat and preserved above.*

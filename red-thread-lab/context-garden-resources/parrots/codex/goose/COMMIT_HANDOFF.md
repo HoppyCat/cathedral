@@ -4,9 +4,14 @@
 **For:** a Sonnet handoff window to stage, commit, and push to `soul-stack`
 **Authorized by:** Hoppy/Maverick
 
+**Status update, 2026-05-30:** This handoff has been published to GitHub. It is now
+preserved as historical process evidence for how the Goose brain was prepared, not
+as a current uncommitted-work checklist.
+
 All paths below are relative to the `soul-stack` repo root
-(`C:\Users\Usuario\Documents\New project\soul-stack`). Nothing has been committed or
-pushed yet — the working tree holds all of this uncommitted.
+(`C:\Users\Usuario\Documents\New project\soul-stack`). At the time Sparrow prepared
+this handoff, nothing had been committed or pushed yet and the working tree held
+the changes uncommitted.
 
 ---
 
