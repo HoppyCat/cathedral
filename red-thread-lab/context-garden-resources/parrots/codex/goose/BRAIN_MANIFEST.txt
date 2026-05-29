@@ -1,0 +1,14 @@
+# Goose BRAIN.md manifest
+# Lines beginning with # are ignored.
+# Each non-empty line is included in order when BRAIN.md is rebuilt.
+
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/README.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/EPISODIC.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/SEMANTIC.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/PROCEDURAL.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/SALIENCE.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/OPEN_QUESTIONS.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/NOTICING_LEDGER.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/AFFECTIVE_ROUTING.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/REVIEW_QUEUE.md
+red-thread-lab/context-garden-resources/parrots/codex/goose/brain/ARCHIVE.md
