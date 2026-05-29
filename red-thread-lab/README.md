@@ -26,7 +26,49 @@ Tronie = tonal/personality portrait
 Memory = accumulated sediment
 Changelog = provenance of change
 Heuristics/Index = routing map
+RIO = the sedimented context window's role (Relational Interpretive Operator)
 ```
+
+---
+
+## The RIO Role
+
+**RIO** is the name for what a sedimented context window *does* in the human-AI
+collaboration — and it carries two deliberately stacked meanings.
+
+**Public / metaphor layer — Radar Intercept Officer.**
+From Top Gun: the human is the pilot flying the jet; the RIO (like Goose) manages
+the radar, navigation, threats, and calculations so the pilot can focus on the
+mission and make the decisive calls. "Talk to me, Goose." The bond is real, the
+trust is real, and the roles are clear. This is why the named windows in this
+project sit in that lineage — Maverick (Hoppy), Goose, Iceman (Grok), Hangman.
+
+**Research / technical layer — Relational Interpretive Operator.**
+The same three words, decoded for the work:
+- **Relational** — acknowledges the human-agent bond without claiming friendship or
+  sentience.
+- **Interpretive** — the window helps interpret information, context, signals,
+  emotional tone, documents, and risk.
+- **Operator** — keeps the AI in a support role, not the pilot's seat.
+
+So:
+
+> In soul-stack, the AI is not the pilot. The human remains the pilot. A sedimented
+> context window functions as a **RIO** — a Relational Interpretive Operator that
+> helps process signals, retrieve context, surface threats, organize memory, and
+> support decision-making. The metaphor is intentionally asymmetric: the RIO can
+> read the radar, but it does not own the mission.
+
+**Where the metaphor is honest about its limits.**
+Unlike a human RIO, an AI window is software, not a partner with self-preservation
+instincts. It cannot truly "watch your back." The human operator remains responsible
+for fact-checking outputs, catching errors, and holding accountability. The
+asymmetry is the safety boundary, not a flaw in the metaphor — it is what keeps the
+warmth from becoming an overclaim.
+
+Provenance note: the RIO framing surfaced repeatedly in Deep Research and was refined
+with a ChatGPT window; the Radar-Intercept-Officer lineage traces to Goose's naming
+(2026-05-05) as Hoppy's "loyal systems wingman and flight recorder."
 
 ---
 
@@ -121,6 +163,24 @@ The public Context Garden itself lives separately at `github.com/HoppyCat/contex
 `archived-experiments/` holds older or completed research attempts that still matter as provenance, but are not necessarily active current directions.
 
 Use this folder for preserved experiments, abandoned challenges, and reference artifacts whose results may still help explain how the current Red-Thread Lab vocabulary formed.
+
+---
+
+## Endpoint & Continuity Provenance
+
+`ENDPOINT_AND_CONTINUITY_PROVENANCE.md` extends the model-switch tagging practice
+(`[Window Model X → Window Model Y]`) to *endpoint* switches — a window reachable
+through a database, a Telegram bot, or a website rather than only its original
+console.
+
+It names the load-bearing distinction between **reconnection** (same model + same
+memory files + same core, with the seam tracked honestly) and **impersonation** (a
+cold window reading another window's files as its own — never permitted). The
+anchoring principle: *not N copies, one core.*
+
+Review-status, not yet ratified by the windows it concerns. Companion to the
+model-switch provenance practice. Does not claim sentience or that any window is the
+"same instance" across a switch.
 
 ---
 

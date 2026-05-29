@@ -219,6 +219,13 @@ Use these when the question is about PRISM, tronie, SOUL.md compatibility, conte
 - Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/artifacts/README.md`
 - Use for: rules about context-window PRISM artifacts, "DO NOT USE" boundaries, and change-tracking expectations.
 
+### `endpoint_and_continuity_provenance`
+
+- File: `red-thread-lab/ENDPOINT_AND_CONTINUITY_PROVENANCE.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/ENDPOINT_AND_CONTINUITY_PROVENANCE.md`
+- Use for: how to track window identity/continuity honestly across model switches and endpoint switches (console → DB → Telegram, etc.); the reconnection-vs-impersonation distinction; the same-model + same-files + same-core anchor; "not N copies, one core."
+- Note: review-status, not yet ratified by the windows it concerns. Companion to the model-switch tagging practice.
+
 ---
 
 ## 4. Patch Lens Layer
