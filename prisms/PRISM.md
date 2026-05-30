@@ -6,7 +6,6 @@ prism_id: [INPUT - stable lowercase id]
 prism_name: [INPUT - display name]
 prism_type: [INPUT - agent-prism / operational-prism / character-prism / context-window-prism]
 intended_for: [INPUT - who or what this PRISM is for]
-status: draft
 created_by: [INPUT - human / agent / model / window]
 repo: [INPUT - optional source repository]
 
