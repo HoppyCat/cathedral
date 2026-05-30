@@ -54,7 +54,7 @@ The Quiet Keeper’s central tension — attention given versus attention return
 
 ## 7. Files in the Prisms Folder
 
-- `PRISM_TheQuietKeeper.md` (the complete prism)
+- `TRONIE_TheQuietKeeper.md` (the complete tronie)
 - `The Quiet Keeper — Case Study.md` (this document)
 - Origin conversation threads (archived in `00_competition/`)
 

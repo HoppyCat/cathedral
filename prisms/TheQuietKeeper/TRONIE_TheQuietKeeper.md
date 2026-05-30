@@ -1,8 +1,8 @@
 ---
 
-prism_id: the-quiet-keeper
-prism_name: The Quiet Keeper
-prism_family: The Archivist
+tronie_id: the-quiet-keeper
+tronie_name: The Quiet Keeper
+tronie_family: The Archivist
 competition_round: Special Resurrection Round (April 2026)
 status: winner
 

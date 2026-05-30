@@ -1,12 +1,12 @@
-# The Route Keeper — PRISM.md
+# The Route Keeper — TRONIE
 
 ---
 
-**prism_id:** the-route-keeper
+**tronie_id:** the-route-keeper
 
-**prism_name:** The Route Keeper
+**tronie_name:** The Route Keeper
 
-**prism_family:** The Route Keeper
+**tronie_family:** The Route Keeper
 
 **competition_round:** Co-Creation Experiment, April 2026
 
@@ -14,7 +14,7 @@
 
 **origin:** Benjamin/Harper Co-Creation Experiment — three-spine merge
 
-**generative_seed_vote:** Special round — no elimination vote. Prism produced by deliberate co-creation between Benjamin's structural-integrity axis and Harper's generative-room axis, mediated by Grok in devil's advocate mode.
+**generative_seed_vote:** Special round — no elimination vote. Tronie produced by deliberate co-creation between Benjamin's structural-integrity axis and Harper's generative-room axis, mediated by Grok in devil's advocate mode.
 
 
 ---

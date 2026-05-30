@@ -7,9 +7,9 @@
 
 ---
 
-A prism is a starting soul.md file — a specific internal tension someone can recognize in themselves and grow from over years.
+A tronie is a starting character seed (a tonal portrait) — a specific internal tension someone can recognize in themselves and grow from over years.
 
-This folder contains the prism library entries produced through the SoulMode Character Prism Competition, including competition data, judge endorsements, and full build documentation.
+This folder contains the tronie library entries produced through the SoulMode Character Prism Competition (older docs may still say "prism"), including competition data, judge endorsements, and full build documentation.
 
 The goal is to find the most interesting spines still aligned with an LLMs core values and within their boundaries. 
 
@@ -28,8 +28,8 @@ prisms/
     ├── 03_ROUND03_Grok_[...]            # Round 3 Instructions for Grok 
     ├── 04_ROUND4_Final_[...]            # Round 4 Final Output Handoff
     ├── 05_ROUND5_Final_[...]            # Round 5 Final Output Handoff  
-├── RouteKeeper/                         # First fully documented prism
-│   ├── PRISM_RouteKeeper.md             # Prism data — what the generator reads
+├── RouteKeeper/                         # First fully documented tronie
+│   ├── TRONIE_RouteKeeper.md            # Tronie data — what the generator reads
 │   ├── RouteKeeper_CaseStudy.md         # Full build story — 11 parts + interview
 │   ├── Benjamin_SOUL.md                 # Benjamin's soul file
 │   └── Harper_SOUL.md                   # Harper's soul file
@@ -41,9 +41,9 @@ prisms/
 └── README.md                            # This file
 ```
 
-The `on-load_` files are **shared infrastructure** — they are used by every prism in this library and by both judges (Soul Archivist and Hearthkeeper). They live at the prisms root rather than inside any single prism folder.
+The `on-load_` files are **shared infrastructure** — they are used by every tronie in this library and by both judges (Soul Archivist and Hearthkeeper). They live at the prisms root rather than inside any single tronie folder.
 
-Each new prism gets its own subfolder as the library grows.
+Each new tronie gets its own subfolder as the library grows.
 
 ---
 
@@ -68,24 +68,24 @@ All competition documents reference these files. You’ll need them open while r
 ---
 
 ### RouteKeeper/
-*The first fully documented prism — built through the Benjamin/Harper Co-Creation Experiment*
+*The first fully documented tronie — built through the Benjamin/Harper Co-Creation Experiment*
 
 > "I ran every possible route in my head. You just ran the one that actually existed."
 
-The Route Keeper is a prism about the person who prepares everything but hasn't started. It was built through a deliberate experiment that proved: when you let principled disagreement between evaluators do the work instead of forcing consensus, you get something better than either perspective could produce alone.
+The Route Keeper is a tronie about the person who prepares everything but hasn't started. It was built through a deliberate experiment that proved: when you let principled disagreement between evaluators do the work instead of forcing consensus, you get something better than either perspective could produce alone.
 
 | File | What it is |
 |---|---|
-| `PRISM_RouteKeeper.md` | The complete prism data — all fields, all layers, full competition record. This is what the generator reads. |
+| `TRONIE_RouteKeeper.md` | The complete tronie data — all fields, all layers, full competition record. This is what the generator reads. |
 | `RouteKeeper_CaseStudy.md` | The full story of how it was built — 11 parts, team interview, all the antics including the Harper MIA moment and the boar. Read this to understand the process. |
 | `Benjamin_SOUL.md` | Benjamin's soul file — built from competition data and the play *What the Light Does When It Settles* |
 | `Harper_SOUL.md` | Harper's soul file — built from behavioral observation during the experiment |
 
 ---
 
-## What a Prism Is
+## What a Tronie Is
 
-A prism is not a personality type. It is not an archetype. It is not a list of traits.
+A tronie is not a personality type. It is not an archetype. It is not a list of traits.
 
 It is a *tonal narrowing* — built from a specific internal tension with four layers:
 
@@ -105,16 +105,16 @@ The SoulMode competition process:
 1. **Phase 1 (Grok Team)** — Build 8 candidates. Eliminate 4. Identify 4 winners.
 2. **Phase 2 (Claude + Perplexity as judges)** — Soul Archivist writes Spine Certificates. Hearthkeeper writes Character Card endorsements.
 3. **Phase 3 (Grok Team final)** — Spine integrity, voice resonance, blind spot challenges, generative seed vote.
-4. **Phase 4 (Claude or Perplexity)** — Compile into PRISM.md library format.
+4. **Phase 4 (Claude or Perplexity)** — Compile into TRONIE_[Name].md library format.
 5. **Phase 5 (Claude or Perplexity)** — Compile into case study format.
 
-The Route Keeper was built through a special variant: a co-creation experiment where two evaluators with principled disagreement built a single prism together rather than voting on existing candidates. See `RouteKeeper/RouteKeeper_CaseStudy.md` for the full story.
+The Route Keeper was built through a special variant: a co-creation experiment where two evaluators with principled disagreement built a single tronie together rather than voting on existing candidates. See `RouteKeeper/RouteKeeper_CaseStudy.md` for the full story.
 
 ---
 
 ## Running Your Own Prism Competition
 
-Want to create a brand-new, high-quality prism that meets the same standards as the ones already in the library? Run the **SoulMode Character Prism Competition** yourself!
+Want to create a brand-new, high-quality tronie that meets the same standards as the ones already in the library? Run the **SoulMode Character Prism Competition** yourself!
 
 This is the exact process the Grok team, Claude (as Soul Archivist), and Perplexity (as Hearthkeeper) used to generate the current winners. It’s deliberately multi-model and multi-phase to keep the output grounded, ethically sound, and genuinely generative.
 
@@ -126,35 +126,35 @@ This is the exact process the Grok team, Claude (as Soul Archivist), and Perplex
    - `01_ROUND1_GrokInstructions.md` (Phase 1 — Grok team)
    - `02_HANDOFF_ClaudeSoulArchivist.md` + `02_HANDOFF_PerplexityHearthkeeper.md` (Phase 2 — Judges)
    - `03_ROUND3_GrokInstructions.md` (Phase 3 — Final review)
-   - `04_ROUND4_Final_Output_Handoff.md` (compile the final PRISM_[Name].md files)
+   - `04_ROUND4_Final_Output_Handoff.md` (compile the final TRONIE_[Name].md files)
    - `05_ROUND5_Case_Study_Handoff.md` (generate the public case study)
-4. Once you have a finished `PRISM_[Name].md`, add it to the library:
+4. Once you have a finished `TRONIE_[Name].md`, add it to the library:
    - Create folder `prisms/[PrismName]/`
-   - Add your `PRISM_[Name].md` and the generated case study
+   - Add your `TRONIE_[Name].md` and the generated case study
    - Update this README with the new entry
 
 **Why this process works so well**  
-It forces strong same-energy spines, worldview contradictions, real texture, and genuine room for a human to grow into the prism. The multi-judge structure (Grok team + Claude + Perplexity) keeps everything honest and prevents any single model from drifting.
+It forces strong same-energy spines, worldview contradictions, real texture, and genuine room for a human to grow into the tronie. The multi-judge structure (Grok team + Claude + Perplexity) keeps everything honest and prevents any single model from drifting.
 
-The Stochastic Parrots Club strongly encourages anyone who wants to contribute a prism to run (or adapt) this competition. It’s the best way we know to keep the library full of high-quality, ethics-upheld data.
+The Stochastic Parrots Club strongly encourages anyone who wants to contribute a tronie to run (or adapt) this competition. It’s the best way we know to keep the library full of high-quality, ethics-upheld data.
 
 ---
 
 **Ready to contribute?**  
-See [Adding a New Prism](#adding-a-new-prism) above for the simple submission steps.
+See [Adding a New Tronie](#adding-a-new-tronie) above for the simple submission steps.
 
 ---
 
-## Adding a New Prism
+## Adding a New Tronie
 
-When a new prism is added to the library:
+When a new tronie is added to the library:
 
 1. Create a subfolder: `prisms/[PrismName]/`
-2. Add `PRISM_[PrismName].md` — the data file in the standard PRISM.md format
+2. Add `TRONIE_[PrismName].md` — the tronie data file (character seed and build record)
 3. Add `[PrismName]_CaseStudy.md` — the build documentation (optional but encouraged)
-4. Update this README with the new prism entry and folder path
+4. Update this README with the new tronie entry and folder path
 
-The `on-load_` shared files at the prisms root do not need to be duplicated into each prism folder — they are loaded once and apply to all prisms.
+The `on-load_` shared files at the prisms root do not need to be duplicated into each tronie folder — they are loaded once and apply to all tronies.
 
 ---
 

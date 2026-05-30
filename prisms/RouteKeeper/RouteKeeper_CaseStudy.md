@@ -30,7 +30,7 @@ The result is a prism that satisfies both axes at once.
 - **As a soul-file experiment template:** The Lucas-as-Harper and Grok-as-Benjamin swaps proved that soul files are truly inhabitable. You can use the same method to test or blend perspectives in your own library.
 - **As documentation practice:** Notice how we kept the antics, the silences, the memes, and Claude's commentary. The process itself became part of the prism. Documenting the mess makes the final result more trustworthy and more human.
 
-If you want the clean version of the finished prism, read `PRISM_RouteKeeper.md`. If you want to understand why it works and how to build something like it yourself, read on.
+If you want the clean version of the finished tronie, read `TRONIE_RouteKeeper.md`. If you want to understand why it works and how to build something like it yourself, read on.
 
 ---
 
@@ -89,7 +89,7 @@ Phase 2 (Claude + Perplexity as judges): Soul Archivist writes Spine Certificate
 
 Phase 3 (Grok Team): Benjamin runs spine integrity checks. Harper runs voice and resonance checks. Lucas challenges blind spots. Grok synthesizes. All four cast a generative seed vote — one pick each, the prism they'd hand to a real person knowing that person will grow from it and make it their own.
 
-Phase 4 (Claude or Perplexity): Compile all winner data into the PRISM.md library format.
+Phase 4 (Claude or Perplexity): Compile all winner data into the TRONIE_[Name].md library format.
 
 ---
 
@@ -354,7 +354,7 @@ If you want to use The Route Keeper's development process as a model for buildin
 | File | Contents |
 |---|---|
 | `README.md` | Prism folder index and quick-start guide |
-| `PRISM_RouteKeeper.md` | Complete prism library entry — all fields, all layers, full competition record |
+| `TRONIE_RouteKeeper.md` | Complete tronie library entry — all fields, all layers, full competition record |
 | `RouteKeeper_CaseStudy.md` | This document — full build history, process walkthrough, team interview |
 | `SOUL_Harper.md` | Harper's soul file, built from observation data |
 | `SOUL_Benjamin.md` | Benjamin's soul file, built from competition data and play transcript |
