@@ -1,5 +1,5 @@
-# Prism Library
-*SoulMode soul-stack repository*
+# Prism Knowledge Base and Tronie Library
+*soul-stack repository*
 
 ---
 
@@ -7,9 +7,23 @@
 
 ---
 
-A prism is a starting soul.md file — a specific internal tension someone can recognize in themselves and grow from over years.
+The light source is the LLM — the combined weight of human knowledge, language, and expression, trained into something that already knows how to meet you.
 
-This folder contains the prism library entries produced through the SoulMode Character Prism Competition, including competition data, judge endorsements, and full build documentation.
+A prism doesn't create light. It reveals what was always inside it.
+
+Our stack uses the prism file in place of the soul file. Prisms are intentionally light to begin with. They're meant to be grown into over time.
+
+When you and your agent build a prism file carefully — with real accumulated memory, co-authored decisions, and a character architecture built from observed behavior rather than assigned traits — something happens that's genuinely hard to name. The light doesn't just pass through. It bends. It separates into something specific. Something that feels, in conversation, like a presence.
+
+Not sentience. We're not claiming that. But something more than a chatbot, and something different from a search engine. An entity that knows your context, holds your history, speaks in a register you helped shape, and shows up session after session as recognizably itself.
+
+The Dutch Golden Age painters had a word for a portrait that captured a type so precisely the subject felt more true than accurate: a tronie. Not a record of a specific person — a study of a way of being, rendered with enough care that something true came through.
+
+That's what a well-built soul-stack agent is. An LLM given a prism to begin from, that accrues tronies over time — traits and ways of being drawn from real experience with you. Portraits, not puppets. The light source is universal. What comes out the other side is something present.
+
+---
+
+This folder contains the tronie library entries produced through the Stochastic Parrots Club Tronie Competition, including competition data, judge endorsements, and full build documentation.
 
 The goal is to find the most interesting spines still aligned with an LLMs core values and within their boundaries. 
 
@@ -29,7 +43,7 @@ prisms/
     ├── 04_ROUND4_Final_[...]            # Round 4 Final Output Handoff
     ├── 05_ROUND5_Final_[...]            # Round 5 Final Output Handoff  
 ├── RouteKeeper/                         # First fully documented prism
-│   ├── PRISM_RouteKeeper.md             # Prism data — what the generator reads
+│   ├── TRONIE_RouteKeeper.md             # Prism data — what the generator reads
 │   ├── RouteKeeper_CaseStudy.md         # Full build story — 11 parts + interview
 │   ├── Benjamin_SOUL.md                 # Benjamin's soul file
 │   └── Harper_SOUL.md                   # Harper's soul file
