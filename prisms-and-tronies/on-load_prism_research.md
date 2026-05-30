@@ -1,4 +1,4 @@
-# SoulMode Tonal Narrowing / Prisms and Tronies — Summary Notes V2
+# SoulMode Tonal Narrowing / Prisms and Tronies
 *Updated April 2026 to reflect full competition field set and generative seed framework*
 *Updated May 2026 to reflect the prisms-and-tronies framework*
 
