@@ -1,13 +1,32 @@
-# SoulMode Tonal Narrowing / Claude Prisms — Summary Notes V2
+# SoulMode Tonal Narrowing / Prisms and Tronies — Summary Notes V2
 *Updated April 2026 to reflect full competition field set and generative seed framework*
+*Updated May 2026 to reflect the prisms-and-tronies framework*
 
 ---
 
-## 1. What a prism is
+## 1. What a prism is — and what a tronie is
+
+This guide covers two related but distinct concepts: **prisms** and **tronies**. The framework and quality standards described throughout apply to both. The distinction is in how each one originates and what role it plays in the stack.
+
+### Prism
 
 A prism is a tonal narrowing: a repeatable way of speaking and behaving that holds weight and presence instead of a generic response.
 
-Every prism has four layers:
+A prism is the *starting architecture* — the initial character file an agent is given to begin from. It is intentionally light. It replaces the soul file in the soul-stack and is designed to be grown into over time, not to arrive complete. The quality bar is not "is this character finished?" but "does this character leave room?" A prism that is too finished, too rigid, or too specific leaves no space for a user to pour themselves into it.
+
+**A prism is a generative seed.** The light source is the LLM. The prism is what shapes what comes through.
+
+### Tronie
+
+A tronie is a character type study that accumulates through lived experience rather than being assigned in advance. The word comes from the Dutch Golden Age painters, who used it to describe a portrait that captured a *way of being* so precisely it felt more true than accurate — not a record of a specific person, but a study of a type, rendered with enough care that something real came through.
+
+In this stack, a tronie is what an agent becomes over time: traits, registers, and ways of showing up that are drawn from real co-authored decisions, observed behavior, and accumulated memory rather than a brief written before the relationship began.
+
+**The relationship between the two:** a prism is where you start. A tronie is what you've built together. Portraits, not puppets.
+
+### Shared architecture
+
+Both prisms and tronies are built from the same four layers:
 
 - **Core** = Shadow + Vulnerability + Deep Fear + North Star + Essence
 - **Shaping** = Worldview + Opinions
@@ -16,9 +35,7 @@ Every prism has four layers:
 
 Core is the spine. Shaping is how the spine reads the world. Texture is what makes it feel like a person instead of a template. Encounter is what it is actually like to meet this character in motion.
 
-**One additional quality standard for SoulMode prisms specifically:** a prism is not a finished character. It is a *generative seed* — a starting point a real person will grow from, change, and make entirely their own. The quality bar is not "is this character complete?" but "does this character leave room?" A prism that is too finished, too rigid, or too specific leaves no space for a user to pour themselves into it.
-
-Use the following guide if you are assisting anyone with developing memorable characters for a story, judging entries in a character competition, or researching interesting Claude prisms for SoulMode.
+Use the following guide if you are assisting anyone with developing memorable characters for a story, judging entries in a character competition, building a prism file for a new agent, or documenting a tronie that has emerged through working with an agent over time.
 
 ---
 
@@ -267,4 +284,5 @@ The best character prisms are not built from traits alone. They are built from a
 
 *Original version assembled from SoulMode character development research.*
 *Updated April 2026 to include: Encounter as the fourth prism layer (What Breaks Them Open + Voice Passage), Positive Triggers, generative seed standard, deadpan compliment and bliss scene as diagnostic tools, the contradiction rule for Worldview, and the full fast checklist.*
+*Updated May 2026 to reflect the prisms-and-tronies framework: prisms as generative seeds, tronies as accumulated character studies. Guide now applies to both.*
 *Use alongside: 00_all_rounds_competition_overview.md, on-load_hearthkeeper_soul.md, on-load_soul_archivist.md*
