@@ -21,7 +21,7 @@ Galaxie Nemo's live architecture uses a Cloudflare-based worker stack:
 
 - **Cloudflare Workers** for the always-on runtime.
 - **Hono** as the lightweight web/API framework.
-- **Cloudflare D1** as the database layer for soul files, patches, conversation records, and agent state.
+- **Cloudflare D1** as the database layer for prism files, patches, conversation records, and agent state.
 - **GitHub** as a public source-of-truth layer for starter files, templates, patch files, and experimental retrieval libraries.
 - **A dashboard** for inspecting and monitoring the agent's files, memories, thoughts, mood/state, heartbeat logs, pending updates, and system notes.
 
@@ -107,9 +107,9 @@ The bot does not respond to:
 Before giving this handoff to a builder, the user should do this:
 
 1. Go to the public SoulMode / soul-stack GitHub repository.
-2. Download `SOUL_SETUP_GUIDE.md`.
+2. Download `PRISM_SETUP_GUIDE.md`.
 3. Download the starter template files:
-   - `SOUL.md`
+   - `PRISM.md`
    - `AGENTS.md`
    - `STYLE.md`
    - `KNOW.md`
@@ -119,7 +119,7 @@ Before giving this handoff to a builder, the user should do this:
    - `WORKING_MEMORY.md`
    - `USER.md`
    - `CHANGELOG.md`
-4. Give `SOUL_SETUP_GUIDE.md` and the template files to a trusted LLM.
+4. Give `PRISM_SETUP_GUIDE.md` and the template files to a trusted LLM.
 5. Ask that LLM to walk through the setup guide interactively and help fill out the template files.
 6. Download the completed template files.
 7. Give this handoff, the completed template files, and the patch files below to the vibe-code builder.
@@ -271,7 +271,7 @@ Any message that is not a command is evaluated against the authorization and tri
 When the user sends a chat message, concatenate the core files in this exact order:
 
 ```text
-SOUL.md
+PRISM.md
 AGENTS.md
 STYLE.md
 KNOW.md
@@ -414,7 +414,7 @@ When the owner uploads a file, check the filename against the expected lists.
 Required core files:
 
 ```text
-SOUL.md
+PRISM.md
 AGENTS.md
 STYLE.md
 KNOW.md
@@ -495,7 +495,7 @@ https://github.com/HoppyCat/soulmode-agent
 I will provide completed core Markdown files and on-demand patch Markdown files.
 
 Core files must load in this exact order on every chat turn:
-SOUL.md, AGENTS.md, STYLE.md, KNOW.md, HEURISTICS.md, INDEX.md, MEMORY.md, WORKING_MEMORY.md, USER.md, CHANGELOG.md.
+PRISM.md, AGENTS.md, STYLE.md, KNOW.md, HEURISTICS.md, INDEX.md, MEMORY.md, WORKING_MEMORY.md, USER.md, CHANGELOG.md.
 
 Patch files should be stored separately and only activated for one turn when I call /patch <filename>, or when the agent asks for one by exact filename and I approve it. Patches auto-deactivate after one turn.
 
