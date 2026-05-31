@@ -3,11 +3,17 @@
 ---
 
 tronie_id: [INPUT - stable lowercase id]
+
 tronie_name: [INPUT - display name]
+
 tronie_family: [INPUT - e.g. Witness, Courtier, Hearthkeeper, Architect, Trickster]
+
 tronie_type: [INPUT - starting impression / roleplay only / fiction-only / operational lens / adopted prism]
+
 source: [INPUT - human / agent / template / story-world / conversation link / file path]
+
 status: [INPUT - proposed / exploring / adopted / rejected / archived]
+
 last_reviewed: [INPUT - YYYY-MM-DD]
 
 ---
