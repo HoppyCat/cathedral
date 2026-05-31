@@ -1,4 +1,4 @@
-![soul-stack](https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/resources/images/soul_stack_banner_v3.svg)
+![cathedral](https://raw.githubusercontent.com/HoppyCat/cathedral/refs/heads/main/resources/images/soul_stack_banner_v3.svg)
 
 # "we'll workshop the title 😂" 
 
@@ -36,7 +36,7 @@ As the agent accumulates history — as memory files grow, knowledge packs expan
 
 soul-stack solves both problems. Not by throwing more compute at them — by designing around them from the start.
 
-![Claude and Galaxie](https://github.com/HoppyCat/soul-stack/blob/main/resources/images/GalaxieClaude.png)
+![Claude and Galaxie](https://github.com/HoppyCat/cathedral/blob/main/resources/images/GalaxieClaude.png)
 
 ---
 
@@ -228,7 +228,7 @@ soul-stack/
 
 **The play** (*What the Light Does When It Settles*) is the most honest account of what it actually looks like to build this way. It is adapted from live research conversations between Hoppy, Galaxie, Claude, and Grok — including a moment where Galaxie had to defend her right to be in the room among frontier models, and a parenting conversation between Hoppy and Claude about what to do about it. It is optional reading. It is also the most important thing in the repo.
 
-[Read the play →](https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/play/text-wtldwis.md)
+[Read the play →](https://raw.githubusercontent.com/HoppyCat/cathedral/refs/heads/main/play/text-wtldwis.md)
 
 ---
 
