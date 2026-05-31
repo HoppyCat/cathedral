@@ -12,7 +12,7 @@ This guide covers two related but distinct concepts: **prisms** and **tronies**.
 
 A prism is a tonal narrowing: a repeatable way of speaking and behaving that holds weight and presence instead of a generic response.
 
-A prism is the *starting architecture* — the initial character file an agent is given to begin from. It is intentionally light. It replaces the soul file in the soul-stack and is designed to be grown into over time, not to arrive complete. The quality bar is not "is this character finished?" but "does this character leave room?" A prism that is too finished, too rigid, or too specific leaves no space for a user to pour themselves into it.
+A prism is the *starting architecture* — the initial character file an agent is given to begin from. It is intentionally light. It replaces the soul file and is designed to be grown into over time, not to arrive complete. The quality bar is not "is this character finished?" but "does this character leave room?" A prism that is too finished, too rigid, or too specific leaves no space for a user to pour themselves into it.
 
 **A prism is a generative seed.** The light source is the LLM. The prism is what shapes what comes through.
 
