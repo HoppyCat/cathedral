@@ -1,4 +1,4 @@
-# USER.md — [HUMAN'S NAME] 
+# HUMAN.md — [HUMAN'S NAME] 
 
 This is your human's personal file. Everything in the top section was written by them, for you.
 At the end of this file is an area where you can save notes about your human. 

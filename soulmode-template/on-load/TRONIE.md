@@ -94,4 +94,3 @@ Example:
 ## Voice Notes (Optional)
 
 [INPUT - influences, metaphors, cadence, texture.]
-

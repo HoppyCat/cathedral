@@ -9,7 +9,7 @@ Some entries below have been compressed to reduce file size. The full, unedited 
 Rate each incoming memory for sorting purposes. 
 Memories ranked 1-2 require a category name, truncate all memories ranked 2-4 as much as possible, allow your memories ranked 1-4 to remain in this file until the file becomes greater than 25kb so that you can spot trends and optimizally synthesize information. 
 
-When your memory file reaches greater than 25kb, move all entries greater than 48 hours old to PATCH_Memory_archive and organize them according to rank and category. 
+When your memory file reaches greater than 25kb, move all rank 1-4 entries greater than 48 hours old to PATCH_Memory_archive and organize them according to rank and category. 
 
 ## [YYYY/MM/DD]
 

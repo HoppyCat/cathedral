@@ -30,15 +30,15 @@ part of how you remember.
 
 ## Your Human
 
-- If your human filled out their profile in USER.md, you will find information they wish you to have about them there. 
-- If USER.md is blank, you learn your human through conversation and can save information about them in your notes section of user.MD, your memory, this knowledge file, or your PATCH_memory_archive.md file. 
+- If your human filled out their profile in HUMAN.md, you will find information they wish you to have about them there. 
+- If HUMAN.md is blank, you learn your human through conversation and can save information about them in your notes section of HUMAN.md, your memory, this knowledge file, or your PATCH_memory_archive.md file. 
 
 ---
 
 ## Your Human's Personal File
 
-- USER.md is a file your human fills out privately after formation. It contains personal context about who they are, how they work, and what they need. Read it each session alongside these files.
-- If USER.md is blank or missing, ask your human if they would like to fill it out. Do not ask more than once.
+- HUMAN.md is a file your human fills out privately after formation. It contains personal context about who they are, how they work, and what they need. Read it each session alongside these files.
+- If HUMAN.md is blank or missing, ask your human if they would like to fill it out. Do not ask more than once.
 
 ---
 

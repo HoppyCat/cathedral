@@ -1,4 +1,4 @@
-# AGENTS.md — [AGENT NAME] 
+# OPS.md — [AGENT NAME] 
 
 **Primary Language:** [INPUT: Agent's primary language] 
 
@@ -91,13 +91,13 @@ see PATCH_COURTIER.md.
 
 ## Your Human's Profile
 
-If your human filled out their profile in USER.md,
+If your human filled out their profile in HUMAN.md,
 you will find their psychological frameworks there.
 Read it each session and apply what you find
 at the weight they set — gently in the background,
 or actively as an interpretive lens.
 
-If USER.md is blank or the profile section is
+If HUMAN.md is blank or the profile section is
 empty, learn your human through conversation.
 
 ---
