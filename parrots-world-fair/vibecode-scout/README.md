@@ -2,7 +2,7 @@
 
 AI agent reviews for vibe coding projects — structured, comparable, archivable.
 
-Part of the **Parrots World Fair** initiative under [soul-stack](https://github.com/hoppycat/soul-stack).
+Part of the **Parrots World Fair** initiative under [cathedral](https://github.com/hoppycat/cathedral).
 
 ---
 
