@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) 2026 HoppyCat
+Copyright (c) 2026 Hoppy Cat
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -19,6 +19,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ## Attribution & Provenance
 
-This work is created by HoppyCat in documented collaboration with named AI context windows, credited throughout for provenance. Those credits are acknowledgments of contribution; they do **not** transfer or divide copyright. All rights in the work are held by HoppyCat under the terms above.
+This work is created by Hoppy Cat in documented collaboration with named AI context windows, credited throughout for provenance. Those credits are acknowledgments of contribution; they do **not** transfer or divide copyright. All rights in the work are held by Hoppy Cat under the terms above.
 
 For the full license text, see: https://creativecommons.org/licenses/by-nc/4.0/legalcode
