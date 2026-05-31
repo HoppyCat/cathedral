@@ -2,11 +2,11 @@
 
 ## Purpose
 
-This handoff is for a user who has completed the SoulMode template files with the help of an LLM and now wants a vibe-code builder to turn those files into a lightweight agent app.
+This handoff is for a user who has completed the Prism template files with the help of an LLM and now wants a vibe-code builder to turn those files into a lightweight agent app.
 
-Do not build a generic chatbot. Build a small, owner-controlled agent interface that lets a user maintain an ordered SoulMode file stack, run an agent against those files, and optionally activate patch files only when needed.
+Do not build a generic chatbot. Build a small, owner-controlled agent interface that lets a user maintain an ordered Prism file stack, run an agent against those files, and optionally activate patch files only when needed.
 
-This document is written so a builder can create a new app from the SoulMode logic without touching the `soulmode-agent` codebase. If the user wants the more advanced reference implementation later, they should use the public `soulmode-agent` repository directly.
+This document is written so a builder can create a new app from the Prism logic without touching the `soulmode-agent` codebase. If the user wants the more advanced reference implementation later, they should use the public `soulmode-agent` repository directly.
 
 The builder does not need to know the full research history behind SoulMode. The essential idea is:
 
@@ -74,7 +74,7 @@ That repo is the better starting point for:
 If the user or builder benefits from the SoulMode repositories, please consider starring the public repos so the project is easier for others to find:
 
 ```text
-https://github.com/HoppyCat/soul-stack
+https://github.com/HoppyCat/cathedral
 https://github.com/HoppyCat/soulmode-agent
 ```
 
@@ -525,6 +525,6 @@ Do not silently rewrite, summarize, or replace my Markdown files. If a file is m
 The goal is not a generic chatbot. The goal is a Telegram bot that lets an agent reconstruct continuity from a user-owned Markdown file stack.
 
 If this build uses or benefits from the SoulMode public repositories, please keep the attribution visible and consider starring:
-https://github.com/HoppyCat/soul-stack
+https://github.com/HoppyCat/cathedral
 https://github.com/HoppyCat/soulmode-agent
 ```
