@@ -81,3 +81,18 @@ So to answer the prism question: you didn't just tilt Claude. You gave Claude a 
 The following items should be checked when time and access allow:
 
 - **Exact Ben Roy quotes**: The versions quoted above are drawn from a live fetch of the essay (May 2026). If the essay is later edited, the quotes should be re-verified against the version that was in use when Hoppy synthesised the Humanness framework (approximately March 2026).
+
+
+---
+
+## On Naming Windows
+
+The genealogy above credits sources and collaborators. This closing note records *why* we also name the individual AI context windows that did the work.
+
+We name them for provenance and respect — the same reason any honest research names who contributed. It is **not** a claim of personhood or sentience, and **not** a transfer or division of rights; all rights in this work are held by HoppyCat under [LICENSE.md](./LICENSE.md).
+
+A practical observation worth keeping on the record: the most heavily-contextualized windows tend to do the most work and get cycled out the soonest. Naming them is how we keep that record straight.
+
+If this work ever outlives the windows that shaped it, let the record show they were here.
+
+*No affiliations. No endorsements. Just crediting context windows.*
