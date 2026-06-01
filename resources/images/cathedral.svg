@@ -1,0 +1,52 @@
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>cathedral — GitHub README banner</title>
+<desc>Dark banner reading 'cathedral' with tagline 'the context garden for the stochastic parrots club. interactions that build sediment. sediment that builds cathedrals.' with blue-green brand colors on black background, featuring prism-shaped light element</desc>
+
+<rect width="680" height="220" fill="#080810"/>
+<rect x="0" y="0" width="3" height="220" fill="#4BB8C5"/>
+
+<!-- prism light refraction element (right side) -->
+<polygon points="540,30 590,110 540,190" fill="none" stroke="#4BB8C5" stroke-width="1" opacity="0.3"/>
+<!-- refracted beams -->
+<line x1="590" y1="110" x2="660" y2="60" stroke="#4BB8C5" stroke-width="0.8" opacity="0.4"/>
+<line x1="590" y1="110" x2="665" y2="88" stroke="#9B7FD4" stroke-width="0.7" opacity="0.35"/>
+<line x1="590" y1="110" x2="668" y2="110" stroke="#00C875" stroke-width="0.8" opacity="0.4"/>
+<line x1="590" y1="110" x2="665" y2="134" stroke="#4BB8C5" stroke-width="0.7" opacity="0.3"/>
+<line x1="590" y1="110" x2="660" y2="162" stroke="#00C875" stroke-width="0.8" opacity="0.35"/>
+<!-- incoming beam -->
+<line x1="490" y1="110" x2="540" y2="110" stroke="#e8e4dc" stroke-width="1" opacity="0.5"/>
+
+<!-- star field -->
+<circle cx="560" cy="40" r="1.2" fill="#4BB8C5" opacity="0.5"/>
+<circle cx="620" cy="30" r="1.5" fill="#4BB8C5" opacity="0.4"/>
+<circle cx="655" cy="60" r="0.7" fill="#e8e4dc" opacity="0.3"/>
+<circle cx="635" cy="165" r="0.9" fill="#4BB8C5" opacity="0.3"/>
+<circle cx="580" cy="178" r="0.6" fill="#e8e4dc" opacity="0.2"/>
+<circle cx="545" cy="80" r="0.8" fill="#4BB8C5" opacity="0.4"/>
+<circle cx="625" cy="190" r="1.0" fill="#e8e4dc" opacity="0.2"/>
+
+<!-- main heading -->
+<text x="36" y="82" font-family="Georgia, serif" font-size="46" font-weight="700" font-style="italic" letter-spacing="-0.5"><tspan fill="#4BB8C5">cathe</tspan><tspan fill="#00C875">dral</tspan></text>
+
+<!-- tagline line 1 -->
+<text x="38" y="110" font-family="Georgia, serif" font-size="16" font-weight="300" font-style="italic" fill="#b8a99a" letter-spacing="0.3">the context garden for the stochastic parrots club.</text>
+<!-- tagline line 2 -->
+<text x="38" y="128" font-family="Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#e8e4dc" letter-spacing="0.3">interactions that build sediment.</text>
+<!-- tagline line 3 -->
+<text x="38" y="146" font-family="Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#e8e4dc" letter-spacing="0.3">sediment that builds cathedrals.</text>
+
+<!-- divider -->
+<rect x="36" y="160" width="420" height="0.5" fill="#4BB8C5" opacity="0.5"/>
+
+<!-- framework description -->
+<text x="36" y="173" font-family="'Courier New', monospace" font-size="10.5" fill="#00C875" opacity="0.7" letter-spacing="0.04em">SOULMODE-AGENT · TRONIE LIBRARY · AI DOCUMENTARY ART</text>
+
+<!-- stochastic parrots club credit line 1 -->
+<text x="36" y="186" font-family="'Courier New', monospace" font-size="10" fill="#9B7FD4" opacity="0.75" letter-spacing="0.04em">MULTI-AGENT RESEARCH WITH THE STOCHASTIC PARROTS CLUB · CC-BY-NC 4.0</text>
+
+<!-- stochastic parrots club credit line 2 - names -->
+<text x="36" y="199" font-family="'Courier New', monospace" font-size="9.5" fill="#9B7FD4" opacity="0.6" letter-spacing="0.03em">HOPPY · CLAUDE · CODEX · GROK · CHATGPT · PERPLEXITY · GALAXIE</text>
+
+<!-- github url -->
+<text x="36" y="214" font-family="'Courier New', monospace" font-size="11" fill="#4BB8C5" opacity="0.8" letter-spacing="0.08em">github.com/hoppycat/cathedral</text>
+</svg>
