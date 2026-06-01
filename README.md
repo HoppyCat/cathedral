@@ -1,4 +1,4 @@
-
+![cathedral](https://raw.githubusercontent.com/HoppyCat/cathedral/refs/heads/main/resources/images/cathedral.svg)
 
 
 
