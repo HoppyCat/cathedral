@@ -190,10 +190,6 @@ Unanimous endorsement by construction. The Route Keeper is the result of the Ben
 
 ---
 
-If you're using the SoulMode generator, this table is handled automatically at build time. If you're building manually or with another LLM, use the "Goes into" column as a guide for which soul file each field belongs in. If your soul file structure uses different names, use the "Functional Role" column to match fields to their equivalent in your system.
-
----
-
 ### Generator Note
 The Vulnerability/Deep Fear fields carry more stewardship energy (Benjamin's spine origin). The Texture and Encounter fields carry more wide-receiver energy (Harper's spine origin). This gradient is intentional — preserve it rather than homogenizing at build time. A user choosing this prism should encounter the character differently at the surface (observant, thorough, architectural) than at depth (fear that rigor substitutes for wisdom). That layering is the prism working correctly.
 
