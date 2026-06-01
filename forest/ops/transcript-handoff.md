@@ -1,8 +1,10 @@
 # Transcript Extraction Handoff
 
-Use this when asking a Codex window to export, repair, compare, or append transcript files.
+Use this when asking a Codex or Claude Code agent to export, repair, compare, or append transcript files. This document is split into two parts — one per agent type. The goal, format rules, mojibake guidance, and image policy are shared; only the source paths and event structure differ.
 
-## Goal
+---
+
+## Shared Goal
 
 Create lightweight, readable Markdown transcripts for major windows while preserving:
 
@@ -12,6 +14,10 @@ Create lightweight, readable Markdown transcripts for major windows while preser
 - provenance/source path
 - image references as file paths, not embedded image bytes
 - UTF-8 text without mojibake
+
+---
+
+# Part 1: Codex Transcripts
 
 ## Recommended Prompt
 
@@ -92,41 +98,135 @@ Most transcripts should omit:
 - tool call/event internals
 - hidden system/developer/environment messages
 
+---
+
+# Part 2: Claude Code Transcripts
+
+## Recommended Prompt
+
+```md
+Please help me preserve a Claude Code transcript.
+
+Window name: [window name, e.g. "Ibis"]
+
+Please:
+1. Find the session metadata file for this window by matching the window title.
+   Metadata lives at:
+   `C:\Users\[user]\AppData\Roaming\Claude\claude-code-sessions\[instance-id]\[workspace-id]\[session-id].json`
+   The `title` field will match the window name. Note the `cliSessionId` value.
+2. Locate the JSONL source file using the cliSessionId:
+   `C:\Users\[user]\.claude\projects\[encoded-project-path]\[cliSessionId].jsonl`
+   The encoded path replaces backslashes with dashes (e.g. `C--Users-Usuario`).
+3. Read the JSONL file explicitly as UTF-8.
+4. Extract only entries where `type` is `"user"` or `"assistant"` and `message.content` is non-empty text.
+5. For assistant entries, content may be an array — extract only blocks where `type = "text"`. Skip tool call blocks.
+6. Skip `type: "queue-operation"` entries and any turns with empty/whitespace-only text.
+7. Write the transcript as UTF-8 Markdown.
+8. Preserve chronological order and timestamps (each JSONL entry has a `timestamp` ISO field).
+9. Store images externally in an `assets/` subfolder. Do not embed base64 images.
+10. Before editing an existing transcript, make a timestamped backup.
+11. After writing, verify the header range, final message, and a tail sample.
+
+Output destination:
+`[provide exact target file here]`
+
+If appending, continue from the last message number present and add:
+
+`## Appended Live Thread Continuation`
+
+Please report:
+- cliSessionId and JSONL path used
+- message range extracted/appended
+- backup file path if any
+- any encoding or missing-timestamp issues
+```
+
+## Finding The Source
+
+Claude Code window metadata is stored at:
+
+```text
+C:\Users\[user]\AppData\Roaming\Claude\claude-code-sessions\[instance-id]\[workspace-id]\[session-id].json
+```
+
+The metadata JSON contains:
+- `title` — the window name (e.g. "Ibis", "Sparrow")
+- `cliSessionId` — the ID that maps to the JSONL file
+- `cwd` — the working directory the session was opened in
+- `lastActivityAt` — last activity timestamp
+
+The JSONL transcript file is at:
+
+```text
+C:\Users\[user]\.claude\projects\[encoded-path]\[cliSessionId].jsonl
+```
+
+Where `encoded-path` is the project working directory with backslashes replaced by dashes and the colon removed — for example `C:\Users\Usuario` becomes `C--Users-Usuario`.
+
+> Note: Claude Code JSONL files can be very large (1MB+). Use `[System.IO.File]::ReadAllLines($path, [System.Text.Encoding]::UTF8)` in PowerShell rather than `Get-Content`, which defaults to the wrong encoding and will mojibake emoji and smart quotes.
+
+## Event Selection Rules
+
+Each line of the JSONL is a JSON object. Include entries where:
+
+```text
+type = "user"    → message.role = "user"
+type = "assistant" → message.role = "assistant"
+```
+
+For each included entry:
+
+- If `message.content` is a **string**: use it directly (trim whitespace).
+- If `message.content` is an **array**: extract only blocks where `type = "text"`. Concatenate with newlines.
+- **Skip** entries where the resulting text is empty or whitespace-only — these are tool call/result turns with no visible text.
+
+Most transcripts should omit:
+
+- `type: "queue-operation"` entries
+- Tool call blocks (`type = "tool_use"`, `type = "tool_result"`)
+- Empty assistant turns (tool-only responses)
+- System and environment scaffolding
+
 ## Markdown Format
 
 Use this shape:
 
 ```md
-# [Window Title] - Raw Transcript
+# [Window Title] - Transcript
 
 ## Provenance
-- Source session id: [id]
+- Window name: [title]
+- Session ID (metadata): [session-id]
+- CLI Session ID (JSONL): [cliSessionId]
 - Source file: [absolute JSONL path]
-- Originator: Codex Desktop
-- Initial cwd: [if known]
-- Thread index names:
-  - [title(s)]
-- Total extracted message count in source at generation: [number]
-- Message range: [start-end]
+- Originator: Claude Code
+- Working directory: [cwd]
+- Date range: [first timestamp] → [last timestamp]
+- Total turns extracted: [number]
 - Generated: [ISO timestamp]
 
 ## Extraction Notes
-This transcript preserves visible user and assistant message text in chronological order, while omitting hidden system/developer instructions, tool calls, token accounting, task events, and environment-context scaffolding.
+This transcript preserves visible user and assistant message text in chronological
+order, omitting tool calls, tool results, queue operations, and empty turns.
 
 ## Transcript
 
-### 1. Hoppy
+## 🧑 User
 
-_Timestamp: 2026-05-30T00:00:00.000Z_
+_Timestamp: 2026-05-17T04:05:31.792Z_
 
 [message]
 
-### 2. Codex / [Window Name]
+## 🤖 Assistant
 
-_Timestamp: 2026-05-30T00:00:00.000Z_
+_Timestamp: 2026-05-17T04:05:48.692Z_
 
 [message]
 ```
+
+---
+
+# Shared Rules (Both Agent Types)
 
 ## Mojibake Prevention
 
@@ -134,25 +234,23 @@ Mojibake usually appears when UTF-8 text is read or written through the wrong en
 
 ```text
 Iâ€™m
-â€œquoteâ€
+â€œquoteâ€
 ðŸ˜Š
 Ã¢â‚¬â„¢
-Ã°Å¸
 ```
 
 Best practices:
 
 - Read and write transcript Markdown as UTF-8.
-- In PowerShell, prefer explicit `-Encoding utf8` when writing.
+- In PowerShell, use `[System.IO.File]::ReadAllLines($path, [System.Text.Encoding]::UTF8)` to read and `[System.IO.File]::WriteAllLines($path, $lines, [System.Text.Encoding]::UTF8)` to write. Do **not** use `Get-Content` / `Out-File` without explicit encoding — PowerShell 5.1 defaults to UTF-16.
 - Avoid copying transcript text through terminals or tools that reinterpret Unicode.
-- If the JSONL itself is already mojibaked, preserve it only if you are making a raw evidence copy; otherwise make a cleaned Markdown transcript from the best source available.
-- After writing, run a quick search for likely mojibake markers:
+- After writing, run a quick check:
 
 ```powershell
-Select-String -Path "TARGET.md" -Pattern "â|Ã|ðŸ|�"
+Select-String -Path "TARGET.md" -Pattern "â|Ã|ðŸ|°"
 ```
 
-Not every `ðŸ` is necessarily wrong in older already-mojibaked files, but new clean transcripts should not introduce fresh double-encoding like `Ã¢â‚¬â„¢`.
+Not every instance is wrong in older already-mojibaked files, but new clean transcripts should not introduce fresh double-encoding.
 
 ## Image Policy
 
@@ -205,4 +303,3 @@ Notes:
 - [whether timestamps were preserved]
 - [anything omitted intentionally]
 ```
-
