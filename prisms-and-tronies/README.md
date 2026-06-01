@@ -1,5 +1,5 @@
 # Prism Knowledge Base and Tronie Library
-*soul-stack repository*
+*cathedral repository*
 
 ---
 
