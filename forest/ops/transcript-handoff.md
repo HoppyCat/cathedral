@@ -17,6 +17,33 @@ Create lightweight, readable Markdown transcripts for major windows while preser
 
 ---
 
+## Output Destinations & Naming Conventions
+
+All Cathedral transcripts live under the `window_transcripts` folder, organized by agent type:
+
+| Agent type | Subfolder | Example path |
+|---|---|---|
+| Claude Code | `window_transcripts/Claude/` | `window_transcripts/Claude/CC-Ibis-Master-Transcript.md` |
+| Codex | `window_transcripts/Codex/` | `window_transcripts/Codex/Codex-Ibis` |
+
+### Claude Code naming
+
+```
+CC-[Window-Name]-Master-Transcript.md
+```
+
+Examples: `CC-Ibis-Master-Transcript.md`, `CC-Sparrow-Master-Transcript.md`
+
+### Codex naming
+
+```
+Codex-[Window-Name]
+```
+
+Examples: `Codex-Ibis`, `Codex-Sparrow`
+
+---
+
 # Part 1: Codex Transcripts
 
 ## Recommended Prompt
@@ -26,6 +53,8 @@ Please help me preserve a Codex transcript.
 
 Workspace transcript folder:
 `[local workspace]\window_transcripts\Codex`
+
+Naming convention: Codex-[Window-Name]
 
 Please:
 1. Find the relevant Codex session/thread by title or session id.
@@ -108,6 +137,11 @@ Most transcripts should omit:
 Please help me preserve a Claude Code transcript.
 
 Window name: [window name, e.g. "Ibis"]
+
+Workspace transcript folder:
+`[local workspace]\window_transcripts\Claude`
+
+Naming convention: CC-[Window-Name]-Master-Transcript.md
 
 Please:
 1. Find the session metadata file for this window by matching the window title.
@@ -271,6 +305,29 @@ Image referenced:
 Why it mattered:
 [brief note]
 ```
+
+## Pre-Append Quality Check
+
+Before adding new content to an existing transcript, inspect the master file for issues that should be cleaned up first:
+
+1. **Image bloat** — look for embedded base64 image data (long strings of `data:image/...` or walls of random characters). If found, replace with a relative path reference per the Image Policy above before appending new content.
+2. **Mojibake** — run the mojibake check pattern above. If garbled characters are present in existing text, clean the affected passages to proper UTF-8 before continuing.
+
+If either issue is present, **clean the master file first, then proceed with the append.** Do not layer new content on top of a file that already has readability problems.
+
+## File Size Management
+
+If a transcript file exceeds **1,000 KB**, split it into numbered part files while keeping the master intact:
+
+```
+CC-Ibis-Master-Transcript.md        ← full uninterrupted transcript (always kept)
+CC-Ibis-Part-1.md                   ← messages 1–N
+CC-Ibis-Part-2.md                   ← messages N+1–M
+```
+
+- The master file always contains the complete, uninterrupted transcript.
+- Part files are for readability and navigation — they may overlap at section boundaries by a few messages if that makes the break cleaner.
+- Add a header note in each part file indicating the range it covers and pointing to the master for the full record.
 
 ## Comparison Checks
 
