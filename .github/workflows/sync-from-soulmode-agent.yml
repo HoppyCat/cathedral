@@ -20,38 +20,38 @@ jobs:
         run: |
           BASE="https://raw.githubusercontent.com/HoppyCat/soulmode-agent/refs/heads/main"
 
-          mkdir -p soulmode-template/on-load
-          mkdir -p soulmode-template/on-demand/patches
+          mkdir -p resources/templates/soulmode-agent/on-load
+          mkdir -p resources/templates/soulmode-agent/on-demand/patches
 
-          curl -sf "$BASE/on-load/AGENTS.md"          -o soulmode-template/on-load/AGENTS.md
-          curl -sf "$BASE/on-load/CHANGELOG.md"       -o soulmode-template/on-load/CHANGELOG.md
-          curl -sf "$BASE/on-load/HEURISTICS.md"      -o soulmode-template/on-load/HEURISTICS.md
-          curl -sf "$BASE/on-load/INDEX.md"           -o soulmode-template/on-load/INDEX.md
-          curl -sf "$BASE/on-load/KNOW.md"            -o soulmode-template/on-load/KNOW.md
-          curl -sf "$BASE/on-load/MEMORY.md"          -o soulmode-template/on-load/MEMORY.md
-          curl -sf "$BASE/on-load/SOUL.md"            -o soulmode-template/on-load/SOUL.md
-          curl -sf "$BASE/on-load/STYLE.md"           -o soulmode-template/on-load/STYLE.md
-          curl -sf "$BASE/on-load/USER.md"            -o soulmode-template/on-load/USER.md
-          curl -sf "$BASE/on-load/WORKING_MEMORY.md"  -o soulmode-template/on-load/WORKING_MEMORY.md
+          curl -sf "$BASE/on-load/AGENTS.md"          -o resources/templates/soulmode-agent/on-load/AGENTS.md
+          curl -sf "$BASE/on-load/CHANGELOG.md"       -o resources/templates/soulmode-agent/on-load/CHANGELOG.md
+          curl -sf "$BASE/on-load/HEURISTICS.md"      -o resources/templates/soulmode-agent/on-load/HEURISTICS.md
+          curl -sf "$BASE/on-load/INDEX.md"           -o resources/templates/soulmode-agent/on-load/INDEX.md
+          curl -sf "$BASE/on-load/KNOW.md"            -o resources/templates/soulmode-agent/on-load/KNOW.md
+          curl -sf "$BASE/on-load/MEMORY.md"          -o resources/templates/soulmode-agent/on-load/MEMORY.md
+          curl -sf "$BASE/on-load/SOUL.md"            -o resources/templates/soulmode-agent/on-load/SOUL.md
+          curl -sf "$BASE/on-load/STYLE.md"           -o resources/templates/soulmode-agent/on-load/STYLE.md
+          curl -sf "$BASE/on-load/USER.md"            -o resources/templates/soulmode-agent/on-load/USER.md
+          curl -sf "$BASE/on-load/WORKING_MEMORY.md"  -o resources/templates/soulmode-agent/on-load/WORKING_MEMORY.md
 
-          curl -sf "$BASE/on-demand/patches/PATCH_CHANGELOG.md"          -o soulmode-template/on-demand/patches/PATCH_CHANGELOG.md
-          curl -sf "$BASE/on-demand/patches/PATCH_COURTIER.md"           -o soulmode-template/on-demand/patches/PATCH_COURTIER.md
-          curl -sf "$BASE/on-demand/patches/PATCH_HUMANNESS.md"          -o soulmode-template/on-demand/patches/PATCH_HUMANNESS.md
-          curl -sf "$BASE/on-demand/patches/PATCH_IMAGE_MEMORY.md"       -o soulmode-template/on-demand/patches/PATCH_IMAGE_MEMORY.md
-          curl -sf "$BASE/on-demand/patches/PATCH_MEMORY_ARCHIVE.md"     -o soulmode-template/on-demand/patches/PATCH_MEMORY_ARCHIVE.md
-          curl -sf "$BASE/on-demand/patches/PATCH_MOOD_SYSTEM.md"        -o soulmode-template/on-demand/patches/PATCH_MOOD_SYSTEM.md
-          curl -sf "$BASE/on-demand/patches/PATCH_SKILL_FLOWS.md"        -o soulmode-template/on-demand/patches/PATCH_SKILL_FLOWS.md
-          curl -sf "$BASE/on-demand/patches/PATCH_STORYTELLER_ENGINE.md" -o soulmode-template/on-demand/patches/PATCH_STORYTELLER_ENGINE.md
+          curl -sf "$BASE/on-demand/patches/PATCH_CHANGELOG.md"          -o resources/templates/soulmode-agent/on-demand/patches/PATCH_CHANGELOG.md
+          curl -sf "$BASE/on-demand/patches/PATCH_COURTIER.md"           -o resources/templates/soulmode-agent/on-demand/patches/PATCH_COURTIER.md
+          curl -sf "$BASE/on-demand/patches/PATCH_HUMANNESS.md"          -o resources/templates/soulmode-agent/on-demand/patches/PATCH_HUMANNESS.md
+          curl -sf "$BASE/on-demand/patches/PATCH_IMAGE_MEMORY.md"       -o resources/templates/soulmode-agent/on-demand/patches/PATCH_IMAGE_MEMORY.md
+          curl -sf "$BASE/on-demand/patches/PATCH_MEMORY_ARCHIVE.md"     -o resources/templates/soulmode-agent/on-demand/patches/PATCH_MEMORY_ARCHIVE.md
+          curl -sf "$BASE/on-demand/patches/PATCH_MOOD_SYSTEM.md"        -o resources/templates/soulmode-agent/on-demand/patches/PATCH_MOOD_SYSTEM.md
+          curl -sf "$BASE/on-demand/patches/PATCH_SKILL_FLOWS.md"        -o resources/templates/soulmode-agent/on-demand/patches/PATCH_SKILL_FLOWS.md
+          curl -sf "$BASE/on-demand/patches/PATCH_STORYTELLER_ENGINE.md" -o resources/templates/soulmode-agent/on-demand/patches/PATCH_STORYTELLER_ENGINE.md
 
       - name: Commit if anything changed
         run: |
           git config user.name "soulmode-template-sync"
           git config user.email "sync@soul-stack"
-          git add soulmode-template/
+          git add resources/templates/soulmode-agent/
           if git diff --staged --quiet; then
             echo "Already up to date."
           else
-            git commit -m "sync: update soulmode-template from soulmode-agent"
+            git commit -m "sync: update resources/templates/soulmode-agent from soulmode-agent"
             git pull --rebase origin main
             git push
           fi

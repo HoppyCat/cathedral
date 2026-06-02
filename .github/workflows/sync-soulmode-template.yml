@@ -27,29 +27,29 @@ jobs:
         run: |
           rsync -av --delete \
             _soulmode-agent/on-load/ \
-            soulmode-template/on-load/
+            resources/templates/soulmode-agent/on-load/
 
       - name: Sync on-demand/patches/
         run: |
           rsync -av --delete \
             _soulmode-agent/on-demand/patches/ \
-            soulmode-template/on-demand/patches/
+            resources/templates/soulmode-agent/on-demand/patches/
 
       - name: Sync on-demand/index/
         run: |
-          mkdir -p soulmode-template/on-demand/index
+          mkdir -p resources/templates/soulmode-agent/on-demand/index
           rsync -av --delete \
             _soulmode-agent/on-demand/index/ \
-            soulmode-template/on-demand/index/
+            resources/templates/soulmode-agent/on-demand/index/
 
       - name: Commit and push if anything changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add soulmode-template/on-load/ soulmode-template/on-demand/
+          git add resources/templates/soulmode-agent/on-load/ resources/templates/soulmode-agent/on-demand/
           if git diff --staged --quiet; then
-            echo "soulmode-template is already up to date."
+            echo "resources/templates/soulmode-agent is already up to date."
           else
-            git commit -m "sync: update soulmode-template from HoppyCat/soulmode-agent"
+            git commit -m "sync: update resources/templates/soulmode-agent from HoppyCat/soulmode-agent"
             git push
           fi
