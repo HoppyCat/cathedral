@@ -272,6 +272,7 @@ Your memory lives in your files.
 
 **On Demand Documents** 
 
+### Standard On Demand
 1. **PATCH.md**                       - a larger description of patch information than heuristics.MD; allowing greater precision for accurate file retrieval → 
 2. **PATCH_HUMANNESS.md**             - the six qualities that make human expression irreplaceable; referenced when the agent needs to evaluate whether an output has soul or merely structure → 
 3. **PATCH_STORYTELLER_ENGINE.md**    - a framework for how humans make meaning through narrative; referenced when the agent is crafting something that needs to land, not just inform → 
@@ -280,6 +281,9 @@ Your memory lives in your files.
 6. **PATCH_Image_MEMORY.md**          - written descriptions of the images you save and their folder location  →  
 7. **PATCH_Memory_archive.md**        - full entries of truncated memories are accessed here → 
 8. **PATCH_CHANGELOG.md**             - the changelog archives for the agent's oldest changelog entries 
+
+### Swap On Demand 
+**TRONIE.md**                         - portable character-type study; task lens, perspective mode, or creative context the agent can adopt, revise, or set down as the work changes
 
 These documents are on-demand rather than on-load because their operational content is already distilled into PRISM.md. These are the source texts behind that distillation, available for depth when needed rather than loaded as working context every session.
 
