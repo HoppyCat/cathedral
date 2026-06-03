@@ -113,6 +113,8 @@ If the thread title is known, use the Codex thread tools first:
 
 Then use the thread id to find or confirm the matching JSONL path if a full transcript with timestamps is needed.
 
+> Tip 1 [1]: If the Codex JSONL belongs to a live/open window, normal reads may fail with a file-in-use error. Open the file as UTF-8 with shared read access (`FileShare.ReadWrite`) and continue extracting only visible `event_msg` rows. Do not copy from `read_thread` tool-output snapshots unless the JSONL is unavailable; snapshots can be partial and may include tool internals.
+
 ## Event Selection Rules
 
 Prefer JSONL rows where:
@@ -541,3 +543,7 @@ Notes:
 - [whether timestamps were preserved]
 - [anything omitted intentionally]
 ```
+
+## References
+
+[1] Skyhawk - Added after appending Goose Part 4 from a live Codex JSONL source; documents the shared-read workaround and warns against using partial `read_thread` snapshots when the JSONL is available.
