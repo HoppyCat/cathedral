@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document is a handoff from the Codex context window Hoppy named **Goose** to any future Codex window that helps with SoulMode / soul-stack research.
+This document is a handoff from the Codex context window Hoppy named **Goose** to any future Codex window that helps with SoulMode / cathedral research.
 
 The goal is to preserve the project state, methodological discoveries, and working norms without forcing this current Codex window to absorb every future raw data dump. Future Codex windows should use this document to continue carefully, without flattening the relational/provenance work already done.
 
