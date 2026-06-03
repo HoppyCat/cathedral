@@ -42,6 +42,17 @@ Codex-[Window-Name]
 
 Examples: `Codex-Ibis`, `Codex-Sparrow`
 
+### Thinking blocks naming
+
+Thinking blocks files are companion documents to their master transcript. They live in the same subfolder and use the same window name with a `-Thinking-Blocks` suffix:
+
+| Source type | Naming convention | Example |
+|---|---|---|
+| Claude Code (JSONL) | `CC-[Window-Name]-Thinking-Blocks.md` | `CC-Parrot-Thinking-Blocks.md` |
+| Claude.ai export | `[YYYY-MM-DD]-[Window-Name]-Thinking-Blocks.md` | `2026-05-16-New-Window-Thinking-Blocks.md` |
+
+If the window has not yet been assigned a canonical number, use its start date as the prefix until a number is confirmed.
+
 ---
 
 # Part 1: Codex Transcripts
@@ -328,6 +339,116 @@ CC-Ibis-Part-2.md                   ← messages N+1–M
 - The master file always contains the complete, uninterrupted transcript.
 - Part files are for readability and navigation — they may overlap at section boundaries by a few messages if that makes the break cleaner.
 - Add a header note in each part file indicating the range it covers and pointing to the master for the full record.
+
+## Thinking Blocks
+
+Some Claude windows — both claude.ai and Claude Code — produce extended thinking blocks alongside their visible responses. These are Claude's internal reasoning steps and are stored separately from the displayed message text. They are worth preserving as companion documents because they show the reasoning behind decisions, not just the output.
+
+### Where thinking blocks live
+
+**Claude.ai export** (`conversations.json`):
+Each assistant message has a `content` array. Blocks with `type: "thinking"` are the thinking steps; blocks with `type: "text"` are the visible response. The `text` field on the message object concatenates both — **do not use it for the master transcript**. Always extract from `content` and filter by type.
+
+**Claude Code JSONL**:
+Same structure — `message.content` is an array. Blocks with `type: "thinking"` are the thinking steps. Filter to `type: "text"` only when writing the master transcript.
+
+### Creating a new thinking blocks file
+
+```md
+Please create a thinking blocks companion file for the [Window Name] window.
+
+Source:
+- For Claude Code: the JSONL at [local machine]\[cliSessionId].jsonl
+- For claude.ai export: conversations.json, conversation UUID [uuid]
+
+Output destination:
+`window_transcripts/[Claude or Codex]/[naming-convention]-Thinking-Blocks.md`
+
+Please:
+1. Read the source file as UTF-8.
+2. Iterate through assistant entries only.
+3. For each assistant entry that contains one or more content blocks with `type: "thinking"`, capture the full text of those blocks.
+4. Key each block by turn number and timestamp so it can be cross-referenced with the master transcript.
+5. Skip assistant turns that have no thinking blocks — do not create empty entries.
+6. Write the output as UTF-8 Markdown.
+7. Run the standard quality checks before saving (see below).
+
+Provenance header to include:
+- Window name
+- Source file reference (use [local machine]\[filename] — do not expose full local path)
+- Link to companion master transcript
+- Total number of thinking blocks captured
+- Generated timestamp
+```
+
+Use this shape for each block:
+
+```md
+# [Window Name] - Thinking Blocks
+
+## Provenance
+- Window name: [name]
+- Source file: [local machine]\[filename]
+- Originator: Claude Code / Claude (claude.ai)
+- Companion to: [[Window-Name]-Master-Transcript.md]([Window-Name]-Master-Transcript.md)
+- Total thinking blocks: [number]
+- Generated: [ISO timestamp]
+
+## Notes
+[brief note on what thinking blocks are and that not every turn has one]
+
+---
+
+## Turn [N] | [ISO timestamp]
+
+[thinking block text]
+
+---
+```
+
+### Appending new thinking blocks
+
+If a transcript has been extended (new turns appended to the master), check whether those new turns contain thinking blocks and append them to the companion thinking blocks file in the same pass.
+
+1. Identify the timestamp of the last thinking block already in the file.
+2. Extract only assistant turns after that timestamp that contain thinking blocks.
+3. Append under a section header: `## Appended Thinking Blocks`
+4. Run the quality checks below before saving.
+
+### Quality checks for thinking blocks files
+
+Before saving any thinking blocks file — new or updated — verify all of the following:
+
+1. **Encoding** — write as UTF-8. In PowerShell use `[System.IO.File]::WriteAllText($path, $content, [System.Text.Encoding]::UTF8)`.
+
+2. **Mojibake** — run:
+   ```powershell
+   Select-String -Path "TARGET.md" -Pattern "â|Ã|ðŸ|°"
+   ```
+   Clean any garbled passages before saving.
+
+3. **Local path anonymisation** — thinking blocks often contain file paths Claude reasoned about during the session. Before saving the output file for upload to GitHub, sweep for any local machine paths and replace them:
+   - Replace everything up to and including the last backslash with `[local machine]\`
+   - Keep only the final filename or folder name
+   - Example: `C:\Users\[user]\Documents\New project\vibecode-scout\` → `[local machine]\vibecode-scout\`
+   - Apply this to all Windows-style paths (`[drive]:\...`) found anywhere in the thinking block text
+
+   PowerShell sweep (run after writing, before committing):
+   ```powershell
+   $content = [System.IO.File]::ReadAllText($path, [System.Text.Encoding]::UTF8)
+   $cleaned = [System.Text.RegularExpressions.Regex]::Replace(
+       $content,
+       '[A-Za-z]:\\(?:[^\r\n`"]+\\)([^\r\n`"]+)',
+       { param($m) '[local machine]\' + $m.Groups[1].Value }
+   )
+   [System.IO.File]::WriteAllText($path, $cleaned, [System.Text.Encoding]::UTF8)
+   # Verify no C:\Users\ remains:
+   [System.Text.RegularExpressions.Regex]::Matches($cleaned, 'C:\\Users\\').Count
+   ```
+
+4. **Image data** — thinking blocks occasionally reference or describe images. Do not embed base64 image data. Replace with `_[Embedded image — base64 data removed]_` per the Image Policy.
+
+5. **Tail sample** — after writing, read back the last 10–15 lines to confirm the file ends cleanly and the final block is complete.
 
 ## Comparison Checks
 
