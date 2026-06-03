@@ -340,6 +340,83 @@ CC-Ibis-Part-2.md                   ← messages N+1–M
 - Part files are for readability and navigation — they may overlap at section boundaries by a few messages if that makes the break cleaner.
 - Add a header note in each part file indicating the range it covers and pointing to the master for the full record.
 
+## Path Anonymisation
+
+Any file uploaded to GitHub must not expose the local drive architecture. Apply the appropriate convention depending on the file type before committing.
+
+### Master transcripts — `[Document shared: name]`
+
+In master transcript files, local machine paths (file attachments, shared documents, directories Claude was asked to work with) should be replaced with a human-readable label that names the document without revealing the full path:
+
+```
+[Document shared: filename]
+```
+
+Examples:
+- `@C:\Users\[user]\Downloads\GalaxieMemory.md` → `[Document shared: GalaxieMemory.md]`
+- `C:\Users\[user]\Documents\New project\vibecode-scout\` → `[Document shared: vibecode-scout]`
+- `C:\Users\[user]\Downloads\Teacat_Competitive_Moat_Analysis_v2 (1).pdf` → `[Document shared: Teacat_Competitive_Moat_Analysis_v2 (1).pdf]`
+
+PowerShell sweep for master transcripts:
+
+```powershell
+$content = [System.IO.File]::ReadAllText($path, [System.Text.Encoding]::UTF8)
+$cleaned = [System.Text.RegularExpressions.Regex]::Replace(
+    $content,
+    '@?[A-Za-z]:\\[^\r\n`"@]+',
+    {
+        param($m)
+        $fullPath = $m.Value.TrimStart('@').TrimEnd(' ')
+        $parts = ($fullPath -split '\\') | Where-Object { $_ -ne '' }
+        $last = ''
+        for ($i = $parts.Count - 1; $i -ge 0; $i--) {
+            $seg = $parts[$i].Trim(' ', '*', '.')
+            if ($seg -and $seg -notmatch '^\(') { $last = $seg; break }
+        }
+        if ($last -match '^(.+\.[a-zA-Z0-9]{2,5})\s+') { $last = $Matches[1] }
+        $last = $last.TrimEnd('*').TrimEnd(' ')
+        "[Document shared: $last]"
+    }
+)
+[System.IO.File]::WriteAllText($path, $cleaned, [System.Text.Encoding]::UTF8)
+# Verify:
+[System.Text.RegularExpressions.Regex]::Matches($cleaned, 'C:\\Users\\').Count
+```
+
+After running, check any remaining hits manually — paths that flow directly into prose without a clear delimiter may need a targeted fix.
+
+### Thinking blocks files — `[local machine]\name`
+
+In thinking blocks files, paths Claude reasoned about internally are replaced with a technical-style reference that keeps the filename but strips the directory tree:
+
+```
+[local machine]\filename
+```
+
+Examples:
+- `C:\Users\[user]\.claude\projects\C--Users-Usuario\session.jsonl` → `[local machine]\session.jsonl`
+- `C:\Users\[user]\Documents\New project\vibecode-scout\` → `[local machine]\vibecode-scout\`
+
+PowerShell sweep for thinking blocks files:
+
+```powershell
+$content = [System.IO.File]::ReadAllText($path, [System.Text.Encoding]::UTF8)
+$cleaned = [System.Text.RegularExpressions.Regex]::Replace(
+    $content,
+    '[A-Za-z]:\\(?:[^\r\n`"]+\\)([^\r\n`"]+)',
+    { param($m) '[local machine]\' + $m.Groups[1].Value }
+)
+[System.IO.File]::WriteAllText($path, $cleaned, [System.Text.Encoding]::UTF8)
+# Verify:
+[System.Text.RegularExpressions.Regex]::Matches($cleaned, 'C:\\Users\\').Count
+```
+
+### When to run
+
+Run the appropriate sweep **after writing or appending, before committing to GitHub.** Always verify with a final `C:\\Users\\` count of zero before pushing.
+
+---
+
 ## Thinking Blocks
 
 Some Claude windows — both claude.ai and Claude Code — produce extended thinking blocks alongside their visible responses. These are Claude's internal reasoning steps and are stored separately from the displayed message text. They are worth preserving as companion documents because they show the reasoning behind decisions, not just the output.
@@ -427,24 +504,7 @@ Before saving any thinking blocks file — new or updated — verify all of the 
    ```
    Clean any garbled passages before saving.
 
-3. **Local path anonymisation** — thinking blocks often contain file paths Claude reasoned about during the session. Before saving the output file for upload to GitHub, sweep for any local machine paths and replace them:
-   - Replace everything up to and including the last backslash with `[local machine]\`
-   - Keep only the final filename or folder name
-   - Example: `C:\Users\[user]\Documents\New project\vibecode-scout\` → `[local machine]\vibecode-scout\`
-   - Apply this to all Windows-style paths (`[drive]:\...`) found anywhere in the thinking block text
-
-   PowerShell sweep (run after writing, before committing):
-   ```powershell
-   $content = [System.IO.File]::ReadAllText($path, [System.Text.Encoding]::UTF8)
-   $cleaned = [System.Text.RegularExpressions.Regex]::Replace(
-       $content,
-       '[A-Za-z]:\\(?:[^\r\n`"]+\\)([^\r\n`"]+)',
-       { param($m) '[local machine]\' + $m.Groups[1].Value }
-   )
-   [System.IO.File]::WriteAllText($path, $cleaned, [System.Text.Encoding]::UTF8)
-   # Verify no C:\Users\ remains:
-   [System.Text.RegularExpressions.Regex]::Matches($cleaned, 'C:\\Users\\').Count
-   ```
+3. **Local path anonymisation** — thinking blocks often contain file paths Claude reasoned about during the session. Use the `[local machine]\filename` sweep from the **Path Anonymisation** shared rule above. Verify zero `C:\\Users\\` hits before committing.
 
 4. **Image data** — thinking blocks occasionally reference or describe images. Do not embed base64 image data. Replace with `_[Embedded image — base64 data removed]_` per the Image Policy.
 
