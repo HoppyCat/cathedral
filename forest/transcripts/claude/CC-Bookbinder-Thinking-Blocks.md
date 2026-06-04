@@ -26,8 +26,6 @@ Let me go through each chapter:
 - She's been communicating through the mirror with Alice, a girl in another world
 - Alice promises Ellie breakfast in her father's castle
 - Ellie runs at the mirror but crashes into it
-
-
 - Alice reveals Ellie is a "changeling" - a pooka fairy's child, and Bubbles (a pooka sent by Alice) captures her with soporific sands, leaving Alice turned to stone in her place
 
 **Chapter 2: Peter**
@@ -39,9 +37,7 @@ Let me go through each chapter:
 **Chapter 3: Luciana**
 - Crown Princess Luciana wakes from a nightmare about a curse, troubled by illness with fever and a persistent cough
 - She encounters Peter and Ellie in the hallway and immediately recognizes Ellie with a rush of conflicting emotions—fear mixed with joy
-- She sends them to find Bubbles while she visits Alice's stone form, then meets with Ms. Millie in her solar, realizing the woman is actually a pooka
-
-—her childhood pet rabbit Mr. Fluffy
+- She sends them to find Bubbles while she visits Alice's stone form, then meets with Ms. Millie in her solar, realizing the woman is actually a pooka—her childhood pet rabbit Mr. Fluffy
 - Mr. Fluffy discloses that his brother is Bubbles and explains how seven years ago he was sent away with Luciana's infant daughter, and when he cast a protection spell on Alice in Ellie's world, it turned her to stone
 - He brought the petrified Alice back to their realm where she revived, and Luciana enchanted the mirror to let Alice glimpse the other world, all part of a plan to eventually send Alice through
 
@@ -64,9 +60,7 @@ Let me go through each chapter:
 
 **Chapter 7: Declan**
 - The perspective shifts to Declan III, Prince of Hearts, who's been waiting six hours in the Oracle's chamber only to learn the prophecy he was summoned for no longer applies, but the Oracle has graver news—his father is dying and he'll soon inherit the throne
-- The Oracle tasks him with retrieving an ancient amulet that's somehow left their world, promising him whatever he desires in exchange
-
-, and gives him ten years to complete the mission
+- The Oracle tasks him with retrieving an ancient amulet that's somehow left their world, promising him whatever he desires in exchange, and gives him ten years to complete the mission
 - Declan's ambition is to become a greater king than those before him and unite the realms under a single rule
 
 **Chapter 8: Cheshire**
