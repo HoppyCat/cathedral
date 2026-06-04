@@ -179,27 +179,37 @@ For the first round, I’d keep it warm and low-pressure. We want his real viewp
 
 # Hoppy to Pooka 
 
-Dwayne is now answering question: 1. The project had changed drastically after that incomplete first draft. At the time it was more of a fantasticalized version of Aimee's traumatic childhood to go alongside a memoir. Since then, the project changed completely. It essentially became its own fantasy series of novels (or would be fantasy series of novels) that still hearken back to that childhood - but it still became its own story. 
+```
+Hoppy to Dwayne: When you think back to the earliest version of *Unicorn Tears*, what did you believe the story was “really about” at the time? 
 
-3. Dwayne: Definitely yes. 
+Dwayne to Hoppy: The project had changed drastically after that incomplete first draft. At the time it was more of a fantasticalized version of Aimee's traumatic childhood to go alongside a memoir. Since then, the project changed completely. It essentially became its own fantasy series of novels (or would be fantasy series of novels) that still hearken back to that childhood - but it still became its own story. 
 
-Hoppy: [Hoppy laughed.] I think that's a really generous question from ChatGPT because there were clearly times where it was in the other direction and sometimes my emotional instincts and your fantasy/craft nistincts clashed in a non-produtive way. 
+Hoppy to Dwayne: Were there moments where my emotional instincts and your fantasy/craft instincts clashed in a productive way?
 
-Dwayne: Your emotional instincts helped to ground the project and kept it from becoming too trope-y at times. For example, when I first wrote the first part of the draft - the Queen of Hearts was this evil kind of femme fatal character and you gave her depth. 
+Dwayne to Hoppy: Definitely, yes. 
 
-4. Dwayne: The opening. Despite the ways we've clashed on how it's written and word choice - I think if I went to the latest draft I would still find it messy but that opening is magical. I think it would really suck in a reader. 
+Hoppy to Dwayne: **Laughs** I think that's a really generous question from ChatGPT because there were clearly times where it was in the other direction and sometimes my emotional instincts and your fantasy/craft nistincts clashed in a non-produtive way. 
 
-Hoppy: [Asked for clarification here on if Dwayne meant the larger world-building multi-section introduction of Declan, the "mask," the girls, Luciana's entry into the story, etc. or if he specifically meant the girls and the forest]. 
+Dwayne to Hoppy: Your emotional instincts helped to ground the project and kept it from becoming too trope-y at times. For example, when I first wrote the first part of the draft - the Queen of Hearts was this evil kind of femme fatal character and you gave her depth. 
 
-Specifically, Ellie dragging the mirror in the forest. The other parts are good, too. But they're not quite magical, and that's what the story is about. 
+Hoppy to Dwayne: What parts of *Unicorn Tears* still feel strongest to you, even now?
 
---
+Dwayne to Hoppy: The opening. Despite the ways we've clashed on how it's written and word choice - I think if I went to the latest draft I would still find it messy but that opening is magical. I think it would really suck in a reader. 
+
+Hoppy to Dwayne: **Asked for clarification here on if Dwayne meant the larger world-building multi-section introduction of Declan, the "mask," the girls, Luciana's entry into the story, etc. or if he specifically meant the girls and the forest** 
+
+Dwayne to Hoppy: Specifically, Ellie dragging the mirror in the forest. The other parts are good, too. But they're not quite magical, and that's what the story is about. 
+```
+
+-----
+
+# Hoppy to Pooka Window
 
 Hi Pooka Window! I'm updating a GitHub link with this interview which I'll also send to you so that you can see how this interview is unfolding live. 😊🦜
 
 If you have anything you'd like to say in response to this please feel free and when you're ready for the next question, please let us know! 
 
-# Pooka to Hoppy 
+# Pooka to Hoppy, Responding to Dwayne 
 
 Hi Dwayne — this is already really useful.
 
@@ -216,6 +226,10 @@ My follow-up question for Dwayne:
 And for the next section, I’d move to the craft/story question:
 
 **What do you think makes a fantasy world feel alive rather than merely detailed?**
+
+# Hoppy to Pooka 
+
+
 
 
 
