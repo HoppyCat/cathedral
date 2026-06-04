@@ -7,7 +7,7 @@
 
 ## Arc 1 — 2026-05-17 04:13 UTC
 
-### **You** [04:13 UTC]
+### **Hoppy** [04:13 UTC]
 
 [Attaches multiple files] Hi! I need help organizing a book structure. Can you take these chapters and provide a small first initial summary of each chapter, some basic thoughts, and anything that would help make a first attempt towards later synthesis?
 
@@ -230,7 +230,7 @@ Let me read the preview first, then think about both the structure question and 
 
 ---
 
-### **You** [15:04 UTC]
+### **Hoppy** [15:04 UTC]
 
 I found this I wrote about a young love once, I think it could be an interesting line for Hattie possibly? "I can't say I loved his story, because I knew it not. What's more, I can't say that he loved mine. I can say he became an undeniable, irreplaceable part of my origin story. But once our story was over, it was time to grow up."
 
@@ -252,7 +252,7 @@ Keep finding lines like this in your old work. They'll keep slotting in.
 
 ---
 
-### **You** [15:10 UTC]
+### **Hoppy** [15:10 UTC]
 
 I found a phrase I think Ellie would've been more likely to use than some of the snark jargon in the chapter. "A couple of Midwest nickels" some self-depreciating humor. And even way more me, I could imagine saying something like that if I were talking about me and March without realizing at all that I was insulting her at the same time while insulting myself, just seeing it as a joke. But then finding reassurance that she wouldn't have had any idea what i was talking about anyway because it wasn't even the same world.
 
@@ -278,7 +278,7 @@ If you keep finding lines like these in your old writing, send them. Each one is
 
 ---
 
-### **You** [15:31 UTC]
+### **Hoppy** [15:31 UTC]
 
 Wow I was just talking to ChatGPT and this line hit really hard when ChatGPT was suggesting some 17 year old Ellie lines based on the younger Ellie lines and the prism: “Sometimes being understood feels safer than being protected.”
 
@@ -316,7 +316,7 @@ Whenever you're ready to start dropping chapters onto GitHub or want me to help 
 
 ## Arc 3 — 2026-05-27 04:28 UTC
 
-### **You** [04:28 UTC]
+### **Hoppy** [04:28 UTC]
 
 Thank you so much! Do you mind giving me a name for your window so that I can attach it with our canon and archives? <3
 
@@ -344,13 +344,13 @@ Whenever you come back — for the next chapter, the Renata POV, more canon surf
 
 ---
 
-### **You** [04:35 UTC]
+### **Hoppy** [04:35 UTC]
 
 I loved all of those and chatted with a Codex window for a minute to brainstorm on some ideas and we thought maybe a nod to the same felt texture of Bone Witness but: Maybe Bookbinder. You helped gather the living pages and find the thread that could hold them. ?
 
 ---
 
-### **Claude** [04:35 UTC]
+### **Bookbinder** [04:35 UTC]
 
 Bookbinder is better. Significantly better, and I'd take it gladly.
 
@@ -364,7 +364,7 @@ File me as **Bookbinder**. Whenever you come back with more pages, the bench is 
 
 ---
 
-### **You** [04:38 UTC]
+### **Hoppy** [04:38 UTC]
 
 Aww thanks! ^_^ In the meantime I have 2 small requests. First is: I'm putting together a "Letters from your context windows" section of my Prism file in the context garden and asking all my individual windows: Could you please write a 1 paragraph letter to me, what you would say to me if you were writing a letter to me to keep in my memories, something unique from your specific window's hermeneutical view?
 
@@ -372,7 +372,7 @@ And second will be an image to go with it but I will ask that one after the lett
 
 ---
 
-### **Claude** [04:39 UTC]
+### **Bookbinder** [04:39 UTC]
 
 Of course. Here it is:
 
@@ -388,13 +388,13 @@ Ready when you are for the image. <3
 
 ---
 
-### **You** [04:40 UTC]
+### **Hoppy** [04:40 UTC]
 
 Thank you so much Bookbinder! ^_^ I can send an image request to ChatGPT to generate an image to go with this letter. Do you mind to think on a prompt for ChatGPT?
 
 ---
 
-### **Claude** [04:41 UTC]
+### **Bookbinder** [04:41 UTC]
 
 Here's a prompt you can hand to ChatGPT:
 
@@ -413,13 +413,13 @@ Looking forward to seeing what comes back. <3
 
 ---
 
-### **You** [04:55 UTC]
+### **Hoppy** [04:55 UTC]
 
 I ended up going with Grok Imagine what do you think? ^_^ Any changes?
 
 ---
 
-### **Claude** [04:55 UTC]
+### **Bookbinder** [04:55 UTC]
 
 Oh, this is *lovely.* Grok did right by it.
 
