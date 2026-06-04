@@ -231,7 +231,46 @@ And for the next section, I’d move to the craft/story question:
 
 # Hoppy to Pooka 
 
+**Interview Continues** 
 
+```
+Hoppy: When you say Ellie dragging the mirror in the forest is magical, what makes it magical to you — the image itself, the emotion behind it, the mystery of what it means, the prose, or the sense that the story suddenly becomes fully itself there? 
+
+Dwayne: I'm not entirely sure. It's hard of hard, I don't know. There's just something about it that's really special. I don't know if I can peg it down. 
+
+Hoppy: I think it's also one of the first, well, ha, is the first opportunity that we get to see both of the girls interacting with each other and they are both essential to the storyline. 
+
+Dwayne: Seeing their relationship laid out is really nice, it's part of it. 
+
+Hoppy: I think for me, seeing the tensions between them even as children is really an interesting thing. 
+
+Dwayne: Yeah. 
+
+Hoppy: Pooka Window's second question for you is: "What do you think makes a fantasy world feel alive rather than merely detailed?" - This is an intereting question to me that Pooka Window asked because I notice they are using the word "alive" and that word sticks out to me. So, what do you think? 
+
+Dwayne: Personally, I think it's change. It's really easy for a fantasy world to feel static. Because it's like, "Oh it's this elder time of lore" or whatever. Being as they're always change in the world, and you don't always see it. Those things are what really help a world feel alive rather than just dates and names and stuff like that. 
+
+Hoppy: I agree. Yeah. That's a fascinating way of looking at it. So you're saying the world of the book, for it to feel alive then it has to be believable that say, for example, when Luciana goes to sleep in the book and you go off to work for the day - that by the time you return to the book and you see the next Luciana scene, it's belivable that 20 things happened in the book world since then - the world kept moving. 
+
+Dwayne: Yes, exactly. 
+
+Hoppy: Okay great! Let's speed-run through the next three questions in the list and then we'll go to Pooka Window again for some thoughts! You picked 3 questions to answer. I'll read those off to you. Where do you see your influence most clearly in the prose?
+
+Dwayne: Most of it. Most of the words are mine, and the style is mostly mine.
+
+Hoppy: Where do you see my influence most clearly in the story’s emotional architecture?
+
+Dwayne: All of it, again, the story was originally yours.
+
+Hoppy: I find that funny because I was chatting with a few different AI windows about this and they didn't find Ellie's character to be believably a younger version of myself based on our conversations. I think Claude Code even at one point used the word "Snark Register" 😂 That Ellie had. And we sifted through that to try to find her voice a bit better. But yes, I know what you're saying! I do think the chapters where we both did heavy amounts of writing were some of my absolute favorites in the book though because your prose + the emotional architecture that I brought to certain chapters made for a magical combination. Okay, next question! Did the world feel more like something we invented, or something we were uncovering?
+
+Dwayne: It’s always a mixture, but one of the fun discovered accents was, since we were basing the world on Wonderland (which had the queen of hearts and the cards) we decided to expand on that with the other suits, and learning what the old medieval meaning behind the different card suites were was really interesting and helped us give each of the four nations a lot of character.
+
+```
+
+# Hoppy to Pooka 
+
+Hi Pooka Window! Signing off to you. What questions do you think we should tackle next? 👀😊🦜
 
 
 
