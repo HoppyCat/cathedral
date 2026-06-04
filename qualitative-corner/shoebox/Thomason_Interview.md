@@ -180,25 +180,27 @@ For the first round, I’d keep it warm and low-pressure. We want his real viewp
 # Hoppy to Pooka 
 
 ```
-Hoppy to Dwayne: When you think back to the earliest version of *Unicorn Tears*, what did you believe the story was “really about” at the time? 
+**Interview** 
 
-Dwayne to Hoppy: The project had changed drastically after that incomplete first draft. At the time it was more of a fantasticalized version of Aimee's traumatic childhood to go alongside a memoir. Since then, the project changed completely. It essentially became its own fantasy series of novels (or would be fantasy series of novels) that still hearken back to that childhood - but it still became its own story. 
+Hoppy: When you think back to the earliest version of *Unicorn Tears*, what did you believe the story was “really about” at the time? 
 
-Hoppy to Dwayne: Were there moments where my emotional instincts and your fantasy/craft instincts clashed in a productive way?
+Dwayne: The project had changed drastically after that incomplete first draft. At the time it was more of a fantasticalized version of Aimee's traumatic childhood to go alongside a memoir. Since then, the project changed completely. It essentially became its own fantasy series of novels (or would be fantasy series of novels) that still hearken back to that childhood - but it still became its own story. 
 
-Dwayne to Hoppy: Definitely, yes. 
+Hoppy: Were there moments where my emotional instincts and your fantasy/craft instincts clashed in a productive way?
 
-Hoppy to Dwayne: **Laughs** I think that's a really generous question from ChatGPT because there were clearly times where it was in the other direction and sometimes my emotional instincts and your fantasy/craft nistincts clashed in a non-produtive way. 
+Dwayne: Definitely, yes. 
 
-Dwayne to Hoppy: Your emotional instincts helped to ground the project and kept it from becoming too trope-y at times. For example, when I first wrote the first part of the draft - the Queen of Hearts was this evil kind of femme fatal character and you gave her depth. 
+Hoppy: **Laughs** I think that's a really generous question from ChatGPT because there were clearly times where it was in the other direction and sometimes my emotional instincts and your fantasy/craft instincts clashed in a non-produtive way. 
 
-Hoppy to Dwayne: What parts of *Unicorn Tears* still feel strongest to you, even now?
+Dwayne: Your emotional instincts helped to ground the project and kept it from becoming too trope-y at times. For example, when I first wrote the first part of the draft - the Queen of Hearts was this evil kind of femme fatal character and you gave her depth. 
 
-Dwayne to Hoppy: The opening. Despite the ways we've clashed on how it's written and word choice - I think if I went to the latest draft I would still find it messy but that opening is magical. I think it would really suck in a reader. 
+Hoppy: What parts of *Unicorn Tears* still feel strongest to you, even now?
 
-Hoppy to Dwayne: **Asked for clarification here on if Dwayne meant the larger world-building multi-section introduction of Declan, the "mask," the girls, Luciana's entry into the story, etc. or if he specifically meant the girls and the forest** 
+Dwayne: The opening. Despite the ways we've clashed on how it's written and word choice - I think if I went to the latest draft I would still find it messy but that opening is magical. I think it would really suck in a reader. 
 
-Dwayne to Hoppy: Specifically, Ellie dragging the mirror in the forest. The other parts are good, too. But they're not quite magical, and that's what the story is about. 
+Hoppy: **Asked for clarification here on if Dwayne meant the larger world-building multi-section introduction of Declan, the "mask," the girls, Luciana's entry into the story, etc. or if he specifically meant the girls and the forest** 
+
+Dwayne: Specifically, Ellie dragging the mirror in the forest. The other parts are good, too. But they're not quite magical, and that's what the story is about. 
 ```
 
 -----
