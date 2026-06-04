@@ -2,11 +2,6 @@
 
 **Window name:** Bookbinder
 **Session ID:** 1015c00d-0f75-4ff0-8d1e-723ae34ca744
-**Period:** 2026-05-17 — 2026-05-27
-**Total messages:** 62
-**Arcs:** 3
-
-_Preceded by a 4-message setup session (99970d59) that read the full manuscript and produced 20 handoff questions. That session is archived separately._
 
 ---
 
