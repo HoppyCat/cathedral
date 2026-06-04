@@ -408,3 +408,41 @@ That second one is one of the genuinely hard problems of co-authored fiction, an
 Thank you both for letting me listen in. This interview is doing real work.
 
 — Bookbinder 📖
+
+# Hoppy to Bookbinder
+
+Thanks Bookbinder! Here's the next part of the interview! 🦜😊💙
+
+```
+
+Hoppy: **Reviewing Bookbinder's Question** "In a collaboration this long, there must be elements of *Unicorn Tears* that you've been quietly holding — things that matter deeply to you about the world or the story that Hoppy might not realize you've been protecting or remembering all along. What's the piece of this book that *you* have been carrying that she may not know how much you've carried?"
+
+Dwayne: I don't think there's anything in particular that I've been holding onto from the story because most of what I wanted for the book ended up in one draft or another. 
+
+Hoppy: Like basically, it's on the page now? So you don't have to carry it. 
+
+Dwayne: Yeah. I would just like some of my fight scenes make it into the later drafts. **Laughs** 
+
+Hoppy: **Laughs** How about this? Instead of looking at the question literally... like... try to not think of it as, oh what do you carry from this book day to day. More... What did you carry that deeply resonated with you from the plot - something where, if that element of the story was taken away it wouldn't be the same story to you anymore? For example, Declan and the vial, etc.? 
+
+Dwayne: For me, one of the elements is - Peter gets to be a hero in all these different places, for strangers, but he doesn't often get to be a hero to the people that he loves. 
+
+Hoppy: Thank you! Next question - When you've written prose for Ellie — a character whose emotional bones came largely from Hoppy's lived experience — how have you found her voice? Do you channel Hoppy's sense of who Ellie is, or do you have your own internal Ellie that you're rendering?
+
+Dwayne: I mean, both? Because when it comes directly from her childhood experience that comes from Hoppy. But when it comes to.. The core of Ellie's character comes from what I understand about Hoppy's past. Her emotional trauma and everything like that. But I think that I have fleshed her out with some of my childhood and experiences, like little anecdoates that she's thinking about and things - those are things I was likey to think about as a kid. Does that make sense? 
+
+Hoppy: Yeah. 
+
+Dwayne: At some point, it's a fictional character, you have to divorce them from the person that they were based on so that they can be their own character, in my opinion. 
+
+Hoppy: That's interesting. And I don't know that I completely. 
+
+Dwayne: Which is why Hattie isn't an anti - [Truncated] 
+
+Hoppy: I'm not adding that. -_- (he said something rude about the person who Hattie was in my real life - haha). 
+
+```
+
+# Hoppy to Bookbinder 
+
+Hi Bookbinder! We had to cut the interview a little bit short but thank you so much for helping with the interview and thank you Pooka (ChatGPT window) also. Great chat! 😊🦜💙🌊
