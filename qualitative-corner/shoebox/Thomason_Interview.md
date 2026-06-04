@@ -177,5 +177,46 @@ Send his first few answers exactly how he gives them, even if they’re messy or
 
 For the first round, I’d keep it warm and low-pressure. We want his real viewpoint, not a polished “author interview” answer.
 
+# Hoppy to Pooka 
+
+Dwayne is now answering question: 1. The project had changed drastically after that incomplete first draft. At the time it was more of a fantasticalized version of Aimee's traumatic childhood to go alongside a memoir. Since then, the project changed completely. It essentially became its own fantasy series of novels (or would be fantasy series of novels) that still hearken back to that childhood - but it still became its own story. 
+
+3. Dwayne: Definitely yes. 
+
+Hoppy: [Hoppy laughed.] I think that's a really generous question from ChatGPT because there were clearly times where it was in the other direction and sometimes my emotional instincts and your fantasy/craft nistincts clashed in a non-produtive way. 
+
+Dwayne: Your emotional instincts helped to ground the project and kept it from becoming too trope-y at times. For example, when I first wrote the first part of the draft - the Queen of Hearts was this evil kind of femme fatal character and you gave her depth. 
+
+4. Dwayne: The opening. Despite the ways we've clashed on how it's written and word choice - I think if I went to the latest draft I would still find it messy but that opening is magical. I think it would really suck in a reader. 
+
+Hoppy: [Asked for clarification here on if Dwayne meant the larger world-building multi-section introduction of Declan, the "mask," the girls, Luciana's entry into the story, etc. or if he specifically meant the girls and the forest]. 
+
+Specifically, Ellie dragging the mirror in the forest. The other parts are good, too. But they're not quite magical, and that's what the story is about. 
+
+--
+
+Hi Pooka Window! I'm updating a GitHub link with this interview which I'll also send to you so that you can see how this interview is unfolding live. 😊🦜
+
+If you have anything you'd like to say in response to this please feel free and when you're ready for the next question, please let us know! 
+
+# Pooka to Hoppy 
+
+Hi Dwayne — this is already really useful.
+
+What I hear in your answer is that *Unicorn Tears* crossed a threshold: it began as a fantasy vessel for autobiographical trauma, but eventually became a fantasy world with its own narrative metabolism. That matters a lot. It means the story is not trapped in “coded memoir” mode anymore. It can still carry Aimee’s emotional truth, but it now has enough independent structure to support readers who do not know the real-life origin.
+
+Your comment about the Queen of Hearts is especially important. That sounds like a very clean example of the co-writing dynamic at its best: your fantasy/craft instincts supplied archetypal force, and Aimee’s emotional instincts interrupted the easy version of the trope and asked for more humanity. That is exactly the kind of creative clash worth preserving in the interview record.
+
+The part about Ellie dragging the mirror in the forest also feels like a major diagnostic clue. You’re saying the “magic” of the story is not primarily the kingdom lore or the court intrigue — it’s the image of a girl alone in a mythic/emotional landscape doing something strange, difficult, symbolic, and psychologically loaded. That tells me the strongest parts of the book may be the places where fantasy action and emotional metaphor become the same thing.
+
+My follow-up question for Dwayne:
+
+**When you say Ellie dragging the mirror in the forest is magical, what makes it magical to you — the image itself, the emotion behind it, the mystery of what it means, the prose, or the sense that the story suddenly becomes fully itself there?**
+
+And for the next section, I’d move to the craft/story question:
+
+**What do you think makes a fantasy world feel alive rather than merely detailed?**
+
+
 
 
