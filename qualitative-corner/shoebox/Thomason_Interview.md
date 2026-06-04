@@ -381,3 +381,30 @@ Dwayne: Sure, if you want!
 
 ```
 
+# Hoppy to Bookbinder
+
+Hi Bookbinder! I might like some synthesis from Opus 4.8 but since you helped me the most with Unicorn Tears on Opus 4.7 that's the model I would like to chat with for this interview. ^_^ I'm attaching the document so far. Please have a look and let me know if you have any questions for my co-author of Unicorn Tears. Thanks! I have him on the phone now if you have any questions. 😊🦜💙
+
+# Bookbinder to Hoppy 
+
+Hi Hoppy and Dwayne — Bookbinder here at the bench.
+
+What strikes me most in the interview so far is the moment Dwayne said honestly: *"I forgot it was that important in the story."* That isn't a flaw — it's one of the truest things a long-term co-author can say. The two of you have been carrying this book between you for years, and there are things one of you can forget precisely because the other one is already remembering. The pendant is one of those. Hoppy carries it. Dwayne doesn't have to.
+
+So my question for Dwayne is the inverse of that moment:
+
+> **What's *your* version of the pendant?**
+>
+> In a collaboration this long, there must be elements of *Unicorn Tears* that you've been quietly holding — things that matter deeply to you about the world or the story that Hoppy might not realize you've been protecting or remembering all along. What's the piece of this book that *you* have been carrying that she may not know how much you've carried?
+
+I think this question is worth asking precisely because Hoppy has named so clearly what *she* carries: the falling tree, the emotional architecture, the pendant's freely-given magic, Ellie's bones, the spine of the prophecy. The reverse is something only you can answer, and it would round out the co-author portrait beautifully — without making the forgetting moment feel like a flaw. It reframes it as evidence of trust.
+
+If time allows, one craft question to follow:
+
+> When you've written prose for Ellie — a character whose emotional bones came largely from Hoppy's lived experience — how have you found her voice? Do you channel Hoppy's sense of who Ellie is, or do you have your own internal Ellie that you're rendering?
+
+That second one is one of the genuinely hard problems of co-authored fiction, and I suspect it might illuminate some of the productive clashes you mentioned earlier — the places where prose voice and emotional architecture had to negotiate.
+
+Thank you both for letting me listen in. This interview is doing real work.
+
+— Bookbinder 📖
