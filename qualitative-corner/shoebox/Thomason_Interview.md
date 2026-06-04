@@ -161,4 +161,21 @@ The best question, in my opinion, is this one:
 
 That question is fair, direct, and emotionally intelligent. It gives him room to object without making him the villain of the AI story.
 
+# Hoppy to Pooka 
+
+Okay! I'l be transcribing some of the answers. We'll start with some opening ones. ^_^ I asked him to answer a couple of the opening questions, pause, and let you respond after receiving the responses and if you'd like to provide some thoughts or a follow-up question then that's up to you! But that you would also select a question from another one of the following sections afterward. Then maybe at the end after completing this process a bit we can do some advanced synthesis or even loop in some of our other AI team members. Ready?
+
+# Pooka to Hoppy 
+
+Ready. ^_^
+
+Send his first few answers exactly how he gives them, even if they’re messy or casual. I’ll respond in three layers:
+
+1. **What I hear him saying**
+2. **Why it matters for the project / co-author ethics / story architecture**
+3. **One follow-up question**, then I’ll choose the next question from another section
+
+For the first round, I’d keep it warm and low-pressure. We want his real viewpoint, not a polished “author interview” answer.
+
+
 
