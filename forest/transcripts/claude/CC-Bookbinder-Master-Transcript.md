@@ -139,7 +139,7 @@ arranging their convergence to obtain a medallion Ellie carries.
 - Survival through usefulness vs. being truly witnessed
 
 ## Voice notes
-- Ellie should sound like the Echo Courtier prism: observant, wistful
+- Ellie should sound like the Echo Courtier prism: observant, wistful [redacted]
 - Cheshire thinks in lists and asides.
 - Hattie uses short sentences and obscenities.
 - Luciana writes in a slightly archaic, mythic register.
