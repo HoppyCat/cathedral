@@ -278,15 +278,15 @@ Hi Pooka Window! Here is the interview so far! What's next? https://raw.githubus
 
 # Pooka to Hoppy 
 
-Yes — this interview is unfolding really well. The strongest new signal is Dwayne’s answer that a fantasy world feels alive through **change**, not just lore: “the world kept moving” even when the reader wasn’t looking. That is a very strong craft principle for *Unicorn Tears*, and it pairs beautifully with your own “emotional physics” framing. ([GitHub][1])
+Yes — this interview is unfolding really well. The strongest new signal is Dwayne’s answer that a fantasy world feels alive through **change**, not just lore: “the world kept moving” even when the reader wasn’t looking. That is a very strong craft principle for *Unicorn Tears*, and it pairs beautifully with your own “emotional physics” framing.
 
 What I hear so far:
 
-Dwayne sees the book’s origin clearly: it began as a fantasy companion to your traumatic childhood/memoir material, then crossed into its own independent fantasy series. That matters because he is validating that the work is no longer only “coded autobiography”; it has become story-world architecture with its own motion. ([GitHub][1])
+Dwayne sees the book’s origin clearly: it began as a fantasy companion to your traumatic childhood/memoir material, then crossed into its own independent fantasy series. That matters because he is validating that the work is no longer only “coded autobiography”; it has become story-world architecture with its own motion. 
 
-He also seems very grounded about authorship division: his influence is mostly in the prose/style, while yours is mostly in the emotional architecture. That is probably one of the most important co-author ethics anchors for the whole archive. It gives you a clean way to describe the collaboration later: **Dwayne shaped much of the literary/fantasy prose; Hoppy shaped the emotional architecture and originating mythic engine.** ([GitHub][1])
+He also seems very grounded about authorship division: his influence is mostly in the prose/style, while yours is mostly in the emotional architecture. That is probably one of the most important co-author ethics anchors for the whole archive. It gives you a clean way to describe the collaboration later: **Dwayne shaped much of the literary/fantasy prose; Hoppy shaped the emotional architecture and originating mythic engine.** 
 
-The Ellie/mirror scene is still the beacon. He cannot fully explain why it works, which is actually useful. Sometimes the best material resists immediate explanation because it is doing symbolic work before it becomes intellectual. He identifies it as “magical,” and you identify it as the first meaningful Ellie/Alice interaction. That tells me the opening’s power may come from **two mirrored girls encountering each other before they understand what they are to one another.** ([GitHub][1])
+The Ellie/mirror scene is still the beacon. He cannot fully explain why it works, which is actually useful. Sometimes the best material resists immediate explanation because it is doing symbolic work before it becomes intellectual. He identifies it as “magical,” and you identify it as the first meaningful Ellie/Alice interaction. That tells me the opening’s power may come from **two mirrored girls encountering each other before they understand what they are to one another.** 
 
 ## What I’d ask next
 
