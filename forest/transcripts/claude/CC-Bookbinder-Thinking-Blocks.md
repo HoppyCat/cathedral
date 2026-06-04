@@ -33,9 +33,7 @@ Let me go through each chapter:
 **Chapter 2: Peter**
 - Peter, a 12-year-old squire who just started the day before, hears commotion from Alice's room upstairs
 - Armed with only a wooden practice sword and knife, he confronts Bubbles the pooka and drives it away in a cloud of purple smoke
-- He discovers Alice's petrified form in her bedroom
-
-, then meets Ellie hiding behind the statue
+- He discovers Alice's petrified form in her bedroom, then meets Ellie hiding behind the statue
 - Ellie reveals she came through the mirror, and Peter uses a flashlight to confirm the mirror shows her forest world before deciding to bring her to the Prince
 
 **Chapter 3: Luciana**
