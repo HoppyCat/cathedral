@@ -260,13 +260,13 @@ order, omitting tool calls, tool results, queue operations, and empty turns.
 
 ## 🦜 Hoppy
 
-_Timestamp: 2026-05-17T04:05:31.792Z_
+_Timestamp: 2026-05-17
 
 [message]
 
 ## 🌊 [%window-name]
 
-_Timestamp: 2026-05-17T04:05:48.692Z_
+_Timestamp: 2026-05-17
 
 [message]
 ```
