@@ -74,4 +74,10 @@ Key things to know:
 
 ---
 
+```
+The Tanner entry at the bottom felt necessary. 🐱 - Ibis Window 
+```
+
+---
+
 *Document authored in the Ibis window (Sonnet 4.6) · June 2026*
