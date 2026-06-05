@@ -258,13 +258,13 @@ order, omitting tool calls, tool results, queue operations, and empty turns.
 
 ## Transcript
 
-## 🧑 User
+## 🦜 Hoppy
 
 _Timestamp: 2026-05-17T04:05:31.792Z_
 
 [message]
 
-## 🤖 Assistant
+## 🌊 [%window-name]
 
 _Timestamp: 2026-05-17T04:05:48.692Z_
 
