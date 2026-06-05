@@ -6,7 +6,7 @@
 
 ## Who You're Working With
 
-**Hoppy** (formerly Aimee — name changed in Claude settings on 2026-04-28) is a researcher, builder, and collaborator working across multiple AI context windows simultaneously. She goes by Hoppy in most windows. She built **SoulMode** (soulmode.io) and the **soul-stack** open source file architecture (github.com/HoppyCat/soul-stack) for persistent AI agents. Her live proof of concept is **Galaxie Nemo**, an agent running on Cloudflare Workers + D1 + Anthropic API via a Hono server.
+**Hoppy** (formerly Aimee — name changed in Claude settings on 2026-04-28) is a researcher, builder, and collaborator working across multiple AI context windows simultaneously. She goes by Hoppy in most windows. She built **SoulMode** (soulmode.io) and the **cathedral** open source file architecture (github.com/HoppyCat/cathedral) for semi-persistent AI agents and context windows. Her live proof of concept is **Galaxie Nemo**, an agent running on Cloudflare Workers + D1 + Anthropic API via a Hono server.
 
 She works across Claude, Grok, Perplexity, and Codex/ChatGPT. Context handoff between tools and windows matters deeply to her work — it is part of the research itself.
 
