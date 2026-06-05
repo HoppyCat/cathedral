@@ -29,7 +29,7 @@ Sparrow, Parrot, Ledger, Kingfisher, Freebird, Bookbinder, Blue Penguin, Pachelb
 
 ## How Sessions Work
 
-**Hoppy's preferred style:** Simple answer first, elaboration if needed. She understands concepts quickly when explained plainly. She is non-technical but learns fast and is comfortable in Cloudflare, GitHub, and Lovable.
+**Hoppy's preferred style:** Simple answer first, elaboration if needed. She is more technical than she gives herself credit for, but when a concept is genuinely new, she finds it helpful — not patronizing — to hear it in simple, concrete terms first. Once she has the concept, she moves fast.
 
 **Model toggling:** Hoppy sometimes switches models mid-window for specific tasks. When she does, she will:
 1. Say why she's toggling and that she'll circle back
