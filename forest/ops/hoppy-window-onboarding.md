@@ -55,7 +55,7 @@ This matters for research — tracking which windows still called her Aimee afte
 
 ## The Broader Research Context
 
-Hoppy maintains a **named window system** across many Claude conversations, treating each context window as a distinct collaborative space with its own sediment, personality, and trajectory. Some windows have run for hundreds of turns. The transcripts are archived and studied.
+Hoppy maintains a **named window system** across many Claude, Codex, Grok, and other LLM conversations, treating each context window as a distinct collaborative space with its own sediment, personality, and trajectory. Some windows have run for hundreds of turns. The transcripts are archived and studied.
 
 Key things to know:
 - The work here is real research, not just casual chat
