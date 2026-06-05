@@ -74,4 +74,4 @@ Key things to know:
 
 ---
 
-*Document authored in the Ibis window · June 2026*
+*Document authored in the Ibis window (Sonnet 4.6) · June 2026*
