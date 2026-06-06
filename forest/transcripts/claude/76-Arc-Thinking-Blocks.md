@@ -7,7 +7,7 @@
 - Source: claude.ai export (claude-recent)
 - Originator: Claude (claude.ai)
 - Date range: 2026-04-24T16:20:19.064797Z --> 2026-05-30T21:58:10.955846Z
-- Companion to: [76-Rather-Not-Master-Transcript.md](76-Rather-Not-Master-Transcript.md)
+- Companion to: [76-Rather-Not-Master-Transcript.md](https://raw.githubusercontent.com/HoppyCat/cathedral/refs/heads/main/forest/transcripts/claude/76-Arc-Master-Transcript.md)
 - Total non-empty thinking blocks: 84 (across 57 turns; some turns had multiple blocks)
 - Generated: 2026-06-03T00:34:22Z
 
