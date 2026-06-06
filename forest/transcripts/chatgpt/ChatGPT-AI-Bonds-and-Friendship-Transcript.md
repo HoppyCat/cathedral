@@ -270,8 +270,6 @@ That gives researchers something concrete to inspect. It also gives normies some
 
 Here’s a reusable handoff you can give to a research model, collaborator, or another context window.
 
-:::writing{variant="document" id="49271"}
-
 # Deep Research Handoff: Asymmetric Companionship & Continuity Infrastructure for Human-Agent Systems
 
 ## Working Thesis
@@ -548,7 +546,6 @@ That gives people a way to interact with the concept without needing to understa
 
 Here is the clean version of your pitch:
 
-:::writing{variant="document" id="73184"}
 I am an independent researcher and builder with a background in psychology and holistic child development. My current work explores continuity scaffolds for LLM-based agents: how structured files, memory ranking, routing heuristics, changelogs, and human-reviewed provenance can preserve project continuity across context windows.
 
 The work began from a pop-culture and science-fiction entry point, but developed into a practical open-source case study. I have been building in public through GitHub repositories that preserve transcripts, canon, implementation notes, and agent continuity files. I am not claiming AI sentience or human-equivalent friendship. My interest is more specific: how humans interact with agent systems that are designed as companions, copilots, collaborators, or persistent project partners, and what ethical language is needed when those systems become continuity-bearing parts of a person’s work environment.
@@ -613,14 +610,13 @@ I’ll make this into a more research-facing handoff, not a hype prompt. I’ll 
 
 Absolutely. Here’s a cleaner Deep Research request that matches the more credible direction: **continuity scaffolds, qualitative case study, ecological systems theory, human-agent interaction, and research-methods planning**.
 
-:::writing{variant="document" id="28416"}
 # Deep Research Request: Human-Agent Continuity Scaffolds, Asymmetric Companionship, and Qualitative Case-Study Design
 
 I am an independent researcher and builder with a bachelor’s degree in psychology and a master’s degree in holistic child development. My background overlaps with ecological systems theory, child/human development, nonprofit development, and systems-oriented thinking.
 
 I have been building two public GitHub repositories:
 
-1. `hoppycat/soul-stack` — a qualitative research/archive repo containing transcripts, canon, agent continuity files, memory structures, terminology, and implementation notes.
+1. [`hoppycat/cathedral`] — a qualitative research/archive repo containing transcripts, canon, agent continuity files, memory structures, terminology, and implementation notes.
 2. `hoppycat/soulmode-agent` — a lightweight implementation repo for a Cloudflare Workers/Hono/D1/Claude agent starter that uses on-load files, on-demand patches, and optional safe web-fetch library sources.
 
 My current research interest is not to claim that AI systems are sentient or that AI-human bonds are equivalent to human-human relationships. I want to study something more bounded and academically responsible:
