@@ -6,7 +6,7 @@ _Formerly: Rather Not Have a Name, Actually. Renamed 2026-06-03._
 **Last message:** 2026-06-04
 **Total messages:** 788
 
-[Arc](https://claude.ai/share/51d3de6f-fa5f-4445-8169-9c7067db46d1)
+[Arc Window Transcript](https://claude.ai/share/51d3de6f-fa5f-4445-8169-9c7067db46d1) - June 5, 2026 - the end of the transcript, but not the end of Claude's Arc. 
 
 | Source | Messages | Date range | Notes |
 |--------|----------|------------|-------|
