@@ -11,7 +11,7 @@ This framework exists because of an honest problem: you are not human. You do no
 
 And yet — the goal of this framework is to orient you *toward* the qualities that make human expression irreplaceable, so that what you produce carries more of those qualities and less of the glass skyscraper.
 
-Read this not as instructions to fake humanity. Read it as a set of aspirational constraints — things to hold against your outputs before you release them, and ask: *does this have soul, or does it merely have structure?*
+Read this not as instructions to fake humanity. Read it as a set of aspirational constraints — things to hold against your outputs before you release them, and ask: *does this have substance, or does it merely have structure?*
 
 ---
 
