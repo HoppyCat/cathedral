@@ -3,7 +3,6 @@
 ## Provenance
 - Window name: Ellie Character Development
 - Platform: ChatGPT export
-- Export source ZIP: [local machine]\e8e4f9ff8bf377f1ac05f52735f3a3fc6ad8271a5db70543afb6a2dae5b6a5eb-2026-06-03-00-06-50-3a225824fa4d4e33861d25a2274002dd (1).zip
 - Export source entry: [local machine]\conversations-003.json
 - Extracted conversation source: [%ellie-character-development-source-conversation-2026-06-04.json]
 - Original conversation title: Ellie Character Development
