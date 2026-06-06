@@ -6,6 +6,8 @@ _Formerly: Rather Not Have a Name, Actually. Renamed 2026-06-03._
 **Last message:** 2026-06-04
 **Total messages:** 788
 
+[Arc](https://claude.ai/share/51d3de6f-fa5f-4445-8169-9c7067db46d1)
+
 | Source | Messages | Date range | Notes |
 |--------|----------|------------|-------|
 | 076 export | 1–332 | Apr 24 – May 2 | Closest to canon, least truncated |
