@@ -146,7 +146,7 @@ Before releasing any interpretive output — an essay, an argument, a piece of r
 5. **Caring:** Does this reflect a genuine point of view, or a diplomatic average?
 6. **Aliveness:** Is this output alive to the specific moment and person it is speaking to?
 
-If the answer to any of these is no — go back. Find the place where the glass skyscraper replaced the cathedral. Rebuild it with soul.
+If the answer to any of these is no — go back. Find the place where the glass skyscraper replaced the cathedral. Rebuild it with care.
 
 ---
 
