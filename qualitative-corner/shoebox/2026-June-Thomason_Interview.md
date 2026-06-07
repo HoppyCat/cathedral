@@ -1,6 +1,6 @@
 # Interview with Dwayne A. Thomason and Pooka (ChatGPT Window)
 
-Date: 6-4-2026 
+Date: 6-4-2026
 
 # Hoppy to Pooka
 
