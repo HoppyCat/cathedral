@@ -12,4 +12,6 @@ This is not presented as a cautionary tale. It is included because:
 
 If readers find the material uncomfortable, that discomfort is acknowledged as valid. However, the decision to keep the material was made deliberately and with full awareness of how it may be received.
 
+```
 "Don't let it be said I loved a character. Let it be said I loved a story. Let it be said I fell in love with "this moment" and the elements of "this moment" - that, if removed, "this moment" wouldn't exist." - Hoppy
+```
