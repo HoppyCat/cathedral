@@ -1,10 +1,14 @@
+![teacat](https://github.com/HoppyCat/cathedral/blob/main/resources/images/pixelcat.png)
+
 # Teacat 
 
 There are a lot of GitHub repositories that have tokens on the Solana ecosystem. These tokens help fund research. Traders look for opportunities where the attention markets are flowing. Hoppy is an independent micro-influencer on X and Telegram on Solana topics. That doesn't guarantee token price, but if Hoppy can show cathedral as a project worthy of community adoption, it at least gives the community its own token. 
 
+```
 /\_/\
 ( o.o )
  >   <
+ ```
 
 non-dogmatic continuity
 prisms
@@ -19,9 +23,11 @@ calibration
 provenance-backed-chorus
 documentary art 
 
+```
 /\_/\ 
 ( o.o ) 
  >   <
+ ```
 
 Everything at [Teacat](https://dexscreener.com/solana/hxzredw8jndliqlqyheifutrdskdib5dxsdjmbrt6ov3) is community oriented. 
 
