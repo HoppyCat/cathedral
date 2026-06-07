@@ -84,7 +84,9 @@ https://soulmode.io
 The GitHubs and various subscriptions to LLM companies are where we focus all of our budget in running. GitHub is free. We release our insights via Open Source means. So you can depend on that if we don't have active funding, as long as we're actively making insights - you can find those insights on the dependable GitHub repositories first. ^_^ 
 
 https://github.com/hoppycat/cathedral/
+
 https://github.com/hoppycat/soulmode-agent/
+
 
 ### Fee Breakdown 
 40%
