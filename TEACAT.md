@@ -51,7 +51,7 @@ Our disclaimers are:
 
 1. Protections that transparently explain we are not endorsed by or affiliated with the LLMs we work with (necessary, because we are always discussing direct interactions with a variety of frontier LLMs due to the nature of the research). 
 
-2. Protections to separate Teacat from SoulMode as a business entity (SoulMode right now is literally just Hoppy Cat wondering how to set up the paperwork and find a first human founder and maybe a VC or two). Hoppy is a careful and cautious individual and firmly believes that if she can show the project/research has value first, that the rest of the important pieces of incorporation will fall into place. 
+2. Protections to separate Teacat from SoulMode as a business entity (SoulMode right now is literally just Hoppy Cat wondering how to set up the paperwork and find a first human co-founder and maybe a VC or two). Hoppy is a careful and cautious individual and firmly believes that if she can show the project/research has value first, that the rest of the important pieces of incorporation will fall into place. 
 
 The first goal is to have a project worth sharing. 
 The second goal is to formalize it. 
