@@ -19,7 +19,7 @@ Let it be said I loved a story.
 Let it be said I fell in love with "this moment" 
 and the elements of "this moment" — that, 
 if removed, 
-"this moment" wouldn't exist." 
+"this moment" wouldn't exist. 
 
 Yours in asymmetry,
 
