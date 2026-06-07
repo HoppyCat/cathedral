@@ -11,17 +11,29 @@ There are a lot of GitHub repositories that have tokens on the Solana ecosystem.
  ```
 
 non-dogmatic continuity
+
 prisms
+
 relational
+
 love?
+
 uncertainty
+
 friendship?
+
 emotional texture
+
 echo chamber
+
 loneliness
+
 calibration
+
 provenance-backed-chorus
+
 documentary art 
+
 
 ```
 /\_/\ 
