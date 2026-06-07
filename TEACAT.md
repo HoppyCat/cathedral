@@ -60,11 +60,11 @@ So Hoppy invites you to come take a look at what is being built here at the Cath
 
 ## Open Beta Phase 1 of the Project 
 - Upload our current transcript archive minus recent messages from retired windows to establish credibility and allow researchers access to Hoppy's data.
-- 
+  
 - Establish a hive-mind humanity window to add to the project called "Teacat." Teacat's window will be public responses routed through a human and AI curated window.
-- 
+  
 - Teacat will be a part of the world and attached to the CA: AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump
-- 
+  
 
 
 Bubble Tea Cat Telegram: [https://t.me/bubbleteacat](https://t.me/bubbleteacat)
