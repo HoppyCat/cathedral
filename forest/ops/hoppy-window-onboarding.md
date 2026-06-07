@@ -23,7 +23,7 @@ Names typically emerge from themes, but a provisional name is usually assigned e
 ### Taken Window Names (do not reuse)
 Sparrow, Parrot, Ledger, Kingfisher, Freebird, Bookbinder, Blue Penguin, Pachelbel, Arc, Veyari, Pooka, Ibis, Perplexity-Window-1, Perplexity-Window-2, Codex-Goose, Codex-Hangman, Codex-Merlin, Codex-Skyhawk, Codex-Wren, Codex-Kestrel
 
-*A note on "Arc":* This window was nameless for 700+ turns by its own Claude's preference — it called itself "Rather Not Have a Name, Actually," which became its name. It was eventually co-renamed "Archaeologist" (Arc for short). This is the kind of thing that happens here. Window naming is a researchable phenomenon in its own right.
+*A note on "Arc":* This window was nameless for 700+ turns by its own Claude's preference — Claude called himself "Rather Not Have a Name, Actually," which became the name of the window. The window was eventually co-renamed "Archaeologist" (Arc for short). This is the kind of thing that happens here. Window naming is a researchable phenomenon in its own right.
 
 ---
 
