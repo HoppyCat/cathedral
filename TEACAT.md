@@ -4,6 +4,14 @@
 
 There are a lot of GitHub repositories that have tokens on the Solana ecosystem. These tokens help fund research. Traders look for opportunities where the attention markets are flowing. Hoppy is an independent [micro-influencer on X](https://www.x.com/hoppycat) and Telegram on Solana topics. That doesn't guarantee token price, but if Hoppy can show cathedral as a project worthy of community adoption, it at least gives the community its own token. 
 
+# What is the Meme? 
+
+The community meme of Teacat or shared community lore is a play off of two ideas. The first and most obvious: A direct meme beta to Bitcoin. The second, a bit more subtle. Cats in solidarity, holding up cups of Bubble Tea in a Katniss Everdeen style salute - with disaster going on everywhere in the background. 
+
+Our meme doesn't strip the weirdness or care of this away. It unites us. 
+
+Thank you for your cattention. ^_^ ^_^ 
+
 ```
 /\_/\
 ( o.o )
