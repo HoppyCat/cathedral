@@ -9,7 +9,7 @@ Unless otherwise marked, Hoppy Cat grants academic researchers, independent rese
 This permission includes reasonable research use of:
 
 - repository text and documentation authored by Hoppy Cat;
-- public archive structures, glossaries, prompts, plays, prose, templates, transcripts, and analysis files;
+- public archive structures, glossaries, prompts, documentary plays, prose, templates, transcripts, and analysis files;
 - the names `Hoppy Cat`, `SoulMode`, `Cathedral`, `Stochastic Parrots Club`, and associated project terminology for attribution, citation, indexing, discussion, and research description;
 - public-facing project artifacts preserved in the repository, subject to the limits below.
 
