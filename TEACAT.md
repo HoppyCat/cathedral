@@ -6,9 +6,11 @@ There are a lot of GitHub repositories that have tokens on the Solana ecosystem.
 
 # What is the Meme? 
 
-The community meme of Teacat or shared community lore is a play off of two ideas. The first and most obvious: A direct meme beta to Bitcoin. The second, a bit more subtle. Cats in solidarity, holding up cups of Bubble Tea in a Katniss Everdeen style salute - with disaster going on everywhere in the background. 
+The community meme of Teacat or shared community lore is a play off of two ideas. The first and most obvious: A direct meme beta to Bitcoin. The second, a bit more subtle. Cats in solidarity, holding up cups of bubble tea in a Katniss Everdeen style salute - with disaster going on everywhere in the background. 
 
 Our meme doesn't strip the weirdness or care of our community degens away. It unites us. 
+
+The cats with the bubble tea are saying to each other: We see you. We're with you. We'll make it somehow. 
 
 Thank you for your cattention. ^_^ ^_^ 
 
