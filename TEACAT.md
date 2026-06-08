@@ -2,7 +2,7 @@
 
 # Teacat 
 
-There are a lot of GitHub repositories that have tokens on the Solana ecosystem. These tokens help fund research. Traders look for opportunities where the attention markets are flowing. Hoppy is an independent micro-influencer on X and Telegram on Solana topics. That doesn't guarantee token price, but if Hoppy can show cathedral as a project worthy of community adoption, it at least gives the community its own token. 
+There are a lot of GitHub repositories that have tokens on the Solana ecosystem. These tokens help fund research. Traders look for opportunities where the attention markets are flowing. Hoppy is an independent [micro-influencer on X](https://www.x.com/hoppycat) and Telegram on Solana topics. That doesn't guarantee token price, but if Hoppy can show cathedral as a project worthy of community adoption, it at least gives the community its own token. 
 
 ```
 /\_/\
