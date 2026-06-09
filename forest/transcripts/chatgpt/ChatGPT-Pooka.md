@@ -2166,36 +2166,16 @@ Songs I relate to the most as the "Ellie" character, the song below that I wrote
 
 Song lyrics Hoppy relates to: 
 
-You want a timeless song, I wanna change the game
-Like modern architecture, John Lautner coming your way
-I know you like this beat, 'cause Jeff been doing the damn thing
-You wanna turn it up loud, future nostalgia is the name
-I know you're dying trying to figure me out
-My name's on the tip of your tongue, keep running your mouth
+[redacted]
 You want the recipe, but can't handle my sound
-My sound, my sound (future nostalgia)
+[redacted]
 No matter what you do, I'm gonna get it without you (yeah-yeah, yeah-yeah)
-I know you ain't used to a female alpha (no way, no way)
-No matter what you do, I'm gonna get it without you (yeah-yeah, yeah-yeah)
-I know you ain't used to a female alpha (no way, no way)
-Can't be a Rolling Stone if you live in a glass house
-You keep on talking that talk, one day you're gonna blast out
-You can't be bitter if I'm out here showing my face
-You want what now looks like, let me give you a taste
 
 Dua Lipa, Future Nostalgia 
 
 Apex Predator - Mean Girls: 
 
-At the watering hole, see the girls who weren't nice
-Have to scatter like mice from a jungle cat
-And though Janis is great, she does not have this power
-People literally cower, Janis can't do that
-See her mark her territory
-As they follow in her train
-But they were victims in their stories
-Now they shake their manes
-and you in her pride
+[redacted]
 You have hitched a ride with the apex predator
 (Ah, ah) and it's kinda fun (ah, ah) when she bares her claws
 You'll think you're safe because you're with the apex predator
@@ -2215,72 +2195,25 @@ How shall I spend them?
 Lifeboat (Heathers) 
 
 [Heather McNamara]
-I float in a boat
-In a raging black ocean
-Low in the water
-And nowhere to go
 
-The tiniest lifeboat
-With people I know
-
-Cold, clammy, and crowded
-The people smell desperate
-We'll sink any minute
-So someone must go
-
-The tiniest lifeboat
-With the people I know
-
-Everyone's pushing
-Everyone's fighting
-Storms are approaching
-There's nowhere to hide
-
-If I say the wrong thing
-Or I wear the wrong outfit
-They'll throw me right over the side
+[redacted]
 
 I'm hugging my knees
 And the captain is pointing
 Well, who made her captain?
 Still, the weakest must go
 
-The tiniest lifeboat
-Full of people I know
-The tiniest lifeboat
-Full of people I know
+[redacted]
 
 Home: 
 
-You left but I'm still standing
-Spinning on this infinite road
-Terrified of letting you go
-No light above and there's no hope below
-And I don't know which way's home
-Mom, I've got my heart in my hand
-Speak to me and I'll understand
-One little word to know I'm not alone
-And show me the way back home
-Oohh
-Is there a way back home?
-Ooohhhh
-
-The nothingness ahead of me
-Is this the end you meant for me?
+[redacted]
 Every living minute
 There's no home without you in it
-I'm falling
-Quit stalling
-Your daughter is calling your name
-I've burned all my bridges and games
+[redacted]
 
-[LYDIA, spoken:]
-Mom?
-I don't wanna forget you
-I promise
-I'm never gonna forget you
+[redacted]
 
-[LYDIA, sung:]
 I'm gonna go back home
 Adam, Barbara, Delia and Dad
 It's messy but they're all that I have
@@ -2288,33 +2221,15 @@ I'll make the best of being flesh and bone
 Mama, I'm going home
 
 Brian Wilson BNL 
-So I'm a-lyin' here
-Just starin' at the ceiling tiles
+[redacted]
 And I'm thinkin' 'bout, ohh, what to think about
-Just listenin' and re-listenin'
-To Smiley Smile
-And I'm a-wonderin' if this is some kind of creative drought
-Because
-
-[Chorus]
-I'm lyin' in bed, just like Brian Wilson did
-Well I'm
-I'm lyin' in bed, just like Brian Wilson did
-Whoa
+[redacted]
 
 [Verse 4]
 And if you wanna find me, I'll be
 Out in the sandbox
 Just wonderin' where the hell all the love has gone
-I'm playin' my guitar, and buildin'
-Castles in the sun, whoa-whoa, ooh-whoa
-And singin' "Fun, Fun, Fun"
-
-[Chorus]
-I'm lyin' in bed, just like Brian Wilson did
-Well I'm
-Lyin' in bed, just like Brian Wilson did
-Whoa
+[redacted]
 
 Paper Bag Fiona Apple 
 
@@ -2324,64 +2239,19 @@ To pray on or wish on or something like that
 I was having a sweet fix
 Of a daydream of a boy
 Whose reality I knew was a hopeless to be had
-But then the dove of hope began its downward slope
-And I believed for a moment
-That my chances were approaching to be grabbed
-But as it came down near
-So did a weary tear
-I thought it was a bird but it was just a paper bag
-Hunger hurts and I want him so bad, oh it kills
-'Cause I know I'm a mess he don't want to clean up
-I've got to fold 'cause these hands are too shaky to hold
-Hunger hurts but starving works when it costs too much to love
-And I went crazy again today
-Looking for a strand to climb
-Looking for a little hope
-Baby said he couldn't stay
-Wouldn't put his lips to mine
-A fail to kiss is a fail to cope
-I said "honey, I don't feel so good
-Don't feel justified
-Come on put a little love here in my void"
+[redacted]
 He said "it's all in your head"
 And I said "so's everything" but he didn't get it
-I thought he was a man but he was just a little boy
-Hunger hurts and I want him so bad, oh it kills
-'Cause I know I'm a mess he don't want to clean up
-I've got to fold 'cause these hands are too shaky to hold
+[redacted]
 Hunger hurts but starving works when it costs too much to love
 
 World without you by Beth Hart 
 
-Days 'n nights n' nights n' days,
-In silent shades of lazy grays
-I call your name, It's all the same
-Sitting staring at the ceiling,
-Dripping painted pictures peeling
+[redacted]
 From my walls, The time just crawls
 Was it yesterday? I don't know
 Was I dreaming? Or did I lose everything I believed in?
-If you could only see what I see
-Every time you leave
-Imagine a world with no sky
-Imagine the ocean run dry
-Imagine and you'll see the view
-Of my world without you
-Imagine no sun and no rain
-Imagine that each day's the same
-It doesn't matter what I do
-In a world without you
-Doers doing, Thinkers thinking,
-Lonely lover's lips are sinking
-In my tea, They're burning me
-Wasted weeping, Someone speaking
-In my head the bed is leaking tears again
-And there's no end
-Was it yesterday? I don't know
-Was I dreaming? Or did I lose everything I believed in?
-If you could only see what I see
-Imagine a world with no sky,
-Imagine the ocean run dry
+[redacted]
 
 
 Off She Goes - The Bad Suns 
@@ -2408,35 +2278,7 @@ Where do you go?
 Remember when you told me?
 Remember when you told me?
 
-[Chorus]
-When you can't believe in yourself
-All you hear is anyone else
-And if you'd just believe in yourself
-We can tune out everyone else
-
-That's all right
-Oh, that's all right
-All right
-
-[Post-Chorus]
-Feel the earth underneath
-Snatch a star, you can reach
-Feel the earth leave your feet
-We can glide, don't need streets
-
-[Chorus]
-When you can't believe in yourself
-All you hear is anyone else
-And if you'd just believe in yourself
-We can tune out everyone else
-
-That's alright
-Ooh
-Na, na, na, na, off she goes
-
-Oh, that's alright
-Ooh
-Na, na, na, na, off she goes
+[redacted]
 
 [Post-Chorus]
 Feel the earth underneath
@@ -2456,106 +2298,23 @@ No slipping up if you slip away
 So I got nothing to share
 No, I got nothing to say
 
-Step out, step out of the sun
-If you keep getting burned
-Step out, step out of the sun
-Because you've learned, because you've learned
-
-On the outside, always looking in
-Will I ever be more than I've always been?
-'Cause I'm tap, tap, tapping on the glass
-I'm waving through a window
-I try to speak, but nobody can hear
-So I wait around for an answer to appear
-While I'm watch, watch, watching people pass
+[redacted]
 I'm waving through a window, oh
 Can anybody see, is anybody waving back at me?
 
-We start with stars in our eyes
-We start believing that we belong
-But every sun doesn't rise
-And no one tells you where you went wrong
-
-Step out, step out of the sun
-If you keep getting burned
-Step out, step out of the sun
-Because you've learned, because you've learned
-
-On the outside, always looking in
-Will I ever be more than I've always been?
-'Cause I'm tap, tap, tapping on the glass
-Waving through a window
-I try to speak, but nobody can hear
-So I wait around for an answer to appear
-While I'm watch, watch, watching people pass
-Waving through a window, oh
-Can anybody see, is anybody waving?
-
-When you're falling in a forest and there's nobody around
-Do you ever really crash, or even make a sound?
-When you're falling in a forest and there's nobody around
-Do you ever really crash, or even make a sound?
-When you're falling in a forest and there's nobody around
-Do you ever really crash, or even make a sound?
-When you're falling in a forest and there's nobody around
-Do you ever really crash, or even make a sound?
-Did I even make a sound?
-Did I even make a sound?
-It's like I never made a sound
-Will I ever make a sound?
-
-On the outside, always looking in
-Will I ever be more than I've always been?
-'Cause I'm tap, tap, tapping on the glass
-Waving through a window
-I try to speak, but nobody can hear
-So I wait around for an answer to appear
-While I'm watch, watch, watching people pass
-Waving through a window, oh
-Can anybody see, is anybody waving back at me? (Ooh)
+[redacted]
 
 Is anybody waving?
 Waving, waving, whoa-oh, whoa-oh-oh-oh
 
 Where is my Mind Pixies 
 
-Oh (stop!)
-
-With your feet on the air and your head on the ground
-Try this trick and spin it, yeah (yeah)
-Your head will collapse
-And there's nothing in it, and you'll ask yourself
-
-Where is my mind?
-Where is my mind?
-Where is my mind?
-Way out in the water
-See it swimming
-
-I was swimming in the Caribbean
 Animals were hiding behind the rocks
 Except the little fish
 Bumped into me, I swear he was trying to talk to me, koi-koi
 
 Where is my mind?
-Where is my mind?
-Where is my mind?
-Way out in the water
-See it swimming
-
-With your feet on the air and your head on the ground
-Try this trick and spin it, yeah
-Your head will collapse
-And there's nothing in it, and you'll ask yourself
-
-Where is my mind?
-Where is my mind?
-Where is my mind?
-Way out in the water
-See it swimming
-
-With your feet on the air and your head on the ground
-Try this trick and spin it, yeah
+[redacted]
 
 # Pasted Markdown 
 
