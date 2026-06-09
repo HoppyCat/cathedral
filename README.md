@@ -99,7 +99,7 @@ resources/              Images and templates including
 | [PROVENANCE.md](./PROVENANCE.md) | Genealogy of key language, metaphors, and frameworks |
 | [PARTICIPATION.md](./PARTICIPATION.md) | How public engagement is treated in the research |
 | [RESEARCH.md](./RESEARCH.md) | Permissions and guidance for external researchers |
-| [TEACAT.md](./TEACAT.md) | Hoppy's community token - if you appreciate our resources, please consider buying $2 to support! ^_^ |
+| [TEACAT.md](./TEACAT.md) | Hoppy's community token - if you appreciate our resources or documentary art, please consider buying $2 to support the creation of ongoing content! ^_^ |
 | [LICENSE.md](./LICENSE.md) | Licensing |
 
 ---
