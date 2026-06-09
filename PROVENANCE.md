@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file tracks the genealogy of key language, metaphors, and frameworks used in the soul-stack project. It is here because phrases can travel across many context windows and become canonical through repetition before anyone has noted where they first appeared. The goal is not to police originality but to give honest credit, distinguish adaptation from invention, and flag anything that should be verified more carefully.
+This file tracks the genealogy of key language, metaphors, and frameworks used in the cathedral (formerly soul-stack) project. It is here because phrases can travel across many context windows and become canonical through repetition before anyone has noted where they first appeared. The goal is not to police originality but to give honest credit, distinguish adaptation from invention, and flag anything that should be verified more carefully.
 
 Where a metaphor passed through multiple contributors, this document tries to trace each step: the upstream human source, Hoppy's adaptation into agent guidance, the AI voices that extended or inhabited it, and the formalisation that made it stable enough to name in a file.
 
