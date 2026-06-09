@@ -1,3 +1,5 @@
+![progeny](https://github.com/HoppyCat/cathedral/blob/main/resources/images/beautiful.jpg)
+
 # progeny/
 
 **Co-authored meraki from the forest**
