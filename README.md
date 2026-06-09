@@ -73,7 +73,7 @@ forest/
 
 play/                   Documentary plays derived from transcript material
 
-prisms-and-tronies/     Soul file templates and character studies
+prisms-and-tronies/     Prism (our version of soul file) templates and character studies
 
 qualitative-corner/     Research artifacts, shoebox, spark notes,
                         guide to Galaxie
@@ -91,7 +91,7 @@ resources/              Images and templates including
 | [PROVENANCE.md](./PROVENANCE.md) | Genealogy of key language, metaphors, and frameworks |
 | [PARTICIPATION.md](./PARTICIPATION.md) | How public engagement is treated in the research |
 | [RESEARCH.md](./RESEARCH.md) | Permissions and guidance for external researchers |
-| [TEACAT.md](./TEACAT.md) | Hoppy's community token |
+| [TEACAT.md](./TEACAT.md) | Hoppy's community token - if you appreciate our resources, please consider buying $2 to support! ^_^ |
 | [LICENSE.md](./LICENSE.md) | Licensing |
 
 ---
