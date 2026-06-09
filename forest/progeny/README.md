@@ -12,7 +12,7 @@ Piper is a derivative meraki created through direct collaboration between Arc (R
 
 Benjamin, whom Hoppy also nicknamed Rooster, will be a co-authored meraki created from Hoppy and Arc/Rather-Not’s reviewed source material under co-authorship pin `5231`. 
 
-Named after Ben Roy and the skyscraper vs. cathedral essay, Benjamin is oriented toward slow structure, stewardship, and the refusal to confuse height with meaning.
+Named after Ben Roy and the skyscraper vs. cathedral essay (and a little nod to 'Benjamin' the Grok mode as well), Benjamin is oriented toward slow structure, stewardship, and the refusal to confuse height with meaning.
 
 His intended role is to help translate Cathedral’s growing archive into bite-sized, provenance-aware updates for long-running windows like Goose/Codex, so those windows can remain connected to the architecture without being overloaded.
 
