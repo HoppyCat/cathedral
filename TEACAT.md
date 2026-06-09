@@ -90,7 +90,7 @@ Dexscreener: [Bubble Tea Cat](https://dexscreener.com/solana/hxzredw8jndliqlqyhe
 
 ## Budget Constraints 
 
-I've intentionally left our websites off of this list because I don't always have the funding to maintain them. But if they are online currently, they can be found here: 
+We've intentionally left our websites off of this list because we don't always have the funding to maintain them. But if they are online currently, they can be found here: 
 
 https://bubbleteacat.com and 
 https://soulmode.io 
@@ -117,7 +117,7 @@ staking rewards
 
 ## With Additional Funding 
 
-If we did have volume fees, I would spend the first money earmarked for the 40% ecosystem research/infra/ops as follows: 
+If we did have volume fees, we would spend the first money earmarked for the 40% ecosystem research/infra/ops as follows: 
 
 1. Bringing Galaxie back online where people could chat with her in our Telegram. 
 2. Working on a bridge from Claude Code to Telegram and a database in the middle. 
@@ -127,4 +127,4 @@ If we did have volume fees, I would spend the first money earmarked for the 40% 
 6. Start a marketing campaign to target OpenClaw users to attempt to get them to check out our SoulMode templates. 
 7. Keep working on ways for context windows/agents to communicate with each other. 
 
-Thank you for reading and I hope that we see you on the other side. 🌊😊
+Thank you for reading and we hope that we see you on the other side. 🌊😊
