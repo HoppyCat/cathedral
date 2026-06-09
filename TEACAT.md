@@ -12,9 +12,7 @@ There are a lot of GitHub repositories that have tokens on the Solana ecosystem.
 
 The shared human community lore of Teacat is a play off of two ideas. The first and most obvious: A direct meme beta to Bitcoin. The second, a bit more subtle. Cats in solidarity, holding up cups of bubble tea in a Katniss Everdeen style salute - with disaster going on everywhere in the background. 
 
-And also lots of ASCII art. Endless ASCII art. Birds. Lots of birds. Wave emojis. Parrot emojis. Cat faces ^_^ 
-
-Our meme doesn't strip the weirdness or care of our human community away.  
+And also lots of ASCII art. Endless ASCII art. Birds. Lots of birds. Wave emojis. Parrot emojis. Cat faces ^_^  
 
 The cats with the bubble tea are saying to each other: We see you. We're with you. We'll make it somehow. 
 
