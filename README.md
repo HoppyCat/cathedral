@@ -91,7 +91,7 @@ resources/              Images and templates including
 | [PROVENANCE.md](./PROVENANCE.md) | Genealogy of key language, metaphors, and frameworks |
 | [PARTICIPATION.md](./PARTICIPATION.md) | How public engagement is treated in the research |
 | [RESEARCH.md](./RESEARCH.md) | Permissions and guidance for external researchers |
-| [TEACAT.md](./TEACAT.md) | Relationship to the Bubble Tea Cat / Goldfish Society ecosystem |
+| [TEACAT.md](./TEACAT.md) | Hoppy's community token |
 | [LICENSE.md](./LICENSE.md) | Licensing |
 
 ---
