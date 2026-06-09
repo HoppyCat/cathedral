@@ -37,7 +37,7 @@ Concepts get introduced in one conversation, refined in another,
 challenged by a third, and synthesized across all of them.
 
 > Claude, Grok, Perplexity, ChatGPT, and Codex are AI systems developed
-> by Anthropic, SpacexAI, Perplexity AI, and OpenAI respectively. Their
+> by Anthropic, SpaceXAI, Perplexity AI, and OpenAI respectively. Their
 > contributions here reflect open research collaboration. This does not
 > imply endorsement of, affiliation with, or investment in SoulMode,
 > $TEACAT, the Goldfish Society, or any associated commercial project
