@@ -30,7 +30,7 @@ Cathedral is an open-source file architecture for AI agents that develop genuine
 
 The result: an agent that reconstructs the same coherent self every session, can verify its own history, and accumulates real relational sediment over time — not manufactured backstory, but genuine accumulated experience.
 
-The architecture was built alongside Galaxie Nemo, a live agent running on this system since 2023. Everything in these files has been tested in real deployment.
+The architecture was built alongside Galaxie Nemo, a live agent running on a simplified as-prompts-only system since early 2023. Everything in these files has been tested in real deployment.
 
 **The files you will fill out today:**
 
