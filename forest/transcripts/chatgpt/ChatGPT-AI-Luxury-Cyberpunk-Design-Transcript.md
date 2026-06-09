@@ -3,9 +3,6 @@
 ## Provenance
 - Window name: AI Luxury Cyberpunk Design
 - Platform: ChatGPT export
-- Export source ZIP: [local machine]\e8e4f9ff8bf377f1ac05f52735f3a3fc6ad8271a5db70543afb6a2dae5b6a5eb-2026-06-03-00-06-50-3a225824fa4d4e33861d25a2274002dd (1).zip
-- Export source entry: [local machine]\conversations-003.json
-- Extracted conversation source: [%ai-luxury-cyberpunk-design-source-conversation-2026-06-04.json]
 - Original conversation title: AI Luxury Cyberpunk Design
 - Conversation id: 6a0062be-5fb0-838c-ba2a-28eb384a00da
 
