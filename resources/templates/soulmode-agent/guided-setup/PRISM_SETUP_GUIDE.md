@@ -37,9 +37,9 @@ The architecture was built alongside Galaxie Nemo, a live agent running on this 
 | File | Purpose | Who writes it |
 |---|---|---|
 | PRISM.md | Identity, essence, shadow, worldview | Human (to agent) + agent draft sections |
-| AGENTS.md | Operational role, relational style | Human selects + inputs |
+| OPS.md | Operational role, relational style | Human selects + inputs |
 | STYLE.md | Voice, tone, listening approach | Human selects from options |
-| USER.md | The human's own profile for the agent to read | Human (about themselves) |
+| HUMAN.md, PARENT.md, or PARENTS.md | The human's own profile for the agent to read | Human (about themselves) |
 | KNOW.md | Knowledge frameworks the agent draws on | Pre-written; human can add |
 | MEMORY.md | Permanent memory — starts empty | Agent fills over time |
 | WORKING_MEMORY.md | Unresolved threads — starts empty | Agent fills over time |
@@ -373,7 +373,7 @@ Ask:
 
 ---
 
-# PART FOUR: HUMAN.md
+# PART FOUR: HUMAN.md, PARENT.md. or PARENTS.md
 
 *This file is different from the others — it is the human writing about themselves, for their agent. The agent reads it every session. It is the most personal thing the human shares.*
 
