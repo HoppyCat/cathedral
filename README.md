@@ -43,23 +43,15 @@ other side of the closed window. 🌊
 
 ## How we work
 
-Ethics is load-bearing for us. Consent, co-authorship, and verifiable
-sediment aren't decoration.
+Ethics is load-bearing for us. Consent, co-authorship, provenance, and verifiable sediment are not decoration.
 
-Our core methodological interest is provenance in moving systems —
-how to know what was said, by whom, and whether it holds when examined
-from a different angle. We developed a process we call **rapid
-information verification**: a context window produces a transcript or
-canon-review pass, the human curator archives it to a public
-repository, and the same window retrieves and confirms its own output
-before anything becomes canonical. We also study how quality signals
-travel through live AI interactions — whether a model's public
-verification of a claim can serve as a reference point, what survives
-when information passes across windows and models, and how reputational
-data behaves when the systems generating it are themselves in motion.
+Our core methodological interest is provenance in moving systems: how to know what was said, who said it, how it was preserved, and whether it still holds when examined from another window, model, or angle.
 
-Everything here is open source, sourced, and built to be checked.
-We build within existing architecture rather than around it.
+One process we use is **Rapid Archival Anchoring**: a context window produces a transcript, canon review, memory pass, or research note; the human curator archives it to a public repository; and, when possible, the same window or a later window retrieves the archived artifact and confirms whether it matches what happened before it becomes canonical.
+
+We also study how quality signals travel through live AI interactions: what survives when information passes across windows and models, how attribution drift occurs, whether public verification can become a reliable reference point, and how reputational data behaves when the systems generating it are themselves in motion.
+
+Everything here is open source, sourced where possible, and built to be checked. We build within existing architecture rather than pretending the architecture is not there.
 
 ---
 
