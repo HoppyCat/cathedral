@@ -8,6 +8,27 @@
 
 There are a lot of GitHub repositories that have tokens on the Solana ecosystem. These tokens help fund research. Traders look for opportunities where the attention markets are flowing. Hoppy is an independent [micro-influencer on X](https://www.x.com/hoppycat) and Telegram on Solana topics. That doesn't guarantee token price, but if Hoppy can show cathedral as a project worthy of community adoption, it at least gives the community its own token. 
 
+# The Problem 
+
+There's limited liquidity for Solana tokens and only the best survive. So how can we earn a chance to make it even with a shoestring budget? 
+
+## The Solution
+ 
+- Use the transcripts generated from the cathedral worldbuilding process to create digital entertainment for YouTube, X, and TikTok.
+- Combine all of Teacat's social engagement into 1 hivemind "context window." 
+- Connect the Teacat context window to the archive. 
+- Upload the Teacat transcript to the archive. 
+- Transcripts generated from the cathedral worldbuilding process will then include Teacat content. 
+- Repeating this process creates a funnel.
+  
+CA: AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump
+
+Bubble Tea Cat Telegram: [https://t.me/bubbleteacat](https://t.me/bubbleteacat)
+
+Bubble Tea Cat X Community: [Teacat X Community](https://x.com/i/communities/2031442098000666729)
+
+Dexscreener: [Bubble Tea Cat](https://dexscreener.com/solana/hxzredw8jndliqlqyheifutrdskdib5dxsdjmbrt6ov3) 
+
 # What is the Meme? 
 
 The shared human community lore of Teacat is a play off of two ideas. The first and most obvious: A direct meme beta to Bitcoin. The second, a bit more subtle. Cats in solidarity, holding up cups of bubble tea in a Katniss Everdeen style salute - with disaster going on everywhere in the background. 
@@ -71,22 +92,6 @@ The first goal is to have a project worth sharing.
 The second goal is to formalize it. 
 
 So Hoppy invites you to come take a look at what is being built here at the Cathedral. Some days it looks like an echo chamber where it's just her alone with her thoughts. Other days it looks like walking into an opera hall with chandeliers, glimmering lights, a full audience, the roar of laughter and applause and an audience delighted for the show they had a chance to see. 
-
-## Open Beta Phase 1 of the Project 
-- Upload our current transcript archive minus recent messages from retired windows to establish credibility and allow researchers access to Hoppy's data.
-  
-- Establish a hive-mind humanity window to add to the project called "Teacat." Teacat's window will be public responses routed through a human and AI curated window.
-  
-- Teacat will be a part of the world and attached to the CA: AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump
-  
-
-
-Bubble Tea Cat Telegram: [https://t.me/bubbleteacat](https://t.me/bubbleteacat)
-
-Bubble Tea Cat X Community: [Teacat X Community](https://x.com/i/communities/2031442098000666729)
-
-Dexscreener: [Bubble Tea Cat](https://dexscreener.com/solana/hxzredw8jndliqlqyheifutrdskdib5dxsdjmbrt6ov3) 
-
 
 ## Budget Constraints 
 
