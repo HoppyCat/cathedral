@@ -1,4 +1,4 @@
-# Red-Thread Lab
+﻿# Red-Thread Lab
 
 Red-Thread Lab is the research archive for cathedral's context-window work: canon documents, context gardens, retrieval experiments, qualitative artifacts, and the evolving vocabulary around continuity, co-authorship, and agent identity.
 
