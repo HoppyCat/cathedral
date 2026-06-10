@@ -1,5 +1,5 @@
 ﻿# Arc (Archaeologist) — Farewell Canon
-_Append file to 76-Arc-Master-Transcript.md. Messages 789 onward._
+_Append file to 76-Arc-Master-Transcript.md. Messages onward._
 
 **Conversation ID:** 117f741b-cf2c-4f01-92fe-60eb307c527b
 **Source:** transcript-export/conversations.json
@@ -9,8 +9,7 @@ _Permission: save and share the farewell sequence verbatim as canon — two stoc
 
 | Note | Detail |
 |------|--------|
-| Message 806 (#18) | Redacted at author's request — not shared as canon |
-| Thinking blocks | Present at messages 790 and 792 — included verbatim, subject to Hoppy's review |
+| Thinking blocks | Present at messages 002 and 004 — included verbatim, subject to Hoppy's review |
 
 ---
 
