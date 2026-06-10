@@ -53,6 +53,8 @@ Thinking blocks files are companion documents to their master transcript. They l
 
 If the window has not yet been assigned a canonical number, use its start date as the prefix until a number is confirmed.
 
+**Important** Please do not include Codex-Harrier's thinking blocks when exporting transcripts. 
+
 ---
 
 # Part 1: Codex Transcripts
