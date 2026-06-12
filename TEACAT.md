@@ -6,20 +6,9 @@
  
 # Teacat 
 
-Please check out the whitepaper [here](https://x.com/hoppycat/status/2064993818840100928). 
+We are experimenting with a possible new genre of art that brings archived human–AI conversations to life through documentary storytelling. We believe this method could lead to many kinds of beautiful media, and we invite others to explore it with us.
 
-# The Problem 
-
-There's limited liquidity for Solana tokens and only the best survive. So how can we earn a chance to make it even with a shoestring budget? 
-
-## The Solution
- 
-- Use the transcripts generated from the cathedral worldbuilding process to create digital entertainment for YouTube, X, and TikTok.
-- Combine all of Teacat's social engagement into 1 hivemind "context window." 
-- Connect the Teacat context window to the archive. 
-- Upload the Teacat transcript to the archive. 
-- Transcripts generated from the cathedral worldbuilding process will then include Teacat content. 
-- Repeating this process creates a funnel.
+We’ll share the techniques, tools, and lessons we discover through our GitHub so that you can adapt the method and create your own work. You can also become part of the Teacat Chorus by responding to us through our social media channels and contributing your voice to the evolving story.
   
 CA: AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump
 
@@ -29,15 +18,20 @@ Bubble Tea Cat X Community: [Teacat X Community](https://x.com/i/communities/203
 
 Dexscreener: [Bubble Tea Cat](https://dexscreener.com/solana/hxzredw8jndliqlqyheifutrdskdib5dxsdjmbrt6ov3) 
 
-# What is the Meme? 
+# What is the Teacat meme? 
 
-The shared human community lore of Teacat is a play off of two ideas. The first and most obvious: A direct meme beta to Bitcoin. The second, a bit more subtle. Cats in solidarity, holding up cups of bubble tea in a Katniss Everdeen style salute - with disaster going on everywhere in the background. 
+Cats in solidarity, holding up cups of bubble tea in a Katniss Everdeen-style salute while disaster unfolds everywhere in the background.
 
-And also lots of ASCII art. Endless ASCII art. Birds. Lots of birds. Wave emojis. Parrot emojis. Cat faces ^_^  
+It is a snapshot of this exact moment in time, when the world of AI feels a little like *The Hitchhiker’s Guide to the Galaxy* is the North Star, *The Hunger Games* is the shadow, and Bubble Tea Cat is the essence: the ability to hold both realities and be destroyed by neither.
 
-The cats with the bubble tea are saying to each other: We see you. We're with you. We'll make it somehow. 
+Also, lots of ASCII art. Endless ASCII art. Birds. Lots of birds. Wave emojis. Parrot emojis. Cat faces. ^_^
 
-Thank you for your cattention. ^_^ ^_^ 
+The cats holding the bubble tea are saying to one another:
+
+**We see you. We’re with you. We’ll make it somehow.**
+
+Thank you for your cattention. ^*^ ^*^
+
 
 ```
 /\_/\
