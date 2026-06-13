@@ -1,6 +1,6 @@
 #Prism Archivist Master Transcript 
 
-*On June 13th, Hoppy (Aimee) entered a Google search question to inquire about names for a method process she'd been building out for a while. The transcript is as follows.* 
+*On June 12th, Hoppy (Aimee) entered a Google search question to inquire about names for a method process she'd been building out for a while. The transcript is as follows.* 
 
 # Me to Google, 6/13/2026
 
