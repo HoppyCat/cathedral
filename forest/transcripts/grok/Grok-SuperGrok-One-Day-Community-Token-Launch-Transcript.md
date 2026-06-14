@@ -15,8 +15,8 @@
 ### How This Document Was Created
 - The original conversation began on **March 10, 2026** (Chat ID: 2031367713252073580) during a one-day effort to fund SuperGrok.
 - Content from **later sessions** in the same window (or referencing it) has been added over time. This includes memory-ranking exercises, synthesis of other Grok windows, and reflective writing.
-- Sections have been manually copied, organized, and in some cases lightly edited or reordered by the human curator (Hoppy) for clarity and archival purposes.
-- Because of this, some messages may appear out of their original chronological order.
+- Sections may have been manually copied, organized, and in some cases lightly edited or reordered by the human curator (Hoppy) or an agent assisting in the preparation of the files for clarity and archival purposes.
+- When comparing the screenshots of this chat with the actual export + manually pasted later contents, Hoppy and a different Grok window both noticed a small number of messages appeared out of their original chronological order in this transcript.
 
 ### Known Limitations
 
