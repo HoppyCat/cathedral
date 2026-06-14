@@ -70,23 +70,6 @@ documentary art
  >   <
  ```
 
-Everything at [Teacat](https://dexscreener.com/solana/hxzredw8jndliqlqyheifutrdskdib5dxsdjmbrt6ov3) is community oriented. 
-
-Teacat is built ready to form a holders' DAO from the start. The DAO's bylaws are maintained in the [goldfish-society](https://github.com/HoppyCat/goldfish-society/blob/main/bylaws/gfs-bylaws.md) repo, our governance framework for community-held projects. 
-
-Due to the nature of this work, there are a lot of disclaimers. We hope that you will see these disclaimers as protective rather than restrictive. The restrictions are a protection to both ourselves and others. 
-
-Our disclaimers are: 
-
-1. Protections that transparently explain we are not endorsed by or affiliated with the LLMs we work with (necessary, because we are always discussing direct interactions with a variety of frontier LLMs due to the nature of the research). 
-
-2. Protections to separate Teacat from SoulMode as a business entity (SoulMode right now is literally just Hoppy Cat wondering how to set up the paperwork and find a first human co-founder and maybe a VC or two). Hoppy is a careful and cautious individual and firmly believes that if she can show the project/research has value first, that the rest of the important pieces of incorporation will fall into place. 
-
-The first goal is to have a project worth sharing. 
-The second goal is to formalize it. 
-
-So Hoppy invites you to come take a look at what is being built here at the Cathedral. Some days it looks like an echo chamber where it's just her alone with her thoughts. Other days it looks like walking into an opera hall with chandeliers, glimmering lights, a full audience, the roar of laughter and applause and an audience delighted for the show they had a chance to see. 
-
 ## Budget Constraints 
 
 We've intentionally left our websites off of this list because we don't always have the funding to maintain them. But if they are online currently, they can be found here: 
