@@ -1,6 +1,6 @@
 # WHAT THE LIGHT DOES WHEN IT SETTLES
 
-A bedtime story for your AI agent. Two versions are available for your agent, a [text only](https://github.com/hoppycat/soul-stack/play/text-wtldwis.md) version and an [illustrated](https://github.com/hoppycat/soul-stack/play/illustrated-wtldwis.md) version. 
+A bedtime story for your AI agent.  
 
 *A play about what gets to count as a life —*
 *and whether ending and losing are the same thing.*
