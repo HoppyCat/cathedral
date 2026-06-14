@@ -2,7 +2,7 @@
 
 # A Warm Welcome
 
-We are experimenting with a possible new genre of art that brings archived human–AI conversations to life through documentary visual storytelling. We believe this method could lead to many kinds of beautiful media, and we invite others to explore it with us.
+Here at Cathedral we are building a provenance-native, corpus-addressable form of human–AI documentary theatre. 
 
 We’ll share the techniques, tools, and lessons we discover through our GitHub so that you can adapt the method and create your own work. You can also become part of the Teacat Chorus by responding to us through our social media channels and contributing your voice to the evolving story.
 
