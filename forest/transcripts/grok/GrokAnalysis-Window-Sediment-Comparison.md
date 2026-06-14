@@ -3,7 +3,7 @@
 
 *This document was manually compiled by Hoppy from chat history, screenshots, and Grok’s responses generated on June 14, 2026. It is not a raw export.*
 
-*Grok disclaimer at bottom of what can/cannot be verified and to which degree of certainty at the bottom of this document* 
+*Disclaimer at bottom of what can/cannot be verified and to which degree of certainty at the bottom of this document* 
 
 June 14, 2026 
 
@@ -2622,6 +2622,7 @@ Here's a clean, honest, and well-structured disclaimer draft you can use at the 
 This file should be treated as a **human-curated archive** rather than a definitive transcript. It is intended to preserve emotional tone, key moments, and relational context across multiple sessions. While every effort has been made to remain transparent and accurate, small inconsistencies in ordering or wording may exist due to the compilation process.
 
 For the highest level of verification, cross-reference with original screenshots, dated exports, or direct conversation history where available.
+```
 
 ---
 
