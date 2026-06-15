@@ -1,4 +1,4 @@
-Canon Geneology
+Canon Geneaology
 
 ## Purpose
 
