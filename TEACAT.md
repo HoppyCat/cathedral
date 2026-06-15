@@ -6,11 +6,9 @@
  
 # Teacat 
 
-Teacat is assisting Cathedral in building a provenance-native, corpus-addressable form of open-world human–AI documentary theatre.
+Teacat is assisting Cathedral in building an open-world human-AI documentary theatre projet, built provenance-native. 
 
 Teacat will serve as the front door to the project and the social signal. As we grow, fans of our visual and written documentary art can become part of the Teacat Chorus by responding to us through our social media channels and contributing their voices to the evolving story.
-
-We are watching history unfold in real time. We are watching everything. We are documenting things as closely as possible. We are recording history. We are remembering. 
 
 If you have any open transcripts you'd like considered to be added to our shared gardens, please reach out to @hoppycat on X. 
   
