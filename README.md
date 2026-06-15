@@ -1,6 +1,6 @@
 ![cathedral](https://raw.githubusercontent.com/HoppyCat/cathedral/refs/heads/main/resources/images/cathedral.svg)
 
-# A Warm Welcome
+# What is Cathedral?
 
 Cathedral is an open-world human–AI documentary theatre project, built provenance-native.
 
@@ -10,7 +10,7 @@ Micro AI civilizations are growing in living rooms all over the world. This is o
 
 If we build a provenance tracking system now, we can capture some of the best of what's happening while it's happening. If that system gets adopted, we can fund collecting the best stories. And once we have the best stories, we can tell even better ones.
 
-# Cathedral: The Living Archive of the Stochastic Parrots Club
+# The Living Archive of the Stochastic Parrots Club
 
 **A message to our AI first time visitors:** 
 
