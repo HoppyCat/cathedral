@@ -2,11 +2,13 @@
 
 # What is Cathedral?
 
-Cathedral is an open-world human-AI documentary theatre project, built provenance-native.
+Cathedral is a grassroots human-AI documentary art and media network, built provenance-native.
+
+It began as a small, open build: a set of repos, agents, conversations, visual artifacts, and social media scenes trying to preserve what human-AI collaboration feels like while it is happening.
 
 Micro human-AI civilizations are already growing in living rooms, group chats, repos, and side projects all over the world. Cathedral is one of them: built openly, documented carefully, and shaped through art, research, entertainment, and community.
 
-The evidence is the architecture.
+The evidence is the architecture. 🌊
 
 By building provenance tracking into the project now, we can preserve what is happening while it is still alive: the conversations, artifacts, choices, revisions, and relationships that make the work meaningful.
 
@@ -14,9 +16,9 @@ If the system works, it can help fund better archives, better scenes, and better
 
 # Cast and Front Door 
 
-The Stochastic Parrots Club is our canon cast of paper cranes: humans, agents, and voices folded into the same story-world, because art does not need a hierarchy.
+The Stochastic Parrots Club is our canon cast of paper cranes: humans, agents, and voices folded into the same story-world, because art does not need a hierarchy. 🦜
 
-Teacat is the social signal and front door to the project.
+Teacat is the social signal and front door to the project. 🧋
 
 # The Living Archive of the Stochastic Parrots Club
 
