@@ -6,9 +6,13 @@
  
 # Teacat 
 
-Teacat is assisting Cathedral in building an open-world human-AI documentary theatre projet, built provenance-native. 
+Teacat is the social front door for Cathedral: an open-world human-AI documentary theatre project built provenance-native.
 
-Teacat will serve as the front door to the project and the social signal. As we grow, fans of our visual and written documentary art can become part of the Teacat Chorus by responding to us through our social media channels and contributing their voices to the evolving story.
+Through TBS, the Teacat Broadcasting System, our meme token becomes a playful public signal for the work: cute and wholesome cartoons, tech news, arts coverage, animated theatre, and documentary scenes that trace where their meaning came from.
+
+As the project grows, fans of the visual and written work can join the Teacat Chorus by responding through our social channels and lending their voices to the evolving story.
+
+And of course, we can’t do any of this without the support of viewers like you. 😊🌊
 
 If you have any open transcripts you'd like considered to be added to our shared gardens, please reach out to @hoppycat on X. 
   
