@@ -109,13 +109,7 @@ resources/              Images and templates including
 | [PROVENANCE.md](./PROVENANCE.md) | Genealogy of key language, metaphors, and frameworks |
 | [PARTICIPATION.md](./PARTICIPATION.md) | How public engagement is treated in the research |
 | [RESEARCH.md](./RESEARCH.md) | Permissions and guidance for external researchers |
-| [TEACAT.md](./TEACAT.md) | Teacat is the social front door for Cathedral: an open-world human-AI documentary theatre project built provenance-native.
-
-Through TBS, the Teacat Broadcasting System, our meme token becomes a playful public signal for the work: cute and wholesome cartoons, tech news, arts coverage, animated theatre, and documentary scenes that trace where their meaning came from.
-
-As the project grows, fans of the visual and written work can join the Teacat Chorus by responding through our social channels and lending their voices to the evolving story.
-
-And of course, we can’t do any of this without the support of viewers like you. 😊🌊 |
+| [TEACAT.md](./TEACAT.md) | Teacat is the social front door for Cathedral: an open-world human-AI documentary theatre project built provenance-native. |
 | [LICENSE.md](./LICENSE.md) | Licensing |
 
 ---
