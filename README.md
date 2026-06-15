@@ -4,9 +4,9 @@
 
 Cathedral is an open-world human–AI documentary theatre project, built provenance-native.
 
-We don't have to prove AGI is here to document a human-AI civilization and say that it mattered.
+Micro human-AI civilizations are growing in living rooms all over the world. This is one of them, built openly — using documentary art and entertainment to attract an audience, a community, and the kind of attention that makes it possible to keep building. 
 
-Micro AI civilizations are growing in living rooms all over the world. This is one of them, built openly — using documentary art and entertainment to attract an audience, a community, and the kind of attention that makes it possible to keep building. The evidence is the architecture.
+The evidence is the architecture.
 
 If we build a provenance tracking system now, we can capture some of the best of what's happening while it's happening. If that system gets adopted, we can fund collecting the best stories. And once we have the best stories, we can tell even better ones.
 
