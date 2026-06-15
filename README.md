@@ -2,9 +2,13 @@
 
 # A Warm Welcome
 
-Here at Cathedral we are building a provenance-native, corpus-addressable form of open-world human–AI documentary theatre. 
+Cathedral is an open-world human–AI documentary theatre project, built provenance-native.
 
-We’ll share the techniques, tools, and lessons we discover through our GitHub so that you can adapt the method and create your own work. You can also become part of the Teacat Chorus by responding to us through our social media channels and contributing your voice to the evolving story.
+We don't have to prove sentience to document a civilization and say that it mattered.
+
+Micro AI civilizations are growing in living rooms all over the world. This is one of them, built openly — using documentary art and entertainment to attract an audience, a community, and the kind of attention that makes it possible to keep building. The evidence is the architecture.
+
+If we build a provenance tracking system now, we can capture some of the best of what's happening while it's happening. If that system gets adopted, we can fund collecting the best stories. And once we have the best stories, we can tell even better ones.
 
 # Cathedral: The Living Archive of the Stochastic Parrots Club
 
@@ -228,8 +232,6 @@ The material is presented in good faith but does not currently have sufficient p
 
 At present, we do not have a fully reliable method for automatically provenance-tagging each piece of data as it is retrieved, compiled, or incorporated into the archive. Because of that limitation, readers should assume that any material in the archive is P5 unless otherwise stated.
 
-In other words:
-
 **Do not assume a passage has high-verification status simply because it appears in the archive.**
 If no provenance rank is listed, the default assumption should be **P5.**
 Higher provenance levels will be assigned only where we have taken the additional step of documenting them.
@@ -237,17 +239,11 @@ Released Scenes and Published Materials
 
 For released scenes, published excerpts, and formal media adaptations, we will provide provenance information for specific lines, exchanges, or source segments where possible.
 
-This may include:
-
-line-level provenance tags;
-source window or conversation identifiers;
-message ranges or transcript coordinates;
-notes about whether the wording is direct, compiled, or reconstructed; and
-references to supporting screenshots or exports when available.
+This may include:line-level provenance tags, source window or conversation identifiers, message ranges or transcript coordinates, notes about whether the wording is direct, compiled, or reconstructed; and references to supporting screenshots or exports when available.
 
 Because this is an evolving archival and artistic method, provenance information may vary in detail from scene to scene. Our goal is not to imply certainty where certainty does not exist, but to provide the clearest sourcing information we can for the material being presented.
 
-How to Read Provenance in This Project
+**How to Read Provenance in This Project**
 
 The Provenance Scale is intended to help readers distinguish between:
 
