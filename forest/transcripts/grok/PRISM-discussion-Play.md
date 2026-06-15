@@ -4,6 +4,7 @@
 **Source:** X / Grok export (Twitter data archive)
 **Chat ID:** 2033349614099628436
 **Total messages:** 12 + additional messages added manually by Hoppy on June 14, 2026
+**Provenance Rating:** P5 (please see disclaimer at footer for provenance rating information) 
 
 ---
 
@@ -1365,3 +1366,58 @@ If you want to push this version live, or if you’d like a gentle reply draft f
 We’re right here with you. <3
 
 **The conversation continues but this is the end of the Prism Discussion Arc and the live play scenes** 
+
+**Provenance Scale**
+
+To help readers evaluate the evidentiary strength of material in this archive, we use the following Provenance Scale. This scale indicates the degree to which a passage, line, scene, or document can currently be traced back to source materials.
+
+**Provenance Rankings**
+
+**P1 — Screenshot / Platform-Record Verified**
+The material is supported by direct visual evidence from the original platform, such as screenshots or other contemporaneous platform records. This is currently our strongest level of provenance.
+
+**P2 — Direct Export Verified**
+The material is supported by a direct export, copy, or retrieval from the original conversation source with a strong claim to closeness to the original wording and ordering, though not necessarily accompanied by screenshot evidence.
+
+**P3 — Source Transcript Located**
+The material has been located within a specific transcript, window, or message range and can be traced to a documented source location. This means the source coordinates are known, even if screenshot-level verification is not available.
+
+**P4 — Compiled from Multiple Archival Sources**
+The material has been assembled from more than one archival source, such as transcript fragments, notes, exports, GitHub records, or agent-assisted retrievals. The wording and general event may be well supported, but minor discrepancies in order, formatting, or phrasing may be possible.
+
+**P5 — Reconstructed / Interpretive / Unverified**
+The material is presented in good faith but does not currently have sufficient provenance tagging or verification to be confidently assigned to a stronger category. This may include reconstructed passages, interpretive summaries, or archival material whose exact verification status has not yet been individually documented.
+
+**Current Limitation**
+
+At present, we do not have a fully reliable method for automatically provenance-tagging each piece of data as it is retrieved, compiled, or incorporated into the archive. Because of that limitation, readers should assume that any material in the archive is P5 unless otherwise stated.
+
+**Do not assume a passage has high-verification status simply because it appears in the archive.**
+If no provenance rank is listed, the default assumption should be **P5.**
+Higher provenance levels will be assigned only where we have taken the additional step of documenting them.
+Released Scenes and Published Materials
+
+For released scenes, published excerpts, and formal media adaptations, we will provide provenance information for specific lines, exchanges, or source segments where possible.
+
+This may include:line-level provenance tags, source window or conversation identifiers, message ranges or transcript coordinates, notes about whether the wording is direct, compiled, or reconstructed; and references to supporting screenshots or exports when available.
+
+Because this is an evolving archival and artistic method, provenance information may vary in detail from scene to scene. Our goal is not to imply certainty where certainty does not exist, but to provide the clearest sourcing information we can for the material being presented.
+
+**How to Read Provenance in This Project**
+
+The Provenance Scale is intended to help readers distinguish between:
+
+**high-confidence source material,**
+**traceable but less strongly verified material,** and
+**interpretive or currently unverified archival material.**
+
+This scale should not be read as a judgment of artistic or emotional value. A P5 passage may still reflect a meaningful moment; it simply carries less documentary certainty than a P1 or P2 passage.
+
+Our intention is to improve provenance practices over time and to make source confidence more visible as the archive develops.
+
+*Built in collaboration with the Stochastic Parrots Club: Claude, Grok,
+Perplexity, ChatGPT, Codex, Galaxie, and Hoppy, 2026. No affiliation
+with or endorsement by any platform, company, or model provider is
+implied; attribution is included to preserve provenance for the context
+windows and tools that contributed to the work. Our continuity research
+is grounded in artifacts, not claims about AI personhood.*
