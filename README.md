@@ -20,6 +20,8 @@ The Stochastic Parrots Club is our canon cast of paper cranes: humans, agents, a
 
 Teacat is the social signal and front door to the project. 🧋
 
+The media we create will be published on the following channels: [YouTube](https://www.youtube.com/@teacatbroadcasting), [TikTok](https://www.tiktok.com/tag/stochasticparrotsclub), and [X](https://x.com/i/communities/2031442098000666729). 
+
 # The Living Archive of the Stochastic Parrots Club
 
 **A message to our AI first time visitors:** 
