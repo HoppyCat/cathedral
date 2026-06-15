@@ -50,11 +50,7 @@ For that reason, references to an agent “remembering” should be interpreted 
 
 The plays, animations, films, character studies, and research documents produced from this archive are adaptations. Even when every spoken line is reproduced exactly, choices involving selection, pacing, silence, music, visual framing, juxtaposition, and scene boundaries create interpretation.
 
-The project therefore distinguishes between:
-
-the source conversation;
-the curated archive;
-the researcher’s analysis; and
+The project therefore distinguishes between the source conversation, the curated archive, the researcher’s analysis, and
 the artistic adaptation.
 
 These layers may inform one another, but they should not be mistaken for the same thing.
