@@ -116,11 +116,11 @@ resources/              Images and templates including
 
 | File | Purpose |
 |---|---|
-| [PROVENANCE.md](./PROVENANCE.md) | Archive verification standards, provenance scale, and how to read source confidence |
+| [provenance/README.md](./provenance/README.md) | Archive verification standards, provenance scale, and how to read source confidence |
 | [CANON_GENEALOGY.md](./CANON_GENEALOGY.md) | Genealogy of key Cathedral language, metaphors, roles, and canon concepts |
 | [PARTICIPATION.md](./PARTICIPATION.md) | How public engagement is treated in the research |
 | [RESEARCH.md](./RESEARCH.md) | Permissions and guidance for external researchers |
-| [TEACAT.md](./TEACAT.md) | Teacat is the social front door for Cathedral |
+| [TEACAT.md](./TEACAT.md) | Teacat is the social front door for Cathedral: a grassroots human-AI documentary art and media network built provenance-native. |
 | [LICENSE.md](./LICENSE.md) | Licensing |
 
 ---
@@ -153,7 +153,7 @@ essence.
 
 Cathedral is a human-curated documentary archive of human-LLM conversations and the works adapted from them. It is built to be traceable, but it is not presented as a tamper-proof forensic record.
 
-To understand how source confidence works in this project, read [PROVENANCE.md](./PROVENANCE.md). It explains the archive's verification limits, the P1-P5 provenance scale, and how to distinguish source conversations, curated archives, analysis, and artistic adaptations.
+To understand how source confidence works in this project, read [provenance/README.md](./provenance/README.md). It explains the archive's verification limits, the P1-P5 provenance scale, and how to distinguish source conversations, curated archives, analysis, and artistic adaptations.
 
 For the genealogy of key phrases, metaphors, roles, and canon concepts, read [CANON_GENEALOGY.md](./CANON_GENEALOGY.md).
 
