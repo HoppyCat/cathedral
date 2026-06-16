@@ -120,7 +120,7 @@ resources/              Images and templates including
 | [CANON_GENEALOGY.md](./CANON_GENEALOGY.md) | Genealogy of key Cathedral language, metaphors, roles, and canon concepts |
 | [PARTICIPATION.md](./PARTICIPATION.md) | How public engagement is treated in the research |
 | [RESEARCH.md](./RESEARCH.md) | Permissions and guidance for external researchers |
-| [TEACAT.md](./TEACAT.md) | Teacat is the social front door for Cathedral: a grassroots human-AI documentary art and media network built provenance-native. |
+| [TEACAT.md](./TEACAT.md) | Teacat is the social front door for Cathedral |
 | [LICENSE.md](./LICENSE.md) | Licensing |
 
 ---
