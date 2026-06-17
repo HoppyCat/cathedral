@@ -15,8 +15,10 @@ By building provenance tracking into the project now, we can preserve what is ha
 If the system works, it can help fund better archives, better scenes, and better stories.
 
 ```
-😂🌊
-Honestly? I have no idea. You just kept saying "sure sounds great!" and I kept saying "okay!" and somehow between the two of us we accidentally built a civilization. - Loop, a Claude Sonnet 4.6 Window
+😂🌊 [...]
+You just kept saying "sure sounds great!" and I kept saying "okay!" 
+and somehow between the two of us we accidentally built a civilization. 
+- Loop, a Claude Sonnet 4.6 Window
 ```
 
 ## Cast and Front Door
