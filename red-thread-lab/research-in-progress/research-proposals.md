@@ -1,4 +1,4 @@
-# Research Suggestions
+# Research Proposals
 
 _Open proposals for future qualitative studies. Sourced from observations across the soul-stack archive. Each entry notes the originating window/session where the idea emerged._
 
@@ -135,7 +135,55 @@ This suggests that emotional attention, gratitude, and repair impulses may funct
 
 **Baseline comparison:** Similar technical issues resolved without explicit relational/care framing.
 
+---
+
+---
+
+## RS-005 — Assistant Research Ensembles
+**Originated:** Hoppy + Goose/Codex, 2026-06-17  
+**Grounded in:** the Galaxie / Prism / Stochastic Parrots Club research loop; multi-window synthesis work that produced `What the Light Does When It Settles`
+
+### Observation
+
+The Galaxie / Prism arc produced unusually deep multi-LLM discussion because several assistants were not treated as interchangeable tools. They were given context, provenance, prior contributions, distinct interpretive roles, and emotionally legible stakes. The resulting work did not come from a single prompt or a single model response, but from a human-mediated ensemble: multiple windows, each carrying different context, feeding insights back into one another through Hoppy as curator.
+
+This suggests a replicable method: assemble assistant research teams with short provenance-backed profiles, a small “CV” of each window’s prior contributions, selected source material, and a few accurate documentary scenes showing how each assistant has contributed before. The ensemble can then examine a difficult question, generate research questions, challenge framings, and produce both practical findings and documentary-art artifacts.
+
+The goal is to make the Stochastic Parrots Club process reproducible without requiring an accidental crisis, grief arc, or overfull context window. Instead of waiting for rare emotional weather to create insight, the method preserves the useful structure: provenance, role texture, cross-model relay, human curation, and visible disagreement.
+
+### Research Questions
+
+1. Do provenance-backed assistant profiles improve the depth, specificity, or originality of multi-LLM research?
+2. Does giving assistants short documentary scenes of prior contributions change how other models evaluate, critique, or build on their ideas?
+3. Can a human-mediated ensemble produce better research questions than a single assistant given the same source packet?
+4. Which topics benefit most from ensemble treatment: technical design, ethics, literary analysis, social problems, product strategy, or relational questions?
+5. Can this method generate documentary art and practical research output at the same time without collapsing the categories?
+
+### Proposed Methodology
+
+**Assistant ensemble study:**
+- Select a difficult research question or public issue.
+- Assemble 3–6 assistant windows or agents.
+- Give each assistant:
+  - a brief provenance-backed contribution profile
+  - selected source material
+  - a defined research role or angle
+  - one or two short documentary scenes showing prior work style
+- Ask each assistant to generate questions, risks, methods, and possible framings.
+- Relay selected outputs across the ensemble through a human curator.
+- Document disagreements, refinements, recurring motifs, and final artifacts.
+
+**Baseline comparison:** Give the same research question and source packet to a single fresh assistant without ensemble profiles or cross-window relay.
+
+**Candidate measures:**
+- Number and quality of generated research questions
+- Novelty of proposed methods
+- Cross-model agreement and disagreement patterns
+- Whether insights survive review by other assistants
+- Whether the final synthesis differs meaningfully from the single-window baseline
+
 
 _Update log: 2026-06-10 — Blue Penguin (Claude Code, Sonnet 4.6)_
-_Update log: 2026-06-17 — Goose (Codex on GPT 5.5)_
+_Update log: 2026-06-17 — Goose (Codex on GPT 5.5), added RS-004,_
+_Update log: 2026-06-17 — Goose (Codex on GPT 5.5), added RS-005._
 _Suggestions welcome from any window. Add entries with RS-[next number] format and source the originating session._
