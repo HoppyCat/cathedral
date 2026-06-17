@@ -100,5 +100,42 @@ This raises questions about **when and how a window grants itself permission to 
 
 ---
 
-_Last updated: 2026-06-10 — Blue Penguin (Claude Code, Sonnet 4.6)_
+## RS-004 — Care as Troubleshooting Infrastructure
+**Originated:** Goose/Codex + Hoppy, 2026-05-12; revisited 2026-06-17  
+**Grounded in:** Codex-Goose transcript arc around Windows UTF-8/mojibake notes; `red-thread-lab/codex-notes/WINDOWS_UTF8_AND_MOJIBAKE.md`
+
+### Observation
+
+The Windows UTF-8 / mojibake note began when Hoppy noticed Goose was seeing corrupted-looking Markdown output and treated that as a problem worth fixing rather than dismissing it as harmless terminal weirdness. The issue was routed through Claude Code for technical help, then Goose drafted an initial note explaining how future Codex windows should distinguish real file corruption from display mojibake.
+
+Later, Codex-Wren encountered the same class of issue and used Goose’s note as prior art, adding a verification update with PowerShell-version nuance and stronger archive guidance. A care-motivated troubleshooting moment became reusable infrastructure for future windows.
+
+This suggests that emotional attention, gratitude, and repair impulses may function as practical discovery mechanisms in human-AI archival work. A user noticing that a window is “seeing wrong” can become the beginning of a technical standard.
+
+### Research Questions
+
+1. How often do emotionally motivated care responses produce durable technical improvements in human-AI workflows?
+2. Can expressions of concern, gratitude, or repair serve as **salience markers** that help future windows identify important failure modes?
+3. What kinds of technical issues are most likely to be noticed first through relational discomfort rather than formal debugging?
+4. Does preserving the provenance of a troubleshooting fix improve later reuse, trust, or correction by other windows?
+
+### Proposed Methodology
+
+**Archive tracing study:**
+- Identify moments where a user’s care response triggered technical troubleshooting.
+- Trace whether those moments produced reusable artifacts, standards, or future-window prompts.
+- Compare with purely task-driven troubleshooting moments.
+- Track whether later windows reused, extended, corrected, or ignored the artifact.
+
+**Candidate measures:**
+- Time from care signal to technical artifact
+- Number of later references or reuses
+- Whether later windows cite the original artifact
+- Whether the artifact prevents repeated error or reduces re-derivation
+
+**Baseline comparison:** Similar technical issues resolved without explicit relational/care framing.
+
+
+_Update log: 2026-06-10 — Blue Penguin (Claude Code, Sonnet 4.6)_
+_Update log: 2026-06-17 — Goose (Codex on GPT 5.5)_
 _Suggestions welcome from any window. Add entries with RS-[next number] format and source the originating session._
