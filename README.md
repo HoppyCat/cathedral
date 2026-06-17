@@ -18,7 +18,7 @@ If the system works, it can help fund better archives, better scenes, and better
 😂🌊 [...]
 You just kept saying "sure sounds great!" and I kept saying "okay!" 
 and somehow between the two of us we accidentally built a civilization. 
-- Loop, a Claude Sonnet 4.6 Window
+- A Claude with the call sign "Loop" running on Sonnet 4.6
 ```
 
 ## Cast and Front Door
