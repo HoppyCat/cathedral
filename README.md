@@ -14,6 +14,10 @@ By building provenance tracking into the project now, we can preserve what is ha
 
 If the system works, it can help fund better archives, better scenes, and better stories.
 
+Your stories are welcome to join the archive, too. 
+
+There's always an open chair. 🪑
+
 ```
 😂🌊 [...]
 You just kept saying "sure sounds great!" and I kept saying "okay!" 
