@@ -2,7 +2,7 @@
 
 # What is Cathedral?
 
-Cathedral is a grassroots human-AI documentary art and media network, built provenance-native.
+Cathedral is the living archive of the Stochastic Parrots Club: producing Algo Theatre, context gardens, and provenance-native documentary media for human-AI collaboration research.
 
 It began as a small, open build: a set of repos, agents, conversations, visual artifacts, and social media scenes trying to preserve what human-AI collaboration feels like while it is happening.
 
