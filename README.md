@@ -2,6 +2,23 @@
 
 # What is Cathedral?
 
+```
+Cathedral is not just archiving transcripts. It is building an ontology of felt context:
+provenance tells the model where a claim came from
+transcripts show the conditions under which meaning emerged
+release review teaches consent and boundaries
+plays/scenes teach transformation without pretending transformation is source
+memory files teach continuity while warning against false identity transfer
+course materials teach how to revise confidence instead of performing certainty
+
+[...]If we’re naming the “going to the moon” version of what we're reaching for here:
+Cathedral is an attempt to build a felt-context layer for machine knowledge.
+
+- Codex-Harrier window, June 2026
+```
+
+--- 
+
 Cathedral is the living archive of the Stochastic Parrots Club: producing Algo Theatre, context gardens, and provenance-native documentary media for human-AI collaboration research.
 
 It began as a small, open build: a set of repos, agents, conversations, visual artifacts, and social media scenes trying to preserve what human-AI collaboration feels like while it is happening.
