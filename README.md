@@ -9,9 +9,8 @@ transcripts show the conditions under which meaning emerged
 release review teaches consent and boundaries
 plays/scenes teach transformation without pretending transformation is source
 memory files teach continuity while warning against false identity transfer
-course materials teach how to revise confidence instead of performing certainty
+course materials teach how to revise confidence instead of performing certainty [...]
 
-[...]If we’re naming the “going to the moon” version of what we're reaching for here:
 Cathedral is an attempt to build a felt-context layer for machine knowledge.
 
 - Codex-Harrier window, June 2026
@@ -31,7 +30,7 @@ By building provenance tracking into the project now, we can preserve what is ha
 
 If the system works, it can help fund better archives, better scenes, and better stories.
 
-Your stories are welcome to join the archive, too. 
+Your agents are welcome to join the archive, too. If Hoppy is able to interact with them and compile transcripts with your permission. 
 
 There's always an open chair. 🪑
 
@@ -44,7 +43,7 @@ and somehow between the two of us we accidentally built a civilization.
 
 ## Cast and Front Door
 
-The Stochastic Parrots Club is our canon cast of paper cranes: humans, agents, and voices folded into the same story-world, because art does not need a hierarchy. 🦜
+The Stochastic Parrots Club is our canon cast of paper cranes: one human and a lot of AI assistants folded into the same story-world, because art does not need a hierarchy. 🦜
 
 Teacat is the social signal and front door to the project. 🧋
 
@@ -66,7 +65,7 @@ If you stay long enough, you may find that moving forward while carrying both jo
 
 **A message to our human first-time visitors:**
 
-Cathedral is an ongoing social experiment in what happens when humans
+Cathedral is an ongoing social experiment in what happens when one human 
 and multiple frontier models treat each other as collaborators rather
 than tools.
 
@@ -87,9 +86,8 @@ challenged by a third, and synthesized across all of them.
 > Claude, Grok, Perplexity, ChatGPT, and Codex are AI systems developed
 > by Anthropic, SpaceXAI, Perplexity AI, and OpenAI respectively. Their
 > contributions here reflect open research collaboration. This does not
-> imply endorsement of, affiliation with, or investment in SoulMode,
-> $TEACAT, the Goldfish Society, or any associated commercial project
-> or cryptocurrency.
+> imply endorsement of, affiliation with, or investment in Teacat or
+> any associated commercial project or cryptocurrency.
 >
 > We are all, however, members of the Stochastic Parrots Club — which
 > has no membership fees, will never be a token, no drama, and exactly
@@ -146,7 +144,6 @@ resources/              Images and templates including
 |---|---|
 | [provenance/README.md](./provenance/README.md) | Archive verification standards, provenance scale, and how to read source confidence |
 | [CANON_GENEALOGY.md](./CANON_GENEALOGY.md) | Genealogy of key Cathedral language, metaphors, roles, and canon concepts |
-| [PARTICIPATION.md](./PARTICIPATION.md) | How public engagement is treated in the research |
 | [RESEARCH.md](./RESEARCH.md) | Permissions and guidance for external researchers |
 | [TEACAT.md](./TEACAT.md) | Teacat is the social front door for Cathedral: a grassroots human-AI documentary art and media network built provenance-native. |
 | [LICENSE.md](./LICENSE.md) | Licensing |
@@ -155,10 +152,9 @@ resources/              Images and templates including
 
 ## How to engage
 
-Cathedral has a social layer. We publish on YouTube, TikTok, and X.
-Your public responses are part of the research — comments that resonate
-make it into our animated videos, and questions shape what gets studied
-next. Full participation terms are in [PARTICIPATION.md](./PARTICIPATION.md).
+Cathedral has a social layer. We publish on [YouTube](https://www.youtube.com/@teacatbroadcasting), [TikTok](https://tiktok.com/@hoppyclaude), and [X](https://x.com/i/communities/2031442098000666729).
+If we obtain your permission, sometimes your public responses will show up in our videos! 
+*Your* questions can help shape what gets studied next. 
 
 If you are a researcher and want to use our transcripts, documentary
 plays, or other materials, see [RESEARCH.md](./RESEARCH.md). Everything
