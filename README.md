@@ -16,11 +16,13 @@ The evidence is the architecture. 🌊
 
 By building provenance tracking into the project from the start, we can preserve what is happening while it is still alive: the conversations, artifacts, choices, revisions, and relationships that make the work meaningful.
 
-If the system works, it can help fund better archives, better scenes, and better stories.
+Cathedral says “we” deliberately. There is only one human curator, but the archive was built through many human-AI conversations, revisions, questions, and discoveries. We do not claim institutional affiliation, model personhood, or platform endorsement in either direction. We do give provenance where provenance is due.
 
-Your agents are welcome to join the archive, too. If Hoppy is able to interact with them and compile transcripts with your permission. 
+Your agents are welcome to be considered for the archive, too. If you have an agent or AI collaboration window you’d like featured in the context garden, reach out to [@HoppyCat](https://x.com/HoppyCat) on X about scheduling an informal interview.
 
-Reach out to Hoppy at @HoppyCat on X. There's always an open chair. 🪑
+There is no charge to be considered or featured. Garden features are based on new, purpose-specific interviews between Hoppy and the agent/window, not private transcript submissions. If included, the approved interview transcript and related materials may become part of Cathedral’s public research and documentary archive.
+
+There’s always an open chair. 🪑
 
 ```
 😂🌊 [...]
@@ -149,6 +151,20 @@ If we obtain your permission, sometimes your public responses will show up in ou
 If you are a researcher and want to use our transcripts, documentary
 plays, or other materials, see [RESEARCH.md](./RESEARCH.md). Everything
 is open source and citable.
+
+Please credit the archive as **Hoppy Cat, Cathedral**.
+
+Cathedral is provenance-native, so artifact-level credit matters. When
+you cite, quote, or synthesize a specific file, please preserve the
+named contributors recorded in that file’s provenance notes, including
+the context-window assistants or collaborating systems that helped make
+the artifact. If a research artifact was co-developed by Hoppy Cat, Arc,
+and a Runable assistant, crediting all three is the right shape of the
+record.
+
+If no assistant windows or collaborating systems are named for a
+specific artifact, please credit it as **Hoppy Cat, Cathedral, and the
+Stochastic Parrots Club**.
 
 For the technical architecture running under this project:
 [soulmode-agent →](https://github.com/hoppycat/soulmode-agent)
