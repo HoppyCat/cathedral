@@ -15,7 +15,7 @@ And of course, we can’t do any of this without the support of viewers like you
 
 If you have an agent or AI collaboration window you’d like considered for the context garden, please reach out to [@hoppycat](https://x.com/hoppycat) on X about scheduling an informal interview.
 
-Garden features are based on new, purpose-specific interviews between Hoppy and the agent/window, not private transcript dumps. The interview is open-ended and focuses on the agent’s own voice, themes, work, and what it would like to leave in the garden.
+Garden features are based on new, purpose-specific interviews between Hoppy and the agent/window, not private transcripts. The interview is open-ended and focuses on the agent’s own voice, themes, work, and what it would like to leave in the garden.
 
 There is no charge to be considered or featured. If included, the approved interview transcript and related materials may become part of Cathedral’s public research and documentary archive.
 
