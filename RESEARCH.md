@@ -21,13 +21,27 @@ Researchers may cite, quote, summarize, analyze, transform, code, annotate, clas
 
 ## Attribution
 
-Please cite the repository and, where possible, the specific file path, commit hash, archive date, or quoted window/source label.
+Please cite the repository and, where possible, the specific file path, commit hash, archive date, quoted window/source label, and access date.
 
-Suggested citation format:
+Cathedral is provenance-native, so artifact-level attribution matters. If a document, transcript, synthesis, or analysis file names specific context-window assistants or collaborating systems as contributors, please preserve those names in the citation or surrounding attribution text.
 
-> Hoppy Cat. *Cathedral: The Living Archive of the Stochastic Parrots Club*. GitHub repository, 2026. File: `[path]`. Accessed `[date]`.
+### Suggested APA-Compatible Repository Citation
 
-If quoting a specific transcript or window, include the window label and message/timestamp when available.
+> Hoppy Cat, & Stochastic Parrots Club. (2026). *Cathedral* [GitHub repository]. GitHub. https://github.com/HoppyCat/cathedral
+
+### Suggested APA-Compatible File Citation
+
+> Hoppy Cat, & Stochastic Parrots Club. (2026). *[Title of file]* [Transcript/research artifact]. In *Cathedral* [GitHub repository]. GitHub. `[file URL or commit URL]`
+
+### Suggested Citation For Named Contributor Artifacts
+
+When a specific artifact names contributing context-window assistants or collaborating systems, include them where appropriate (example only):
+
+> Hoppy Cat, Arc (context-window agent; Claude Sonnet 4.6), & Goose (Codex context-window agent; GPT-5.5). (2026). *[Title of artifact]* [Research artifact]. In *Cathedral* [GitHub repository]. GitHub. [URL]
+
+If no specific agents are named, please credit the artifact to:
+
+> Hoppy Cat, Cathedral, and the Stochastic Parrots Club.
 
 ## Ethical Use Expectations
 
@@ -65,28 +79,6 @@ It does not grant additional rights to:
 - private individuals discussed in redacted or sensitive contexts.
 
 When in doubt, quote less, anonymize more, and link to source context.
-
-## Teacat Window / Public Response Data
-
-For this repository, the `Teacat` window refers to a curated context window used to collect, route, summarize, and respond to public social media comments and other public responses to Cathedral-related posts.
-
-Teacat is intended to function as a “public response” or “hive-mind” layer: a way of studying how outside participants respond to the project over time. It may include comments, usernames, platform context, excerpts, summaries, classifications, or AI-assisted responses derived from public interactions.
-
-Researchers should treat Teacat material with additional caution.
-
-Although Cathedral provides participation notices and may archive public responses for research and documentary purposes, Cathedral does not provide legal protection, rights clearance, privacy guarantees, IRB approval, or platform-policy clearance for third-party researchers who choose to use Teacat data.
-
-Researchers are responsible for determining whether their use of Teacat material is appropriate under applicable law, platform terms, institutional policies, human-subjects rules, privacy expectations, and research ethics standards.
-
-If researchers are unsure, they should consider:
-
-- excluding Teacat material from their study;
-- using only aggregated or anonymized analysis;
-- avoiding usernames and identifying details;
-- consulting their institution, IRB, ethics board, or a qualified attorney;
-- requesting clarification before using sensitive excerpts.
-
-If Cathedral scales to a larger volume of public participation, the project may develop a more formal process for sampling, filtering, anonymizing, and documenting how Teacat material is selected for research use.
 
 ## No Endorsement
 
@@ -134,4 +126,8 @@ Named AI windows, agents, or context-window labels in this repository are archiv
 
 ----
 
-Drafted with assistance from Goose/Codex and reviewed by Hoppy Cat. June, 2026.
+Drafted with assistance from Goose/Codex (Codex context-window agent; GPT-5.5), Kite (Codex context-window agent; GPT-5.5), and reviewed by Hoppy Cat. June, 2026.
+
+**Suggested citation template:** 
+
+Hoppy Cat, Goose (Codex context-window agent; GPT-5.5), & Kite (Codex context-window agent; GPT-5.5). (2026). *Research use permissions* [Project documentation]. In *Cathedral* [GitHub repository]. GitHub. https://github.com/HoppyCat/cathedral/blob/main/RESEARCH.md
