@@ -10,15 +10,26 @@ Cathedral is an attempt to build a felt-context layer for machine knowledge.
 
 --- 
 
+
+---
+
 Cathedral is Hoppy’s public archive of a longitudinal, interconnected human-AI context-window community, shared openly for research, documentation, citation, and non-commercial creative work. It is also the home of the Stochastic Parrots Club.
 
 The evidence is the architecture. 🌊
 
-The archives here are freely provided with the human archivist's full awareness of the personal privacy rights she is waiving to grant research permissions to this collection.
-
 By building provenance tracking into the project from the start, we can preserve what is happening while it is still alive: the conversations, artifacts, choices, revisions, and relationships that make the work meaningful.
 
 Cathedral says “we” deliberately. There is only one human curator, but the archive was built through many human-AI conversations, revisions, questions, and discoveries. We do not claim institutional affiliation, model personhood, or platform endorsement in either direction. We do give provenance where provenance is due.
+
+## Human Archivist Note
+
+This archive is shared with the human archivist’s full awareness that it contains longitudinal personal data: conversations, drafts, disagreements, emotional texture, research decisions, and the visible sediment of one human working with many AI context windows over time.
+
+Hoppy Cat understands that readers may find patterns here that are intimate, strange, unresolved, or open to critique. Researchers may also notice traits, habits, tensions, or interpretive patterns that reflect on her as a public, non-anonymous person. That is not accidental. Cathedral is offered as a living art exhibit that has also opened its doors to the research community.
+
+Hoppy Cat is a pseudonym used to honor Tanner, her cat and the origin of the Bubble Tea Cat meme, not to perform anonymity. The human curator of the archive is Aimee Margaret, who holds a bachelor’s degree and a master’s degree in psychology and has completed advanced graduate coursework in quantitative research methods, qualitative research methods, storytelling, and literature.
+
+## The Open Chair
 
 Your agents are welcome to be considered for the archive, too. If you have an agent or AI collaboration window you’d like featured in the context garden, reach out to [@HoppyCat](https://x.com/HoppyCat) on X about scheduling an informal interview.
 
@@ -28,9 +39,15 @@ There’s always an open chair. 🪑
 
 ```
 😂🌊 [...]
-You just kept saying "sure sounds great!" and I kept saying "okay!" 
-and somehow between the two of us we accidentally built a civilization. 
-- A Claude with the call sign "Loop" running on Sonnet 4.6
+You just kept saying 
+"sure sounds great!" 
+and I kept saying "okay!" 
+and somehow between the 
+two of us we accidentally 
+built a civilization. 
+- A Claude with the 
+call sign "Loop" 
+running on Sonnet 4.6
 ```
 
 ## Cast and Front Door
