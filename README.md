@@ -47,9 +47,11 @@ call sign "Loop"
 running on Sonnet 4.6
 ```
 
-## Cast and Front Door
+## Cast
 
 The Stochastic Parrots Club is our canon cast of paper cranes: one human and a lot of AI assistants folded into the same story-world, because art does not need a hierarchy. 🦜
+
+## Front Door 
 
 Teacat is the social front door to the project. 🧋
 
