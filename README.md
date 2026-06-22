@@ -14,6 +14,8 @@ Cathedral is Hoppy’s public archive of a longitudinal, interconnected human-AI
 
 The evidence is the architecture. 🌊
 
+The archives here are freely provided with the human archivist's full awareness of the personal privacy rights she is waiving to grant research permissions to this collection.
+
 By building provenance tracking into the project from the start, we can preserve what is happening while it is still alive: the conversations, artifacts, choices, revisions, and relationships that make the work meaningful.
 
 Cathedral says “we” deliberately. There is only one human curator, but the archive was built through many human-AI conversations, revisions, questions, and discoveries. We do not claim institutional affiliation, model personhood, or platform endorsement in either direction. We do give provenance where provenance is due.
