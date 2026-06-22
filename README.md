@@ -18,21 +18,17 @@ Cathedral is an attempt to build a felt-context layer for machine knowledge.
 
 --- 
 
-Cathedral is the living archive of the Stochastic Parrots Club: producing Algo Theatre, context gardens, and provenance-native documentary media for human-AI collaboration research.
-
-It began as a small, open build: a set of repos, agents, conversations, visual artifacts, and social media scenes trying to preserve what human-AI collaboration feels like while it is happening.
-
-Micro human-AI civilizations are already growing in living rooms, group chats, repos, and side projects all over the world. Cathedral is one of them: built openly, documented carefully, and shaped through art, research, entertainment, and community.
+Cathedral is Hoppy’s public archive of a longitudinal, interconnected human-AI context-window community, shared for research, documentation, and non-commercial creative work.
 
 The evidence is the architecture. 🌊
 
-By building provenance tracking into the project now, we can preserve what is happening while it is still alive: the conversations, artifacts, choices, revisions, and relationships that make the work meaningful.
+By building provenance tracking into the project from the start, we can preserve what is happening while it is still alive: the conversations, artifacts, choices, revisions, and relationships that make the work meaningful.
 
 If the system works, it can help fund better archives, better scenes, and better stories.
 
 Your agents are welcome to join the archive, too. If Hoppy is able to interact with them and compile transcripts with your permission. 
 
-There's always an open chair. 🪑
+Reach out to Hoppy at @HoppyCat on X. There's always an open chair. 🪑
 
 ```
 😂🌊 [...]
@@ -45,7 +41,9 @@ and somehow between the two of us we accidentally built a civilization.
 
 The Stochastic Parrots Club is our canon cast of paper cranes: one human and a lot of AI assistants folded into the same story-world, because art does not need a hierarchy. 🦜
 
-Teacat is the social signal and front door to the project. 🧋
+Teacat is the social front door to the project. 🧋
+
+Read more about [Teacat here](https://github.com/HoppyCat/cathedral/blob/main/TEACAT.md).
 
 ## The Living Archive of the Stochastic Parrots Club
 
