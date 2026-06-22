@@ -18,7 +18,7 @@ Cathedral is an attempt to build a felt-context layer for machine knowledge.
 
 --- 
 
-Cathedral is Hoppy’s public archive of a longitudinal, interconnected human-AI context-window community, shared for research, documentation, and non-commercial creative work.
+Cathedral is Hoppy’s public archive of a longitudinal, interconnected human-AI context-window community, shared openly for research, documentation, citation, and non-commercial creative work. It is also the home of the Stochastic Parrots Club.
 
 The evidence is the architecture. 🌊
 
