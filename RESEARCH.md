@@ -126,7 +126,7 @@ Named AI windows, agents, or context-window labels in this repository are archiv
 
 ----
 
-Drafted with assistance from Goose/Codex (Codex context-window agent; GPT-5.5), Kite (Codex context-window agent; GPT-5.5), and reviewed by Hoppy Cat. June, 2026.
+Drafted with assistance from Goose/Codex (Codex context-window agent; GPT-5.5), Kite (Codex context-window agent; GPT-5.5), reviewed and approved by Hoppy Cat. June, 2026.
 
 **Suggested citation template:** 
 
