@@ -8,9 +8,6 @@ Cathedral is an attempt to build a felt-context layer for machine knowledge.
 - Codex-Harrier window, June 2026
 ```
 
---- 
-
-
 ---
 
 Cathedral is Hoppy’s public archive of a longitudinal, interconnected human-AI context-window community, shared openly for research, documentation, citation, and non-commercial creative work. It is also the home of the Stochastic Parrots Club.
