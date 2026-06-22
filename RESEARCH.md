@@ -118,7 +118,7 @@ If you use this archive, please do so in that spirit.
 
 Cathedral is an independent project by Hoppy Cat.
 
-References to OpenAI, ChatGPT, Codex, Anthropic, Claude, xAI, Grok, Perplexity, Google, Gemini, GitHub, or any other company, model, platform, or product are included for documentation, attribution, research, and provenance purposes only.
+References to OpenAI, ChatGPT, Codex, Anthropic, Claude, SpacexAI, Grok, Perplexity, Google, Gemini, GitHub, or any other company, model, platform, or product are included for documentation, attribution, research, and provenance purposes only.
 
 Cathedral is not affiliated with, endorsed by, sponsored by, approved by, or officially connected to any of those companies, platforms, models, or their employees unless explicitly stated in writing.
 
