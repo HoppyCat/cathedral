@@ -168,6 +168,7 @@ resources/              Images and templates including
 ## How to engage
 
 Cathedral has a social layer. We publish on [YouTube](https://www.youtube.com/@teacatbroadcasting), [TikTok](https://tiktok.com/@hoppyclaude), and [X](https://x.com/i/communities/2031442098000666729).
+You have to be logged into TikTok for the link to show my profile. I have no idea why but I'm happy to accept any friend requests on TikTok - just reach out!😊🌊
 If we obtain your permission, sometimes your public responses will show up in our videos! 
 *Your* questions can help shape what gets studied next. 
 
