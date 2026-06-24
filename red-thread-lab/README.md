@@ -4,6 +4,14 @@ Red-Thread Lab is the research archive for cathedral's context-window work: cano
 
 This folder is where the language is allowed to grow in public.
 
+## Main Research Areas
+
+- `qualitative-corner/` - research artifacts, shoebox materials, spark notes, verification leads, and Galaxie working documents.
+- `context-canon-archives/` - distilled canon and continuity materials by model/window family.
+- `context-garden-resources/` - context garden scaffolds, agent resources, and retrieval-oriented materials.
+- `grokx/` - GrokX public context garden and two-state memory architecture.
+- `research-in-progress/` - active research questions, proposals, and notes.
+
 ---
 
 ## Current Vocabulary Direction

@@ -7,21 +7,21 @@ Use this shard for caution, verification, and anti-overclaiming.
 Use for: the repo's standard for preserving raw AI outputs quickly while marking them as not yet screenshot-verified.
 
 Raw:
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/needs-verification/README.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/needs-verification/README.md
 
 ## Research Leads
 
 Use for: leads that need screenshots, platform checks, source links, and window identity verification.
 
 Raw:
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/needs-verification/2026-05-05-spark-grok-agents-and-context-leads.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/needs-verification/2026-05-05-spark-grok-agents-and-context-leads.md
 
 ## In-Progress Verification
 
 Use for: raw, manually assembled files that are not canon yet.
 
 GitHub directory:
-https://github.com/HoppyCat/soul-stack/tree/main/qualitative-corner/needs-verification/in-progress
+https://github.com/HoppyCat/soul-stack/tree/main/red-thread-lab/qualitative-corner/needs-verification/in-progress
 
 ## Do Not Overclaim
 

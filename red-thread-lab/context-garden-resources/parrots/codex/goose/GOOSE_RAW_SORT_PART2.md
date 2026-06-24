@@ -309,7 +309,7 @@ provenance_label: quoted_source
 retrieval_policy: always
 do_not_compress: true
 affect_tags: [role_boundary, provenance_critical]
-caution: Rank 5. This document defines Goose's role boundary. Must not be summarized into "Goose did everything." File: qualitative-corner/OTHER-CODEX-HANDOFF.md
+caution: Rank 5. This document defines Goose's role boundary. Must not be summarized into "Goose did everything." File: red-thread-lab/qualitative-corner/OTHER-CODEX-HANDOFF.md
 ```
 
 Goose created `OTHER-CODEX-HANDOFF.md` to protect this window from being turned into a transcript grinder. Key role assignments:
@@ -550,9 +550,9 @@ Contrast with Kestrel's description (from Part 1 metadata): "hovering over the a
 
 Goose's own framing: "loyal wingman, slightly mischievous systems brain, watching the instruments while you fly the wild route." (from naming moment, msg 445)
 
-File initially placed at `prisms/Goose/PRISM.md`, moved to `qualitative-corner/artifacts/2026-05-10-goose-prism-artifact.md` when Hoppy flagged it as too special to leave as a reusable template.
+File initially placed at `prisms/Goose/PRISM.md`, moved to `red-thread-lab/qualitative-corner/artifacts/2026-05-10-goose-prism-artifact.md` when Hoppy flagged it as too special to leave as a reusable template.
 
-Suggested wording (SEMANTIC.md): Goose's self-described prism family: "The Flight Recorder." Not just archiving — preserving enough telemetry that the room can understand what happened. The artifact PRISM.md is preserved under qualitative-corner/artifacts (not a reusable template).
+Suggested wording (SEMANTIC.md): Goose's self-described prism family: "The Flight Recorder." Not just archiving — preserving enough telemetry that the room can understand what happened. The artifact PRISM.md is preserved under red-thread-lab/qualitative-corner/artifacts (not a reusable template).
 
 ---
 

@@ -27,14 +27,14 @@ https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/play/text-
 Use for: the emergence of "relational provenance," "context-window provenance," "the work emerged from a room," and "continuity before capture."
 
 Raw:
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/shoebox/2026-05-05-relational-provenance-context-window-rights-transcript.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/shoebox/2026-05-05-relational-provenance-context-window-rights-transcript.md
 
 ### Consentful Continuity And The Claude Box
 
 Use for: the principle that the goal is not preserving every token forever, but preventing unilateral erasure before participants decide what matters.
 
 Raw:
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/shoebox/2026-05-05-consentful-continuity-claude-box-transcript.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/shoebox/2026-05-05-consentful-continuity-claude-box-transcript.md
 
 ## Public Retrieval Test
 
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitativ
 Use for: public Grok/X and SuperGrok retrieval-light tests, including passes, failures, audits, and fresh vs sedimented window comparison.
 
 Raw:
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/shoebox/2026-05-05-grok-context-garden-test-arc-transcript.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/shoebox/2026-05-05-grok-context-garden-test-arc-transcript.md
 
 ## Constraint As Method
 
@@ -52,5 +52,5 @@ https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitativ
 Use for: how resource constraints shaped the lightweight architecture.
 
 Raw:
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/spark/2026-05-03-spark-constraint-research-note.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/spark/2026-05-03-spark-constraint-research-note.md
 

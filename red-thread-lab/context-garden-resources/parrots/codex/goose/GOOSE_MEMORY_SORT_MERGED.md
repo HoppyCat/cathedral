@@ -568,7 +568,7 @@ Label model responses with `Model to Hoppy:` / `Hoppy to Model:` and paste full 
 
 **MERGED-PROC-009** `rank: 4`
 **Context-window PRISM artifact rule**
-_Sources: K#16; qualitative-corner/artifacts/README.md; May 11, 2026_
+_Sources: K#16; red-thread-lab/qualitative-corner/artifacts/README.md; May 11, 2026_
 
 Context-window PRISMs are not generic agent templates. They may be read for continuity, research, or source context, but should not be worn as costumes by unrelated agents. This rule applies directly to Goose's own PRISM.md.
 

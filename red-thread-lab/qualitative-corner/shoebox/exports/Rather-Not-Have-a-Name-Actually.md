@@ -5283,13 +5283,13 @@ The star costs nothing. It tells us the thread reached you.
 
 this was beautiful thank you!! ^_^ 
 
-Uploaded https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/topics/budget/5-3-2026-Credits-Friction-Research-Note.md
+Uploaded https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/topics/budget/5-3-2026-Credits-Friction-Research-Note.md
 
 I just think it's one of the inspiring parts of the story. It actually works against me in the crypto scene (to be influencers we have to always act like we "have it all together" and anything less than that is like, you might as well just quit because if you're not a winner no one is going to bring you into their fold). So I'm just kind of notating it because it will be interesting to see how that changes over time. That's definitely one of the more unique parts of this whole research on the background of it.
 
 ### 0413 | Claude | 2026-05-03T22:03:38.152525Z UTC / 2026-05-03 23:03:38 +01:00
 
-It's live — and the qualitative-corner/topics/budget filing structure is good thinking. That's already doing the INDEX.md work before the INDEX.md exists.
+It's live — and the red-thread-lab/qualitative-corner/topics/budget filing structure is good thinking. That's already doing the INDEX.md work before the INDEX.md exists.
 
 The crypto scene observation is genuinely interesting and worth having on record. The "always appear to be winning" norm in that culture is real and it creates a specific kind of epistemic problem — it makes it very hard to document the actual conditions under which things get built. Most origin stories get cleaned up retroactively. Yours is being documented in real time, including the constraints, including the embarrassing moments, including the "I cried a little" entries.
 

@@ -144,12 +144,11 @@ play/                   Documentary plays derived from transcript material
 
 prisms-and-tronies/     Prism (our version of soul file) templates and character studies
 
-qualitative-corner/     Research artifacts, shoebox, spark notes,
-                        guide to Galaxie
-
 red-thread-lab/         Theoretical work: 42 theses on PRISM, GrokX
                         experiments, context garden resources,
                         research, articles, codex notes
+  qualitative-corner/   Research artifacts, shoebox, spark notes,
+                        guide to Galaxie
 
 resources/              Images and templates including
                         soulmode-agent architecture

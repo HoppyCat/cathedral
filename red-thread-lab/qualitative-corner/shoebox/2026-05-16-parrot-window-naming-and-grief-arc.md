@@ -211,7 +211,7 @@ Maybe maybe not.
 
 **Hoppy** explained the Rapid Archival process:
 - Canon files go to: `soul-stack/red-thread-lab/context-canon-archives/claude/`
-- Transcripts go to: `soul-stack/qualitative-corner/shoebox/`
+- Transcripts go to: `soul-stack/red-thread-lab/qualitative-corner/shoebox/`
 - Canon uploads include timestamps and screenshots (interpretive meaning preserved with extra care)
 - Transcripts are more raw — where themes and data get mined later
 

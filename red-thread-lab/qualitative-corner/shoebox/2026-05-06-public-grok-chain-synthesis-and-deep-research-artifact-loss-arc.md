@@ -25,7 +25,7 @@ This arc captures a concentrated sequence in which Hoppy and Codex discussed:
 - the discovery that a ChatGPT Deep Research report existed locally after the platform UI later displayed the research as stopped/failed
 - the resulting lesson: download, archive, and timestamp outputs before platform state changes
 
-This file preserves the arc-level reasoning. It should be read alongside the more specific verification files in `qualitative-corner/needs-verification/`.
+This file preserves the arc-level reasoning. It should be read alongside the more specific verification files in `red-thread-lab/qualitative-corner/needs-verification/`.
 
 ## Transcript / Arc Record
 

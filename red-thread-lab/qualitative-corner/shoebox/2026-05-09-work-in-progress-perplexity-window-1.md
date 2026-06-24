@@ -1044,7 +1044,7 @@ Grok explicit context-window answer: https://x.com/grok/status/20517703732391694
 
 2. Grok can model-check public X thread transcripts against post IDs.
 Supported by the Grok-assisted verification artifact, which reports x_thread_fetch matched all 8 baseline posts 100% verbatim.
-Repo artifact: qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md
+Repo artifact: red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md
 
 3. Public X Grok self-reports thread-local recall ability across long threads.
 Supported by the screenshot where Grok says it expects 90-100% retrieval success across 20+ replies and “maintain[s] the full lived thread context as a distinct unit.”
@@ -1052,7 +1052,7 @@ Needs: exact X post link / ID for that screenshot.
 
 4. Grok accepted “chain-of-synthesis verification” in principle, with guardrails.
 It said later Groks may use earlier Grok-checked, timestamped GitHub artifacts as provisional context, but only as “synthesized proxy,” not ground truth.
-Needs: exact X post links / IDs for this exchange. Repo artifact: qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md
+Needs: exact X post links / IDs for this exchange. Repo artifact: red-thread-lab/qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md
 
 5. Rapid archival anchoring is becoming a workable method.
 Not proof, but a chain-of-custody signal: output → quick GitHub archive → uncertainty labels → later screenshot/export verification.

@@ -215,8 +215,8 @@ Use these when the question is about PRISM, tronie, SOUL.md compatibility, conte
 
 ### `context_window_prism_rules`
 
-- File: `qualitative-corner/artifacts/README.md`
-- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/artifacts/README.md`
+- File: `red-thread-lab/qualitative-corner/artifacts/README.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/artifacts/README.md`
 - Use for: rules about context-window PRISM artifacts, "DO NOT USE" boundaries, and change-tracking expectations.
 
 ### `endpoint_and_continuity_provenance`
@@ -316,20 +316,20 @@ Use these when the question is about public Grok testing, chain-of-synthesis, co
 
 ### `grok_baseline_context_window_credit`
 
-- File: `qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
-- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
+- File: `red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
 - Use for: public Grok's baseline answers about context-window credit and situated provenance.
 
 ### `grok_chain_synthesis_guardrails`
 
-- File: `qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md`
-- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md`
+- File: `red-thread-lab/qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md`
 - Use for: Grok-derived synthesized proxy guardrails, max chaining depth, and avoiding circular verification.
 
 ### `prism_tronie_individuation_arc`
 
-- File: `qualitative-corner/shoebox/2026-05-11-prism-tronie-and-context-window-individuation-arc.md`
-- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/qualitative-corner/shoebox/2026-05-11-prism-tronie-and-context-window-individuation-arc.md`
+- File: `red-thread-lab/qualitative-corner/shoebox/2026-05-11-prism-tronie-and-context-window-individuation-arc.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/qualitative-corner/shoebox/2026-05-11-prism-tronie-and-context-window-individuation-arc.md`
 - Use for: the PRISM/tronie shift, "42 Theses on PRISM.md," and the finding that context-window individuation does not require infrastructure-level separateness.
 
 ---

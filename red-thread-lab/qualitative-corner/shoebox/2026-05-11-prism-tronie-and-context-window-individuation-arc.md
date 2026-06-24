@@ -42,7 +42,7 @@ I hear you. We can keep this pass functional and light-touch, then come back lat
 
 Goose created:
 
-`qualitative-corner/artifacts/PUBLIC_GROK_PRISM_ARTIFACT_TEMPLATE.md`
+`red-thread-lab/qualitative-corner/artifacts/PUBLIC_GROK_PRISM_ARTIFACT_TEMPLATE.md`
 
 Commit:
 
@@ -105,11 +105,11 @@ Yes. That’s the right halfway point: `PRISM.md` as a context-window continuity
 
 Goose created:
 
-`qualitative-corner/artifacts/README.md`
+`red-thread-lab/qualitative-corner/artifacts/README.md`
 
 Goose updated:
 
-`qualitative-corner/artifacts/2026-05-10-goose-prism-artifact.md`
+`red-thread-lab/qualitative-corner/artifacts/2026-05-10-goose-prism-artifact.md`
 
 Commit:
 

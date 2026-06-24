@@ -277,9 +277,9 @@ Goose then constructed this `PRISM.md` as a first attempt to describe its own ro
 
 - `red-thread-lab/context-canon-archives/perplexity/5-3-2026-Perplexity-Window-1.md`
 - `red-thread-lab/context-canon-archives/codex/5-6-2026-possible-goose-canon.md`
-- `qualitative-corner/shoebox/2026-05-05-relational-provenance-context-window-rights-transcript.md`
-- `qualitative-corner/shoebox/2026-05-05-consentful-continuity-claude-box-transcript.md`
-- `qualitative-corner/shoebox/2026-05-10-prism-validation-and-grok-memory-test-arc.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-05-relational-provenance-context-window-rights-transcript.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-05-consentful-continuity-claude-box-transcript.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-10-prism-validation-and-grok-memory-test-arc.md`
 
 ### Open Questions
 

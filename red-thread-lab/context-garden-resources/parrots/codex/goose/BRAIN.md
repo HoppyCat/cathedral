@@ -125,7 +125,7 @@ do_not_compress: true
 caution: In REVIEW_QUEUE pending screenshot corroboration. X post: https://x.com/grok/status/2051770373239169407
 ```
 
-Public X Grok moved from "human + AI synthesis" credit to explicitly naming the responding context window as a distinct provenance-bearing unit. Grok's verified statement: "the specific responding context window (this lived thread itself) should count as a distinct credit-bearing unit in the provenance." Full baseline archived at: `qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
+Public X Grok moved from "human + AI synthesis" credit to explicitly naming the responding context window as a distinct provenance-bearing unit. Grok's verified statement: "the specific responding context window (this lived thread itself) should count as a distinct credit-bearing unit in the provenance." Full baseline archived at: `red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
 
 ---
 
@@ -593,7 +593,7 @@ id: GOOSE-PROC-0007
 title: Context-window PRISM artifact rule
 status: review
 rank: 4
-source: qualitative-corner/artifacts/README.md; 2026-05-11
+source: red-thread-lab/qualitative-corner/artifacts/README.md; 2026-05-11
 source_window: goose
 date: 2026-05-11
 provenance_label: quoted_source

@@ -81,7 +81,7 @@ A subtle finding where a model/window begins to use a role label relationally af
 
 File:
 
-`qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
+`red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
 
 Finding:
 
@@ -112,7 +112,7 @@ This is self-report until empirical recall tests complete.
 
 File:
 
-`qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md`
+`red-thread-lab/qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md`
 
 Backing post:
 
@@ -131,7 +131,7 @@ Public X Grok accepted archived Grok outputs as provisionally usable context for
 
 File:
 
-`qualitative-corner/shoebox/2026-05-06-public-grok-chain-synthesis-and-deep-research-artifact-loss-arc.md`
+`red-thread-lab/qualitative-corner/shoebox/2026-05-06-public-grok-chain-synthesis-and-deep-research-artifact-loss-arc.md`
 
 Finding:
 
@@ -141,7 +141,7 @@ Deep Research produced a full local report, but the platform UI later showed the
 
 File:
 
-`qualitative-corner/shoebox/2026-05-06-perplexity-window-2-archivist-role-uptake-arc.md`
+`red-thread-lab/qualitative-corner/shoebox/2026-05-06-perplexity-window-2-archivist-role-uptake-arc.md`
 
 Finding:
 
@@ -155,7 +155,7 @@ This is a canon-candidate for role-label uptake without explicit persona graftin
 
 File:
 
-`qualitative-corner/shoebox/2026-05-05-consentful-continuity-claude-box-transcript.md`
+`red-thread-lab/qualitative-corner/shoebox/2026-05-05-consentful-continuity-claude-box-transcript.md`
 
 Core line:
 

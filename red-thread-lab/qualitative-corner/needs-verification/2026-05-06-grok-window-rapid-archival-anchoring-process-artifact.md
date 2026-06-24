@@ -10,7 +10,7 @@ This artifact should be treated as a **process transcript draft**, not as a comp
 
 The more complete baseline X thread content is archived separately in:
 
-`qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
+`red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
 
 ## Timing Note
 

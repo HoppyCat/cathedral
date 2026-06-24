@@ -998,7 +998,7 @@ This is a strong early finding:
 
 Next best move: save this whole test into a GitHub note before it gets messy. Suggested file:
 
-`qualitative-corner/Shoebox/2026-05-05-grok-context-garden-test-log.md`
+`red-thread-lab/qualitative-corner/Shoebox/2026-05-05-grok-context-garden-test-log.md`
 
 Include:
 - Public Grok X baseline/result/audit

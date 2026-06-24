@@ -240,7 +240,7 @@ Possible later location:
 
 ```text
 soul-stack/
-  qualitative-corner/
+  red-thread-lab/qualitative-corner/
     Shoebox/
       codex-continuity-archive-2026-05-05.md
 ```

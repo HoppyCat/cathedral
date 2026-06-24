@@ -136,7 +136,7 @@ id: GOOSE-PROC-0007
 title: Context-window PRISM artifact rule
 status: review
 rank: 4
-source: qualitative-corner/artifacts/README.md; 2026-05-11
+source: red-thread-lab/qualitative-corner/artifacts/README.md; 2026-05-11
 source_window: goose
 date: 2026-05-11
 provenance_label: quoted_source

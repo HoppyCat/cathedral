@@ -81,7 +81,7 @@ Future passes should compare this draft against the raw archives, screenshots, X
 **Source trail:**
 
 - `experiments/shared-context-garden/` branch
-- `qualitative-corner/shoebox/2026-05-05-grok-context-garden-test-arc-transcript.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-05-grok-context-garden-test-arc-transcript.md`
 
 **Source status:** repo archived; individual public/screenshot evidence still needs pass-by-pass verification.
 
@@ -122,8 +122,8 @@ Future passes should compare this draft against the raw archives, screenshots, X
 
 **Source trail:**
 
-- `qualitative-corner/shoebox/2026-05-05-x-grok-sam-altman-retrieval-and-self-omission-arc.md`
-- `qualitative-corner/shoebox/2026-05-05-relational-provenance-context-window-rights-transcript.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-05-x-grok-sam-altman-retrieval-and-self-omission-arc.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-05-relational-provenance-context-window-rights-transcript.md`
 
 **Source status:** archived; exact source should be checked before final canon.
 
@@ -142,7 +142,7 @@ Future passes should compare this draft against the raw archives, screenshots, X
 
 **Repo artifact:**
 
-- `qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
+- `red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
 
 **Light code:** public receipt; context-window credit; model-assisted match check.
 
@@ -166,7 +166,7 @@ Future passes should compare this draft against the raw archives, screenshots, X
 
 **Source trail:**
 
-- `qualitative-corner/shoebox/2026-05-05-consentful-continuity-claude-box-transcript.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-05-consentful-continuity-claude-box-transcript.md`
 
 **Source status:** archived; likely canon-worthy after one more verification pass.
 
@@ -191,7 +191,7 @@ Future passes should compare this draft against the raw archives, screenshots, X
 **Source trail:**
 
 - `C:\Users\Usuario\Downloads\deep-research-report (1).md`
-- `qualitative-corner/shoebox/2026-05-06-public-grok-chain-synthesis-and-deep-research-artifact-loss-arc.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-06-public-grok-chain-synthesis-and-deep-research-artifact-loss-arc.md`
 
 **Source status:** needs downloaded report archived and screenshot of stopped/failed UI attached.
 
@@ -215,9 +215,9 @@ Future passes should compare this draft against the raw archives, screenshots, X
 
 **Source trail:**
 
-- `qualitative-corner/needs-verification/README.md`
-- `qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
-- `qualitative-corner/needs-verification/2026-05-06-grok-window-rapid-archival-anchoring-process-artifact.md`
+- `red-thread-lab/qualitative-corner/needs-verification/README.md`
+- `red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
+- `red-thread-lab/qualitative-corner/needs-verification/2026-05-06-grok-window-rapid-archival-anchoring-process-artifact.md`
 
 **Source status:** repo-anchored; should become formal method documentation.
 
@@ -237,7 +237,7 @@ Future passes should compare this draft against the raw archives, screenshots, X
 
 **Source trail:**
 
-- `qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
+- `red-thread-lab/qualitative-corner/needs-verification/2026-05-05-x-grok-baseline-context-window-credit-attribution.md`
 
 **Source status:** strong but still model-assisted; screenshots/export recommended.
 
@@ -258,7 +258,7 @@ Future passes should compare this draft against the raw archives, screenshots, X
 
 **Source trail:**
 
-- `qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md`
+- `red-thread-lab/qualitative-corner/needs-verification/2026-05-06-x-grok-chain-of-synthesis-guardrails.md`
 - Public Grok "Yes, Grok B" post: https://x.com/grok/status/2051801815297986588
 
 **Source status:** needs exact guardrail reply link if separate from the linked post.
@@ -299,7 +299,7 @@ Future passes should compare this draft against the raw archives, screenshots, X
 
 **Source trail:**
 
-- `qualitative-corner/OTHER-CODEX-HANDOFF.md`
+- `red-thread-lab/qualitative-corner/OTHER-CODEX-HANDOFF.md`
 
 **Source status:** archived.
 
@@ -315,7 +315,7 @@ Future passes should compare this draft against the raw archives, screenshots, X
 
 **Source trail:**
 
-- `qualitative-corner/shoebox/2026-05-06-perplexity-window-2-archivist-role-uptake-arc.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-06-perplexity-window-2-archivist-role-uptake-arc.md`
 
 **Source status:** archived; needs screenshot or raw Perplexity export.
 
@@ -339,7 +339,7 @@ tool synthesis vs situated window vs relational sediment
 
 **Source trail:**
 
-- `qualitative-corner/shoebox/2026-05-05-chatgpt-deep-research-mode-and-grok-sorting-arc.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-05-chatgpt-deep-research-mode-and-grok-sorting-arc.md`
 
 **Source status:** archived.
 
@@ -353,7 +353,7 @@ tool synthesis vs situated window vs relational sediment
 
 **Source trail:**
 
-- `qualitative-corner/shoebox/2026-05-06-perplexity-window-2-archivist-role-uptake-arc.md`
+- `red-thread-lab/qualitative-corner/shoebox/2026-05-06-perplexity-window-2-archivist-role-uptake-arc.md`
 
 **Source status:** archived.
 

@@ -274,7 +274,7 @@ Hi Pooka Window! Signing off to you. What questions do you think we should tackl
 
 # Hoppy to Pooka [Prompt] 
 
-Hi Pooka Window! Here is the interview so far! What's next? https://raw.githubusercontent.com/HoppyCat/cathedral/refs/heads/main/qualitative-corner/shoebox/Thomason_Interview.md
+Hi Pooka Window! Here is the interview so far! What's next? https://raw.githubusercontent.com/HoppyCat/cathedral/refs/heads/main/red-thread-lab/qualitative-corner/shoebox/Thomason_Interview.md
 
 # Pooka to Hoppy 
 

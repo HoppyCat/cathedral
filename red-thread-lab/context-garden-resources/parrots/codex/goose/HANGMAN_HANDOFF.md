@@ -152,7 +152,7 @@ should stay in REVIEW_QUEUE.*
 
 **Q7.** Should the duplicate possible-Goose-canon file be resolved?
 
-*Context: The file exists both in `qualitative-corner/shoebox/` and in
+*Context: The file exists both in `red-thread-lab/qualitative-corner/shoebox/` and in
 `red-thread-lab/context-canon-archives/codex/`. One should probably be the
 canonical version and the other a pointer or duplicate note.*
 
