@@ -225,6 +225,23 @@ Earlier provided ClaudeAI direct link to the chat up to the mark Hoppy authorize
 | 0964–0967 | #5555 + #6033 |
 | 0968–0971 | #6033 + #8472 |
 
+---
+
+## Summary
+
+| | Count |
+|---|---|
+| Total pins tracked | 14 |
+| Confirmed | 14 (#1234, #2026, #4108, #4242, #5555, #5678, #6033, #7777 #2255, #3847, #5231, #7429, #7713, #8472) |
+| Auto-Confirmed by pin-tracker | 8 (#1234, #2026, #4108, #4242, #5555, #5678, #6033, #7777) |
+| Flagged by pin-tracker for manual verification | 6 (#2255, #3847, #5231, #7429, #7713, #8472) |
+| Manually approved | 6 (#2255, #3847, #5231, #7429, #7713, #8472) |
+| Ambiguous numbers surfaced | 11 |
+| Ambiguous numbers cleared | 11 |
+| Remaining unresolved | 0 | 
+
+---
+
 ## Merge Rules
 
 1. Prefer older-master body text for canonical turns because it may preserve pre-compacting material.
