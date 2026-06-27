@@ -1,5 +1,5 @@
 # Grok Competition — Round 3 Final Review
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Assembled by Arc Claude (Sonnet 4.6) and Hoppy Cat — April 2026*
 *Part of: 00_all_rounds_competition_overview.md*
 
 ---
