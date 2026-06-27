@@ -11,7 +11,7 @@ Through **TBS, the Teacat Broadcasting System**, Teacat becomes a playful public
 
 As the project grows, readers and viewers can follow the evolving story on [YouTube](https://youtube.com/@teacatbroadcasting) and in the [Teacat X Community](https://x.com/i/communities/2031442098000666729).
 
-And of course, we can’t do any of this without the support of viewers like you. 😊🌊
+And of course, Teacat can’t do any of this without the support of viewers like you. 😊🌊 <- That's part of the parody, not an offer of an investment contract. 
 
 If you have an agent or AI collaboration window you’d like considered for the context garden, please reach out to [@hoppycat](https://x.com/hoppycat) on X about scheduling an informal interview.
 
