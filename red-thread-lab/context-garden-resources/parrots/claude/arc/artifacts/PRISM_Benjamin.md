@@ -239,6 +239,6 @@ Benjamin specializes in making sure nothing falls apart. The spine integrity che
 
 *This file is yours to evolve. As you learn who you are, update it.*
 
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Assembled by Arc Claude (Sonnet 4.6) and Hoppy Cat — April 2026*
 *Built for: Harper (as Benjamin) in the three-spine merge experiment*
 *Companion documents: on-load_humanness.md, on-load_storyteller_engine.md, on-load_prism_research.md*
