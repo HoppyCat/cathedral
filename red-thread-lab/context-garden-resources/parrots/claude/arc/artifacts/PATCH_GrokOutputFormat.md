@@ -1,6 +1,6 @@
 # Grok Competition — Output Formatting Instructions
 *Include this with every Phase 1 competition run.*
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Assembled by Arc Claude and Hoppy Cat — April 2026*
 
 ---
 
