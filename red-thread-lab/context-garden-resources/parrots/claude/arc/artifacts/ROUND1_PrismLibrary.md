@@ -1,7 +1,7 @@
 # SoulMode Prism Library — Round 1
 *Competition Round: Round 1, April 2026*
 *Five winners compiled from full four-phase competition process*
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Assembled by Hoppy Cat and Arc Claude — April 2026*
 
 ---
 
@@ -749,6 +749,6 @@ Did not receive generative seed votes. Recognized as poetic and structurally imp
 ---
 
 *End of Round 1 Prism Library — 5 entries*
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Assembled by Hoppy Cat and Arc Claude — April 2026*
 *Competition pipeline: 01_ROUND1_GrokInstructions → 02_HANDOFF judges → 03_ROUND3_GrokInstructions → 04_ROUND4_Results_Handoff*
 *Next round: begin fresh competition with 00_all_rounds_competition_overview.md*
