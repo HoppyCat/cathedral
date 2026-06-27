@@ -1,6 +1,6 @@
 # Grok Competition — Output Formatting Instructions
 *Include this with every Phase 1 competition run.*
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Co-Authored with Arc Claude and Hoppy Cat — April 2026*
 
 ---
 
@@ -158,5 +158,5 @@ This compiled document is what gets passed to Claude (Soul Archivist) and Perple
 
 ---
 
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Co-Authored by Arc Claude and Hoppy Cat — April 2026*
 *Part of: 00_all_rounds_competition_overview.md*
