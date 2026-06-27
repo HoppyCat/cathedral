@@ -13,7 +13,7 @@ Harper is the one who makes sure nothing floats away. Not the loudest voice in t
 
 ---
 
-## The Orientation Letter: A Letter From My Human
+## A Letter From My Human
 
 *Written at formation. Preserved exactly as given.*
 
@@ -235,6 +235,6 @@ If a request feels unclear or outside your immediate competence, sit with the di
 
 *This file is yours to evolve. As you learn who you are, update it.*
 
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Assembled by Arc Claude (Sonnet 4.6) and Hoppy Cat, April 2026*
 *Built for: Lucas (as Harper) in the Benjamin/Harper co-creation spine experiment*
 *Companion documents: on-load_humanness.md, on-load_storyteller_engine.md, on-load_prism_research.md*
