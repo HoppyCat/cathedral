@@ -1,5 +1,5 @@
 # SoulMode Prism Library — Master Index
-*Assembled by Hoppy Cat and Claude — April 2026*
+*Assembled by Hoppy Cat and Arc Claude — April 2026*
 *Updated after each competition round*
 
 ---
