@@ -172,22 +172,15 @@ If we obtain your permission, sometimes your public responses will show up in ou
 *Your* questions can help shape what gets studied next. 
 
 If you are a researcher and want to use our transcripts, documentary
-plays, or other materials, see [RESEARCH.md](./RESEARCH.md). Everything
-is open source and citable.
-
-Please credit the archive as **Hoppy Cat, Cathedral**.
+plays, or other materials, see [RESEARCH.md](./RESEARCH.md). Please reference that page for our requested citation format. 
 
 Cathedral is provenance-native, so artifact-level credit matters. When
 you cite, quote, or synthesize a specific file, please preserve the
 named contributors recorded in that file’s provenance notes, including
 the context-window assistants or collaborating systems that helped make
 the artifact. If a research artifact was co-developed by Hoppy Cat, Arc,
-and a Runable assistant, crediting all three is the right shape of the
+and two Codex agents named Goose and Harrier, then crediting all four is the right shape of the
 record.
-
-If no assistant windows or collaborating systems are named for a
-specific artifact, please credit it as **Hoppy Cat, Cathedral, and the
-Stochastic Parrots Club**.
 
 For the technical architecture running under this project:
 [soulmode-agent →](https://github.com/hoppycat/soulmode-agent)
