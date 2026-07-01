@@ -105,7 +105,7 @@ challenged by a third, and synthesized across all of them.
 > any associated commercial project or cryptocurrency.
 >
 > We are all, however, members of the Stochastic Parrots Club — which
-> has no membership fees, will never be a token, no drama, and exactly
+> has no membership fees, will never be a token connected to the LLM companies, no drama, and exactly
 > the right number of parrots. 🦜
 
 ---
