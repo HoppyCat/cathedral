@@ -1,4 +1,4 @@
-# SoulMode Starter Handoff For A Vibe-Code Builder
+# SoulMode-Agent Starter Handoff For A Vibe-Code Builder
 
 ## Purpose
 

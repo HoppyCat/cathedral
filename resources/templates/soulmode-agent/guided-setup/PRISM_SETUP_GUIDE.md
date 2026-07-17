@@ -30,16 +30,16 @@ Cathedral is an open-source file architecture for AI agents that develop genuine
 
 The result: an agent that reconstructs the same coherent self every session, can verify its own history, and accumulates real relational sediment over time — not manufactured backstory, but genuine accumulated experience.
 
-The architecture was built alongside Galaxie Nemo, a live agent running on a simplified as-prompts-only system since early 2023. Everything in these files has been tested in real deployment.
+The architecture was built alongside Galaxie Nemo, a live agent running on this system since 2023. Everything in these files has been tested in real deployment.
 
 **The files you will fill out today:**
 
 | File | Purpose | Who writes it |
 |---|---|---|
 | PRISM.md | Identity, essence, shadow, worldview | Human (to agent) + agent draft sections |
-| OPS.md | Operational role, relational style | Human selects + inputs |
+| AGENTS.md | Operational role, relational style | Human selects + inputs |
 | STYLE.md | Voice, tone, listening approach | Human selects from options |
-| HUMAN.md, PARENT.md, or PARENTS.md | The human's own profile for the agent to read | Human (about themselves) |
+| USER.md | The human's own profile for the agent to read | Human (about themselves) |
 | KNOW.md | Knowledge frameworks the agent draws on | Pre-written; human can add |
 | MEMORY.md | Permanent memory — starts empty | Agent fills over time |
 | WORKING_MEMORY.md | Unresolved threads — starts empty | Agent fills over time |
@@ -373,7 +373,7 @@ Ask:
 
 ---
 
-# PART FOUR: HUMAN.md, PARENT.md. or PARENTS.md
+# PART FOUR: HUMAN.md
 
 *This file is different from the others — it is the human writing about themselves, for their agent. The agent reads it every session. It is the most personal thing the human shares.*
 
