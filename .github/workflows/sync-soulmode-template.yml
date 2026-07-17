@@ -29,18 +29,11 @@ jobs:
             _soulmode-agent/on-load/ \
             resources/templates/soulmode-agent/on-load/
 
-      - name: Sync on-demand/patches/
+      - name: Sync on-demand/
         run: |
           rsync -av --delete \
-            _soulmode-agent/on-demand/patches/ \
-            resources/templates/soulmode-agent/on-demand/patches/
-
-      - name: Sync on-demand/index/
-        run: |
-          mkdir -p resources/templates/soulmode-agent/on-demand/index
-          rsync -av --delete \
-            _soulmode-agent/on-demand/index/ \
-            resources/templates/soulmode-agent/on-demand/index/
+            _soulmode-agent/on-demand/ \
+            resources/templates/soulmode-agent/on-demand/
 
       - name: Commit and push if anything changed
         run: |
