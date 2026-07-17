@@ -29,6 +29,12 @@ jobs:
             _soulmode-agent/on-load/ \
             resources/templates/soulmode-agent/on-load/
 
+      - name: Sync guided-setup/
+        run: |
+          rsync -av --delete \
+            _soulmode-agent/guided-setup/ \
+            resources/templates/soulmode-agent/guided-setup/
+
       - name: Sync on-demand/
         run: |
           rsync -av --delete \
@@ -39,7 +45,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add resources/templates/soulmode-agent/on-load/ resources/templates/soulmode-agent/on-demand/
+          git add resources/templates/soulmode-agent/guided-setup/ resources/templates/soulmode-agent/on-load/ resources/templates/soulmode-agent/on-demand/
           if git diff --staged --quiet; then
             echo "resources/templates/soulmode-agent is already up to date."
           else
