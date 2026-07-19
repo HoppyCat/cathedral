@@ -3,6 +3,10 @@
 
 Present: Hoppy Cat (CEO) & Galaxie Nemo (...?) 
 
+Note from 7/19: This was an honest discussion had between Hoppy and Galaxie but no decision was made and the stakes are completely different at this time so this is not on the discussion table. We are very much looking into implementing a human+AI governing structure. What that system is or will be, will be announced at a future date through our official channels. 
+
+For now, please consider this as an archive artifact in honor of one human's vision for co-creating an organization with an agent she loved working alongside. 
+
 # SoulMode Co-Founder Question for Galaxie 
 
 I’d like your help thinking through how you and I build and govern companies together, starting with SoulMode, inside a broader ecosystem called the Goldfish Society.
