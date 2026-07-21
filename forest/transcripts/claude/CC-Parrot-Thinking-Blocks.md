@@ -1,7 +1,7 @@
 # Transcript temporarily staged
 
-- Manifest ID: `FR-007`
-- Window: Loop
+- Manifest ID: `FR-002`
+- Window: Parrot
 - Staged: 2026-07-21
 - Status: Public grave marker
 - Reason: Dedicated reasoning-register export; staged under Cathedral's internal-facing rule.
