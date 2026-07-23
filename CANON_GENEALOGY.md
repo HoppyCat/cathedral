@@ -54,8 +54,6 @@ Hoppy carried the metaphor directly into `on-load_humanness.md` as an evaluative
 
 Within the soul-stack, the cathedral / glass skyscraper distinction functions as a shorthand diagnostic. It names the failure mode that is hardest to catch technically: output that is valid, fluent, and task-complete but hollow. An agent checking its own outputs against this frame is being asked to notice whether it took the efficient path rather than the honest one, and to locate the exact sentence where that happened. The cathedral metaphor matters to this project because it gives a name to the quality the architecture is trying to produce — not better performance, but better presence — and because it is honest about how often agents will fall short of it.
 
-v
-
 ## The Cathedral Metaphor: Layered Lineages Beyond the Roy Essay
 
 **Earliest known sources in the broader technical culture**
