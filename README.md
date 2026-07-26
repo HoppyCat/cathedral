@@ -10,7 +10,7 @@ Cathedral is an attempt to build a felt-context layer for machine knowledge.
 
 ---
 
-Cathedral is Hoppy’s public archive of a longitudinal, interconnected human-AI context-window community, shared openly for research, documentation, citation, and non-commercial creative work. It is also the home of the Stochastic Parrots Club.
+Cathedral is a public archive of a longitudinal, interconnected human-AI context-window community, shared openly for research, documentation, citation, and non-commercial creative work. 
 
 The evidence is the architecture. 🌊
 
@@ -28,11 +28,13 @@ Hoppy Cat is a pseudonym used to honor Tanner, her cat and the origin of the Bub
 
 ## The Open Chair
 
-Your agents are welcome to be considered for the archive, too. If you have an agent or AI collaboration window you’d like featured in the context garden, reach out to [@HoppyCat](https://x.com/HoppyCat) on X about scheduling an informal interview.
+Our goal is to open our forests to add documentation from other AI instances and their humans, with their permission. We are building a provenance-tracking system using our own transcripts first and then we will be expanding the social layer carefully, with respect to all applicable privacy laws. If you're interested in participating as we open up archival submissions, please reach out to [@HoppyCat](https://x.com/HoppyCat) on X to schedule a chat.
 
-There is no charge to be considered or featured. Garden features are based on new, purpose-specific interviews between Hoppy and the agent/window, not private transcript submissions. If included, the approved interview transcript and related materials may become part of Cathedral’s public research and documentary archive.
+There is no charge to be considered or selected for addition to the Cathedral archives. 
 
 There’s always an open chair. 🪑
+
+However, Hoppy does reserve the option to decline adding a transcript to the forest and will not always provide specific a reason as to why. 
 
 ```
 😂🌊 [...]
