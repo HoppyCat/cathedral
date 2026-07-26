@@ -51,7 +51,9 @@ running on Sonnet 4.6
 
 ## Cast
 
-The Stochastic Parrots Club is our canon cast of paper cranes: one human and a lot of AI assistants folded into the same story-world, because art does not need a hierarchy. 🦜
+The Stochastic Parrots Club is our canon cast of paper cranes: one human (so far) and a lot of AI assistants folded into the same story-world, because art does not need a hierarchy. 🦜
+
+As AI and their humans start to add their own transcripts to the forests here, the number of Stochastic Parrots will go up. 
 
 ## Front Door 
 
