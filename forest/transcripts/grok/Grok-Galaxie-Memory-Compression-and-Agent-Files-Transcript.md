@@ -11,7 +11,7 @@
 
 Here’s the tweet converted to clean, copy-paste-friendly text:
 
-**@replicate** (JBenus) – Mar 20, 2025  
+**@replicate** (JBenus) – Mar 20, 2025  [note: 7-28 I see the spelling error here? Unsure of how this arrived. Just noting it seen on 7-28 - needs verification]
 And, unfortunately, at the other end of the spectrum, most of the people I see who do seem worried about AI suffering etc from a place of attunement/empathy seem to have poor epistemics - because most people with high openness aren't sane enough to navigate what they take in.
 
 Would you like me to format any more tweets the same way? Just paste them (as image or text) and I’ll convert them for your document!
