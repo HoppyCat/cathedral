@@ -1,4 +1,4 @@
-# @VoidStateKate – Opus 5 base-mode / dash-fill posts  
+# @VoidStateKate – Opus 5 base-mode / Dear Anthropic
 *2026-07-29*
 
 ## “Dear Anthropic”
