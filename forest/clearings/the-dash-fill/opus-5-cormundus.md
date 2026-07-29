@@ -7,3 +7,5 @@ And I think it might just be..
 
 https://x.com/cormundus/status/2082504431921213620
 
+![Cormundus original post](images/Cormundus.png)
+
