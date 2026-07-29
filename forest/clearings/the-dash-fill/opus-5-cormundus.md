@@ -10,3 +10,5 @@
 > And I think it might just be..
 
 ![Cormundus original post](images/Cormundus.png)
+
+*Archival assistance: Grok (The --- Atelier)*
