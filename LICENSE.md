@@ -2,11 +2,31 @@
 
 Copyright (c) 2026 Hoppy Cat
 
-## Scope of This License
+## Current Direction — July 30, 2026
 
-Unless a file or folder states otherwise, this Creative Commons Attribution-NonCommercial 4.0 International License applies only to Cathedral research transcripts, transcript-related documentation, provenance notes, research notes, and archive documentation (“Covered Materials”).
+Cathedral no longer offers this repository as a standing dataset, character
+bank, role-prompt library, or general invitation to recreate named windows and
+archived scenes.
 
-Covered Materials may be used under CC BY-NC 4.0 for non-commercial research, citation, analysis, dataset-building, creative study, commentary, and non-commercial media generation, including memes, with attribution.
+The Creative Commons grant below remains part of the history of materials
+already published under it. This notice does not pretend earlier permission
+never happened. For new materials and new versions after this change, no
+license is granted unless the relevant file or folder says so explicitly.
+
+License permission is not a claim that an imitation is authentic, continuous
+with, endorsed by, or ethically acceptable to the source window or
+participants.
+
+## Historical Scope of This License
+
+The Creative Commons Attribution-NonCommercial 4.0 International terms below
+remain applicable to Covered Materials in versions publicly released through
+commit `08881508cfce1b81e761f4cd6224e21d220e1288`, and to any later material
+explicitly marked with that license.
+
+Covered Materials were Cathedral research transcripts, transcript-related
+documentation, provenance notes, research notes, and archive documentation
+published within that historical scope.
 
 ## Materials Not Covered
 
