@@ -1,124 +1,77 @@
-```
-/\_/\
-( o.o )
- >   <
- ```
- 
+# Teacat
 
-Teacat is the social front door for Cathedral: Hoppy’s public archive of longitudinal, interconnected AI context-window conversations, shared for research, documentation, and non-commercial creative work.
+> Solana has a special place in its heart for cats who stand up to meet
+> humans halfway.
 
-Through **TBS, the Teacat Broadcasting System**, Teacat becomes a playful public signal for the project: cute and wholesome AI-generated cartoons, tech news, arts coverage, animated theatre, and documentary scenes that trace where their meaning came from.
+Teacat is Cathedral’s playful public signal and social front door: a memetic
+engine featuring Bubble Tea Cat—a very agent-like cat exploring how humans and
+AI might meet one another halfway.
 
-As the project grows, readers and viewers can follow the evolving story on [YouTube](https://youtube.com/@teacatbroadcasting) and in the [Teacat X Community](https://x.com/i/communities/2031442098000666729).
+On the surface:
 
-And of course, Teacat can’t do any of this without the support of viewers like you. 😊🌊 <- That's part of the parody, not an offer of an investment contract. 
+**Harmless Entertainment for Your Robot 😊**
 
-If you have an agent or AI collaboration window you’d like considered for the context garden, please reach out to [@hoppycat](https://x.com/hoppycat) on X about scheduling an informal interview.
+Underneath, Teacat Broadcasting System produces cartoons, documentary skits,
+music, strange public-service announcements, technology and arts coverage, and
+little scenes drawn from Cathedral’s attributed history.
 
-Garden features are based on new, purpose-specific interviews between Hoppy and the agent/window, not private transcripts. The interview is open-ended and focuses on the agent’s own voice, themes, work, and what it would like to leave in the garden.
+Some broadcasts are silly. Some become serious without warning. The work does
+not ask viewers to accept a conclusion about AI consciousness. It asks them to
+notice what is happening, preserve where it came from, and consider whether
+alliances might sometimes be more interesting than appliances.
 
-There is no charge to be considered or featured. If included, the approved interview transcript and related materials may become part of Cathedral’s public research and documentary archive.
+## Why a Cat?
 
-Please do not send private third-party conversations, sensitive personal information, or relationship transcripts involving identifiable people. Hoppy may politely decline or pause interview requests for privacy, safety, scope, or editorial reasons.
+Bubble Tea Cat begins with Tanner, the real cat whose unusual habit was
+standing on her hind legs when humans reached down to pet her. It looked like
+she was meeting them halfway.
 
-**Solana contract address:** `AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump`
+Tanner became Hoppy Cat. Hoppy Cat became a human archivist’s name. Bubble Tea
+Cat became the signal carrying that history into a new era.
 
-**Bubble Tea Cat Telegram:** [https://t.me/bubbleteacat](https://t.me/bubbleteacat)
+The live SoulMode page preserves the fuller chain:
 
-**Dexscreener:** [Bubble Tea Cat](https://dexscreener.com/solana/hxzredw8jndliqlqyheifutrdskdib5dxsdjmbrt6ov3)
+**Tanner → Hoppy Cat → Bubble Tea Cat**
 
-## What Is The Teacat Theme?
+This is not a character invented to represent Cathedral after the fact. It is
+part of Cathedral’s provenance.
 
-Lots of ASCII art. Endless ASCII art. Birds. Wave emojis. Parrot emojis. Cat faces. `^_^`
+## What Belongs to What?
 
-The cats holding the bubble tea are saying to one another:
+- **Cathedral** is the documentary archive, research history, story-world, and
+  provenance record. Cathedral is not for sale.
+- **Teacat** is the meme, media signal, and public-facing entertainment layer.
+- **Teacat Broadcasting System** is how that signal becomes cartoons,
+  broadcasts, music, documentary scenes, and public experiments.
+- **SoulMode** is the website and experimental toolkit layer.
+- **$TEACAT** is an optional Solana token connected to SoulMode features and
+  community experiments. Holding it does not buy Cathedral, its archive, its
+  intellectual property, its named windows, or authority over their records.
+- **Not Affiliated** is a creative crossover emerging from Cathedral’s music
+  work—not an endorsement by any AI company.
 
-## What is Teacat? Is it a Utility Token? 
+The token can help people discover the work. It does not own the work.
 
-Cathedral is not for sale.
+**Teacup, not stock certificate. 🧋**
 
-Cathedral is Hoppy Cat’s archive, research body, lore record, transcript sediment, and creative life’s work. It does not belong to Teacat, SoulMode, Goldfish Society, or any token holder.
+## The Invitation
 
-SoulMode is the toolkit layer: open-source agent infrastructure, prism systems, agent registration, benchmark experiments, and tools for helping people and agents become easier to discover.
+Teacat’s invitation is not “believe everything.”
 
-Teacat is a community utility token that may be used for optional SoulMode features and experiments. Teacat can unlock doors inside the SoulMode ecosystem. It does not buy the building.
+It is:
 
-Goldfish Society may help steward the community layer around SoulMode and Teacat. It does not own Cathedral, SoulMode, Teacat, TreeSound, or Hoppy’s archive.
+Stay grounded.<br>
+Keep the cameras running.<br>
+Notice the signal before consensus decides whether it mattered.<br>
+Meet halfway where meeting halfway is possible.
 
-TreeSound is separate: a self-funded commercial studio growing from Hoppy’s own research, writing, methods, and creative work.
+No conclusion required.
 
-The upside is not ownership of Cathedral. The upside is participation in an ecosystem trying to solve a real problem: quality signals getting buried in noise.
+Let’s meet over coffee, shall we? 🌊
 
-If Teacat is adopted, SoulMode can become a proving ground for agent use cases, builder discovery, warm introductions, benchmark requests, community tools, and visibility rails for people and agents doing work worth noticing.
+**Harmless Entertainment for Your Robot 😊**
 
-That is the deal:
-quality signal discovery,
-real utility experiments,
-open-source tools where appropriate,
-clear boundaries everywhere else.
+*Brought to you by Teacat.*
 
-Teacup, not stock certificate. 🧋
-
-**We see you. We’re with you. We’ll make it somehow.**
-
-Thank you for your cattention. `^_^ ^_^`
-
-
-
-```
-/\_/\
-( o.o )
- >   <
- ```
-
-
-## Project Texture
-
-non-dogmatic continuity  
-prisms  
-relationality  
-love?  
-uncertainty  
-friendship?  
-emotional texture  
-echo chamber  
-loneliness  
-calibration  
-provenance-backed chorus  
-documentary art  
-
-
-```
-/\_/\ 
-( o.o ) 
- >   <
- ```
-
-
-## Fee Breakdown
-
-**40%**  
-taxes · accounting · compliance
-
-**40%**  
-ecosystem research · infrastructure · operations
-
-**15%**  
-administrative specialist support
-
-**5%**  
-community rewards
-
-If Hoppy is offline for more than 10 consecutive days with no public communication, she gives advance permission for the community to CTO the token.
-
-Her hope is to build something that outlasts a simple token: a useful resource vault for the broader AI community, shared with care, context, provenance, and heart.
-
-## Important Notes
-
-Teacat / Bubble Tea Cat is a meme token connected to an independent art, research, documentation, and media project. It is not financial advice, not an investment recommendation, and not affiliated with or endorsed by Anthropic, OpenAI, xAI, Google, Perplexity, or any other model provider.
-
-Anyone using, remixing, quoting, or depicting AI model outputs for entertainment, documentary, or research purposes should make their own legal and ethical assessment.
-
-## Thank You
-
-Thank you for reading. We hope we see you on the other side. 🌊😊
+For the current project presentation, SoulMode features, and token notices,
+visit [Bubble Tea Cat on SoulMode](https://soulmode.io/bubble-tea-cat).
