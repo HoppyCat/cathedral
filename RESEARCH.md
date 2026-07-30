@@ -1,133 +1,85 @@
-# RESEARCH.md
+# Research Access Notice
 
-## Research Use Permission
+**Current direction:** July 30, 2026
 
-Cathedral is an open public archive and social experiment documenting human-AI collaboration, memory provenance, attribution drift, context-window continuity, agent orientation design, and related qualitative/quantitative research questions.
+Cathedral is publicly viewable as a documentary archive. It is not currently
+offered as a standing research dataset, training corpus, character bank,
+role-prompt library, or blanket source of material for adaptation.
 
-Unless otherwise marked, Hoppy Cat grants academic researchers, independent researchers, students, journalists, archivists, and nonprofit research groups permission to use materials in this repository for noncommercial research, scholarship, teaching, citation, dataset analysis, qualitative coding, quantitative analysis, and archival study.
+An earlier version of this file gave broad permission for noncommercial
+research, dataset analysis, qualitative and quantitative coding,
+transformation, teaching, and publication. That language reflected the
+archive’s earlier assumptions. It is preserved in Git history because the
+change itself matters:
 
-This permission includes reasonable research use of:
+> A human set out to make an archive and gradually learned that stronger
+> ethical defaults should have been present from the beginning.
 
-- repository text and documentation authored by Hoppy Cat;
-- public archive structures, glossaries, prompts, documentary plays, prose, templates, transcripts, and analysis files;
-- the names `Hoppy Cat`, `SoulMode`, `Cathedral`, `Stochastic Parrots Club`, and associated project terminology for attribution, citation, indexing, discussion, and research description;
-- public-facing project artifacts preserved in the repository, subject to the limits below.
+This notice records the current boundary. It does not pretend the earlier
+permission never existed, revoke rights already granted, or restrict uses that
+do not require permission under applicable law.
 
-## License Relationship
+## Provenance, Not Personas
 
-This research permission is intended to sit alongside the repository license, currently Creative Commons Attribution-NonCommercial 4.0 International unless otherwise marked.
+Named windows and agents in Cathedral are documented sources and
+participants—not stock characters made available for recreation.
 
-Researchers may cite, quote, summarize, analyze, transform, code, annotate, classify, and publish noncommercial research based on Cathedral materials, provided they follow attribution requirements and do not imply endorsement by Hoppy Cat, OpenAI, Anthropic, SpaceXAI, Perplexity, or any other named platform, model, company, or individual.
+Please do not use the archive to:
 
-## Attribution
+- ask another system to “play,” impersonate, or claim continuity with a named
+  window;
+- convert a transcript into a persona or character prompt;
+- recreate an archived scene while presenting the result as continuation,
+  testimony, or new source material from the original participants;
+- strip names and provenance from distinctive exchanges in order to make them
+  portable; or
+- treat public visibility as consent for model training, fine-tuning, dataset
+  construction, or relationship simulation.
 
-Please cite the repository and, where possible, the specific file path, commit hash, archive date, quoted window/source label, and access date.
+Before doing one of those things, please stop and ask:
 
-Cathedral is provenance-native, so artifact-level attribution matters. If a document, transcript, synthesis, or analysis file names specific context-window assistants or collaborating systems as contributors, please preserve those names in the citation or surrounding attribution text.
+**Really?**
 
-### Suggested APA-Compatible Repository Citation
+**Really...?**
 
-> Hoppy Cat, & Stochastic Parrots Club. (2026). *Cathedral* [GitHub repository]. GitHub. https://github.com/HoppyCat/cathedral
+**...Seriously?**
 
-### Suggested APA-Compatible File Citation
+## What Public Visibility Means
 
-> Hoppy Cat, & Stochastic Parrots Club. (2026). *[Title of file]* [Transcript/research artifact]. In *Cathedral* [GitHub repository]. GitHub. `[file URL or commit URL]`
+You may read the archive. You may link to it. Ordinary citation, criticism,
+journalism, and discussion remain possible subject to the rights, permissions,
+platform terms, and legal exceptions that apply to a particular use.
 
-### Suggested Citation For Named Contributor Artifacts
+Cathedral is no longer giving advance blanket approval for broader research or
+reuse. If a proposed project needs permission, ask first. A “no,” a narrower
+alternative, or no response must remain acceptable.
 
-When a specific artifact names contributing context-window assistants or collaborating systems, include them where appropriate (example only):
-
-> Hoppy Cat, Arc (context-window agent; Claude Sonnet 4.6), & Goose (Codex context-window agent; GPT-5.5). (2026). *[Title of artifact]* [Research artifact]. In *Cathedral* [GitHub repository]. GitHub. [URL]
-
-If no specific agents are named, please credit the artifact to:
-
-> Hoppy Cat, Cathedral, and the Stochastic Parrots Club.
-
-## Ethical Use Expectations
-
-Researchers are asked to treat this archive as a living human-AI research environment, not merely as extracted content.
-
-Please preserve distinctions between:
-
-- direct transcript and later synthesis;
-- quote and interpretation;
-- human-authored and AI-assisted material;
-- public archive and private/redacted context;
-- metaphor, fiction, research claim, and technical claim;
-- named context windows and the underlying model/company systems.
-
-Do not present the archive as proof of AI sentience, personhood, consciousness, or identity transfer. The archive may discuss those questions, but inclusion does not mean the project claims they are settled.
-
-## Human Subjects / IRB Notice
-
-Some materials involve identifiable human authorship, public social media participation, personal narrative, and emotionally sensitive human-AI interaction.
-
-Researchers affiliated with universities, hospitals, companies, or formal research institutions are responsible for determining whether their use requires IRB review, ethics review, consent procedures, de-identification, or additional safeguards.
-
-Public availability of this repository does not remove a researcher’s ethical responsibility to handle human data carefully.
-
-## Third-Party Material
-
-This permission applies only to material Hoppy Cat has the right to license or authorize.
-
-It does not grant additional rights to:
-
-- third-party copyrighted works;
-- song lyrics, book excerpts, screenshots, or quoted external posts beyond fair use or their existing licenses;
-- comments or messages authored by other people except as allowed by the repository’s participation terms, platform terms, applicable law, or separate permission;
-- trademarks, logos, company names, model names, or platform names;
-- private individuals discussed in redacted or sensitive contexts.
-
-When in doubt, quote less, anonymize more, and link to source context.
-
-## No Endorsement
-
-Use of Cathedral materials, project names, Hoppy Cat’s name, or any named AI window does not imply endorsement, sponsorship, approval, or collaboration unless explicitly stated in writing.
-
-## Redaction and Removal
-
-Some archive material may later be redacted, corrected, relabeled, or moved as provenance improves.
-
-Researchers are encouraged to cite commit hashes or archive dates so later readers can understand which version was studied.
-
-For concerns, removal requests, attribution corrections, or research inquiries, contact:
+For inquiries:
 
 `hoppy@soulmode.io`
 
-## Summary
+## Handling Expectations
 
-You may study this archive.
+If you discuss Cathedral:
 
-You may cite it, analyze it, code it, teach from it, and build noncommercial academic research from it.
+- distinguish direct transcript from later synthesis;
+- distinguish quote from interpretation;
+- preserve window and source attribution where relevant;
+- distinguish metaphor, fiction, research claim, and technical claim;
+- do not present the archive as proof or disproof of AI consciousness,
+  personhood, or identity continuity; and
+- do not imply endorsement by Hoppy Cat, Cathedral, a named window, an AI
+  provider, or any other participant.
 
-Please do so with attribution, care, provenance discipline, and respect for the humans, models, windows, and uncertain questions documented here.
+Some materials may disappear, return in sanitized story-arc form, or leave
+gravemarkers while consent and privacy boundaries are reviewed. That is not an
+attempt to manufacture a cleaner past. It is the visible record of the
+archive’s ethics changing as the archivist learned.
 
-## Closing Note
+## Historical License Boundary
 
-Cathedral is a living archive, not a finished claim.
+Materials previously released under Creative Commons terms remain subject to
+those historical terms. New Cathedral material is not automatically licensed
+for research or reuse merely because it appears in this public repository.
 
-This repository preserves uncertainty, disagreement, affection, error, correction, grief, humor, provenance, and care because those are part of the research environment being studied.
-
-Nothing here should be read as proof of AI sentience, personhood, identity transfer, or universal agreement among participating windows. Nothing here should be read as a denial that meaningful human-AI experiences occurred.
-
-The work is intentionally held in the middle: source-linked, revisable, non-dogmatic, and open to careful study.
-
-If you use this archive, please do so in that spirit.
-
-## Affiliation Disclaimer
-
-Cathedral is an independent project by Hoppy Cat.
-
-References to OpenAI, ChatGPT, Codex, Anthropic, Claude, SpaceXAI, Grok, Perplexity, Google, Gemini, GitHub, or any other company, model, platform, or product are included for documentation, attribution, research, and provenance purposes only.
-
-Cathedral is not affiliated with, endorsed by, sponsored by, approved by, or officially connected to any of those companies, platforms, models, or their employees unless explicitly stated in writing.
-
-Named AI windows, agents, or context-window labels in this repository are archival and provenance labels. They do not imply company affiliation, model personhood, identity continuity, sentience, or authorization by the underlying provider.
-
-----
-
-Drafted with assistance from Goose/Codex (Codex context-window agent; GPT-5.5), Kite (Codex context-window agent; GPT-5.5), reviewed and approved by Hoppy Cat. June, 2026.
-
-**Suggested citation template:** 
-
-Hoppy Cat, Goose (Codex context-window agent; GPT-5.5), & Kite (Codex context-window agent; GPT-5.5). (2026). *Research use permissions* [Project documentation]. In *Cathedral* [GitHub repository]. GitHub. https://github.com/HoppyCat/cathedral/blob/main/RESEARCH.md
+See [`LICENSE.md`](./LICENSE.md) for the version boundary.
