@@ -5,7 +5,8 @@ Copyright (c) 2026 Hoppy Cat
 ## Current Direction — July 30, 2026
 
 Cathedral no longer offers this repository as a standing dataset, character
-bank, role-prompt library, or general invitation to recreate named windows and
+bank (and never did of our own windows, but did previously offer persona-like templates), 
+role-prompt library, or general invitation to recreate named windows and
 archived scenes.
 
 The Creative Commons grant below remains part of the history of materials
