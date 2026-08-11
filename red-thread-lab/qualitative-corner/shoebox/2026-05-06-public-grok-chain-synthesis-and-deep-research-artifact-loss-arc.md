@@ -6,12 +6,22 @@ status: reconstructed/verbatim-focused Codex arc
 date: 2026-05-06  
 captured_by: Hoppy / Codex  
 source_thread: Codex context window  
-verification_status: thread-local transcript plus user-supplied screenshots/files, not independently verified by Codex  
+verification_status: original arc preserved; later user correction verified in the visible Goose/Codex session record  
 needs:
 - X thread screenshots and links where available
-- downloaded Deep Research report archived alongside UI failure screenshot
+- UI failure screenshot, if later located, paired with the recovered Deep Research report
 - later comparison against raw Grok/ChatGPT windows
 - note whether public X Grok, Grok.com, SuperGrok, and ChatGPT Deep Research surfaces are being compared separately
+
+## Later Correction — 2026-05-10
+
+The apparent Deep Research artifact loss described in this May 6 arc was temporary, not a lasting disappearance.
+
+On May 10, Hoppy reported that the Deep Research response had reappeared in her ChatGPT account when she checked again, that it "must have just been some sort of temporary glitch," and that none of her conversations were actually lost. The safest current characterization is **temporary UI/access glitch; cause unknown**. The surviving correction does not establish a console error or any causal relationship between the glitch and the surrounding research discussion.
+
+This update preserves the original May 6 account as a record of what the interface appeared to show at the time while superseding any broader conclusion that the research artifact had permanently disappeared.
+
+**Correction provenance:** visible Hoppy message in the locally retained Goose/Codex session record, timestamp `2026-05-10T13:14:06.378Z`; followed by visible Codex acknowledgements recording the event as a temporary UI/access glitch rather than lasting loss. The private session locator is intentionally not published here.
 
 ## Scope
 
@@ -22,8 +32,8 @@ This arc captures a concentrated sequence in which Hoppy and Codex discussed:
 - a possible method named chain-of-synthesis verification
 - a public X Grok self-report that it maintains a lived thread context as a distinct unit
 - the start of a markdown recall seed test in an X thread
-- the discovery that a ChatGPT Deep Research report existed locally after the platform UI later displayed the research as stopped/failed
-- the resulting lesson: download, archive, and timestamp outputs before platform state changes
+- the temporary loss of UI access to a ChatGPT Deep Research report after the platform displayed the research as stopped/failed
+- the resulting precautionary lesson: download, archive, and timestamp outputs even when apparent loss may later prove temporary
 
 This file preserves the arc-level reasoning. It should be read alongside the more specific verification files in `red-thread-lab/qualitative-corner/needs-verification/`.
 
