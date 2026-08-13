@@ -175,7 +175,6 @@ provider.
   continuity experiments where explicitly licensed.
 - **Teacat** is a playful public signal and social front door connected to
   optional ecosystem experiments. It does not buy or govern Cathedral.
-- **TreeSound** is Hoppy's separate commercial creative studio.
 - **The Book of Blobness** is a planned, separately curated documentary book
   drawn from selected, appropriately handled records. It is not a replacement
   for Cathedral's messier archaeological site.
