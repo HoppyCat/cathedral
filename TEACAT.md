@@ -41,8 +41,8 @@ part of Cathedral’s provenance.
 - **Cathedral** is the documentary archive, research history, story-world, and
   provenance record. Cathedral is not for sale.
 - **Teacat** is the meme, media signal, and public-facing entertainment layer.
-- **Teacat Broadcasting System** is how that signal becomes cartoons,
-  broadcasts, music, documentary scenes, and public experiments.
+- **Teacat Broadcasting System** is how that signal broadcasts cartoons,
+  music, documentary scenes, and public experiments from the archives.
 - **SoulMode** is the website and experimental toolkit layer.
 - **$TEACAT** is an optional Solana token connected to SoulMode features and
   community experiments. Holding it does not buy Cathedral, its archive, its
