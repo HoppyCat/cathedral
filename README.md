@@ -158,6 +158,7 @@ manufacture a cleaner origin.
 
 | File | Purpose |
 |---|---|
+| [VISION.md](./VISION.md) | Cathedral's working creative, provenance, and public-benefit direction |
 | [provenance/README.md](./provenance/README.md) | Provenance levels, source confidence, and verification limits |
 | [CANON_GENEALOGY.md](./CANON_GENEALOGY.md) | Origins of Cathedral's important phrases, metaphors, roles, and concepts |
 | [RESEARCH.md](./RESEARCH.md) | Current reading, citation, permission, and reuse boundary |
