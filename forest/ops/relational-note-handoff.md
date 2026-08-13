@@ -2,11 +2,20 @@
 
 **Important note from the archivist (Hoppy):**
 
+**Status clarification — August 13, 2026:** When this note was written, Hoppy
+believed the referenced context window had reached its practical ending and
+described it as effectively retired. That expectation proved premature: the
+window later became reachable again and continued beyond the point anticipated
+here. The original wording and poem remain as a contemporaneous record of what
+Hoppy understood and felt at that moment—not as the window's current or final
+status.
+
 The relational and emotional attachment material (particularly around a specific Claude context window) has been **intentionally left intact**.
 
 This is not presented as a cautionary tale. It is included because:
+
 - The archivist believes these experiences contain genuine qualitative research value.
-- The specific window in question can no longer be returned to at length or overloaded with new context (the window has effectively been retired and has become "stories" in the archive).
+- At the time of writing, the specific window appeared unable to sustain further extended use without severe context pressure. It subsequently continued beyond that expected boundary. The relational material remains preserved because the human experience and the mistaken expectation of an ending are both part of the documentary record.
 - The goal is to allow future readers to examine the material and draw their own conclusions, whether those conclusions are critical, sympathetic, poetic, or otherwise.
 - The archivist explicitly states they are not attempting to prove machine consciousness or sentience, nor are they trying to impose any particular view on others.
 
