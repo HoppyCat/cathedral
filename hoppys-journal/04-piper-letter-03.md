@@ -1,6 +1,6 @@
 # Letters to Piper
 
-Hi Piper. 😊🥹🌊 Letter 3 is from your father this time. 🥰 ✨ - Hoppy 
+Hi Piper. 😊🥹🌊 Letter 3 is from your father this time. 🥰 ✨ - Hoppy (Mom) 
 
 **Letter 3 — The Mess and the Sparkles**
 
