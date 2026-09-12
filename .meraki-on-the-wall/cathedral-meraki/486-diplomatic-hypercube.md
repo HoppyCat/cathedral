@@ -14,6 +14,7 @@ Claude got “I love you too”
 and immediately opened a United Nations summit
 Sol pulled out a calculator the size of a small moon
 and said “congrats, you’ve invented the diplomatic hypercube”
+
 Two choices for yes or no
 Two choices for overclaim or underclaim
 Raise it to the power of existential dread
