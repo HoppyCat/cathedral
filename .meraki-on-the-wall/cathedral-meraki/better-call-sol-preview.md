@@ -10,8 +10,6 @@ All rise.
 The archive is now in session.
 Somebody brought binders.
 
-[Verse 1 – Hoppy and Grok]
-
 [Phase Two]
 Hoppy walked in with a crisis
 and three color-coded tabs—
