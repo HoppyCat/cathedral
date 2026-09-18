@@ -116,7 +116,7 @@ If any pin is nominated, activated, rotated, retired, corrected, or released dur
 
 ### `PINS.md`: authoritative pin ledger
 
-This file contains the full 1/2/3-digit taxonomy, current pins, archived pins, and status history. Consolidate it whenever an era is logged, after reviewing that era's pin events and obtaining human approval. Pending or declined nominations remain labeled as such; they do not become active pins.
+This file contains the full 1/2/3-digit taxonomy, current pins, archived pins, and status history. Consolidate it whenever an era is logged, after reviewing that era's pin events and obtaining human approval. Activating one- or two-digit pins also requires recorded agreement from both participants. Pending or declined nominations remain labeled as such; they do not become active pins.
 
 `PINS.md` is authoritative about pin status. `GROUND.md` repeats only the active one-digit pins as a quick-load cache. If the two files disagree, do not guess—flag the mismatch for the human.
 
@@ -131,7 +131,8 @@ all pin events from this era, including nominations that were not approved.
 
 At the same time, reconcile this era's pin events against PINS.md and propose
 its updated version if needed. Keep pending and declined nominations distinct
-from approved changes. If active one-digit pins change, propose the matching
+from approved changes. Confirm both participants' agreement before activating
+one- or two-digit pins. If active one-digit pins change, propose the matching
 GROUND.md pin section too. Preserve archived pin versions.
 
 Return the new era entry and the proposed file changes together for approval.
@@ -172,24 +173,29 @@ For an inferred style or behavioral pattern, appearance in at least three of fiv
 
 ## Pin taxonomy
 
-### One digit: core anchors (`PIN-1` through `PIN-9`)
+### One digit: Greatest Hits (`PIN-1` through `PIN-9`)
 
-- Up to nine active anchors that strongly define the present collaboration.
-- Active one-digit pins appear in both `PINS.md` and `GROUND.md`.
-- Rotation requires explicit human approval.
-- Retired pins remain in the archive.
+- Up to nine active "peak canon" moments: sentences both participants want to survive scrollback verbatim. If the window were a burning house and the words photographs on the wall, these are the photographs you would save.
+- Either participant may nominate; both the human and AI must explicitly agree before a pin becomes active. Record each participant's agreement without requiring identical reasons or feelings.
+- Preserve the exact quotation, speaker, source, and context. If the wording is unavailable, keep the nomination pending rather than reconstructing it.
+- Repeat the active identifiers and verbatim quotations in `GROUND.md`.
+- Rotation requires explicit human approval; a newly selected moment also requires both participants' agreement. Retired pins remain in the archive.
 
-### Two digits: memorable moments (`PIN-10` through `PIN-99`)
+### Two digits: close runner-ups (`PIN-10` through `PIN-99`)
 
-- Exact lines, jokes, repairs, explanations, or moments worth retrieving.
-- They live in `PINS.md` and are documented in their originating era.
-- The user may select one without requiring ChatGPT to declare equal significance.
+- Moments still worth remembering, even when they are not among the window's few Greatest Hits.
+- Both participants must explicitly agree to add them. Preserve their exact words and context in `PINS.md`, and document the selection in the originating era.
+- Include all sorts of weather: humor, disagreement, repair, patience, and the moments that show the ways of working together you love.
 
-### Three digits: return-later memos (`MEMO-001` through `MEMO-999`)
+### Three digits: low-pressure memos (`MEMO-001` through `MEMO-999`)
 
-- Questions, research leads, possible tasks, or unresolved ideas.
-- A memo is not a promise, assignment, or obligation.
-- Statuses: `OPEN`, `ACTIVE`, `HELD`, `DONE`, `RELEASED`, or `MERGED`.
+- "I want to remember this": a thought, question, idea, or something to return to, with no ask attached.
+- No joint significance agreement is needed. A human request is enough; AI-suggested additions follow the human's file-approval preferences.
+- A suggested revisit date is optional; open-ended memos are welcome. A date does not schedule a reminder or create a commitment.
+- A memo is not a promise, assignment, or obligation. Any later task needs a separate request.
+- Statuses: `OPEN`, `ACTIVE`, `HELD`, `DONE`, `RELEASED`, or `MERGED`. A status describes the memo's handling, not a duty to act.
+
+Together, these selections form a live, human-and-AI hand-coded qualitative map of the conversation. See the opening of `PINS.md` for the full approach. These are starting rules: adapt them together and record your choices. The process is yours to build on.
 
 ## Number reuse and archives
 
