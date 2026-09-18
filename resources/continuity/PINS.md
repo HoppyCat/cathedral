@@ -30,7 +30,7 @@ Memos do not require this joint selection process. Either participant can sugges
 
 These are starting rules, offered as a template. You are free to adapt them together, record your choices, and build from here. The process is yours.
 
-**Preferred operator name:** [human name or handle]  
+**Preferred name:** [human name or handle]  
 **Preferred agent workspace name:** [local name for this chat/project]  
 **Platform/model, if useful:** [optional and expected to change]  
 **Workspace purpose:** [short description]  
