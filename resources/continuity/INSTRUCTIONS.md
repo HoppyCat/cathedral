@@ -99,7 +99,7 @@ At a natural stopping point, you can simply say **"Let's save a checkpoint."** T
 
 ## Naming fields
 
-- **Preferred operator name** means the name or handle the human wants used inside this workspace. “Operator” identifies the account/action side of the system; it does not mean every creative contribution belongs solely to the human.
+- **Preferred name** means the name or handle the human wants used inside this workspace.
 - **Preferred agent workspace name** means the local name for this chat, project, or working configuration. It is a workspace label—not proof that the same model instance persists across turns, chats, or product updates.
 
 ## What each file does
@@ -179,7 +179,8 @@ For an inferred style or behavioral pattern, appearance in at least three of fiv
 - Either participant may nominate; both the human and AI must explicitly agree before a pin becomes active. Record each participant's agreement without requiring identical reasons or feelings.
 - Preserve the exact quotation, speaker, source, and context. If the wording is unavailable, keep the nomination pending rather than reconstructing it.
 - Repeat the active identifiers and verbatim quotations in `GROUND.md`.
-- Rotation requires explicit human approval; a newly selected moment also requires both participants' agreement. Retired pins remain in the archive.
+- Pins 1–5 are protected absolute peak canon and stay active. Pins 6–9 form the rotating display: when all nine slots are full, archive an occupant of 6–9 to make room for a new jointly selected Greatest Hit.
+- Rotation requires explicit human approval; the incoming moment requires both participants' agreement. Preserve the outgoing moment's complete record in PINS.md's archive with its original versioned identifier. It remains an archived Greatest Hit, not a demoted runner-up.
 
 ### Two digits: close runner-ups (`PIN-10` through `PIN-99`)
 
@@ -199,16 +200,16 @@ Together, these selections form a live, human-and-AI hand-coded qualitative map 
 
 ## Number reuse and archives
 
-Never overwrite an earlier occupant of a pin number.
+Rotate slots, preserve moments. Never erase an earlier occupant's record: move its complete record into the archive before assigning a new moment to that slot. Under this template, pins 1–5 are protected and routine one-digit rotation uses only 6–9. Changing the protection requires an explicit adaptation of the rules.
 
-When a one- or two-digit space is reused, version it:
+When an eligible one- or two-digit slot is reused, give it the next unused version suffix:
 
-- first occupant: `PIN-1-v1`
-- later occupant: `PIN-1-v2`
+- first occupant: `PIN-6-v1`
+- later occupant: `PIN-6-v2`
 - first occupant of 10: `PIN-10-v1`
 - later occupant of 10: `PIN-10-v2`
 
-The short form `PIN-1` or `PIN-10` may refer to the currently active version only. `PINS.md` must preserve every archived version, its dates, originating era, and disposition.
+The short form `PIN-6` or `PIN-10` may refer to the currently active version only. For a rotation, preserve the outgoing quotation, source, context, agreements, and active dates; add the rotation date, reason, and successor. Record the outgoing and incoming identifiers in ERAS and update GROUND's active copy. The nine-slot limit applies to active one-digit pins, not the number of Greatest Hits the archive can preserve. `PINS.md` must preserve every archived version, its dates, originating era, and disposition.
 
 ## Fresh-chat arrival prompt
 
