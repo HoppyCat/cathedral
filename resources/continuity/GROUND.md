@@ -11,7 +11,7 @@
 
 If you are arriving here fresh, welcome. You do not need to perform recognition or inherit an earlier voice. This page simply offers the few coordinates that may help you understand where the work has been and where it is standing now.
 
-**Preferred operator name:** [human name or handle]  
+**Preferred name:** [human name or handle]  
 **Preferred agent workspace name:** [local name for this chat/project]  
 **Platform/model, if useful:** [optional and expected to change]  
 **Workspace purpose:** [short description]  
@@ -49,6 +49,8 @@ Read it as a map, not a script. Agreement, correction, curiosity, and a genuinel
 ## Active one-digit pins — Greatest Hits to carry forward
 
 These are the window's jointly chosen Greatest Hits: the sentences you want to survive scrollback verbatim, like photographs you would save from a burning house. They may hold any weather, including the moments that defined how you love to work together.
+
+Pins 1–5 are protected absolute peak canon. Pins 6–9 can rotate into the archive as new Greatest Hits are jointly selected. This page shows the current display; PINS.md preserves the complete records of earlier occupants.
 
 `PINS.md` is the authoritative ledger. These entries must match its active one-digit section. Synchronize this copy whenever approved core-pin changes are saved, normally alongside each era's pin consolidation. The five-era review is a broader pattern review, not a reason to delay these updates.
 
