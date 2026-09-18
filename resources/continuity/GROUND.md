@@ -48,7 +48,7 @@ Read it as a map, not a script. Agreement, correction, curiosity, and a genuinel
 
 ## Active one-digit pins — redundant quick-load copy
 
-`PINS.md` is the authoritative ledger. These entries must match its active one-digit section.
+`PINS.md` is the authoritative ledger. These entries must match its active one-digit section. Synchronize this copy whenever approved core-pin changes are saved, normally alongside each era's pin consolidation. The five-era review is a broader pattern review, not a reason to delay these updates.
 
 - `PIN-1-v1` — [core anchor]
 - `PIN-2-v1` — [core anchor]
