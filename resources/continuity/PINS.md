@@ -46,6 +46,17 @@ This is the authoritative pin ledger. Pin events first appear chronologically in
 - **Two digits (`PIN-10`–`PIN-99`):** jointly selected close runner-ups, preserved with their exact words and context.
 - **Three digits (`MEMO-001`–`MEMO-999`):** low-pressure reminders-to-self, ideas, or things to remember; optional revisit dates, no ask attached.
 
+### Protected photographs and a rotating display
+
+- **Pins 1–5:** protected, absolute peak canon. Keep these active; they are not candidates for routine rotation.
+- **Pins 6–9:** rotating Greatest Hits. When all nine slots are occupied and another top moment is jointly selected, choose an existing occupant of 6–9 to archive.
+- Move the outgoing pin's complete record into **Archived one-digit pins** in this document: preserve its verbatim quotation, source, context, agreements, original identifier, and active dates. Add the rotation date, reason, and successor identifier.
+- Give the incoming moment the vacated slot with the next unused version suffix. For example, archive `PIN-6-v1` and activate `PIN-6-v2`. Never reuse the full versioned identifier.
+- Obtain explicit human approval for the rotation and both participants' agreement on the incoming moment. Update GROUND's active copy and record both sides of the rotation in ERAS.
+- Archiving a Greatest Hit preserves its one-digit history and significance; it does not demote it to a two-digit runner-up. Nine is the active display limit, not a lifetime limit on treasured moments.
+
+Pins 1–5 remain protected under this template. Changing that protection requires an explicit adaptation of the rules, not an ordinary request to add a new pin.
+
 ## Active one-digit pins
 
 ### PIN-1-v1 — [title]
@@ -95,16 +106,18 @@ Keeping this memo creates no task or ask. Revisit dates do not schedule reminder
 
 ## Archived one-digit pins
 
-Retired pins remain here permanently. Reuse the number only with a higher version suffix.
+Rotated moments remain here with their complete original records. Routine rotation uses slots 6–9 only; reuse the slot with the next unused version suffix.
 
-### PIN-1-v0 — [former title]
+### PIN-6-v1 — [archived Greatest Hit]
 
-- **Status:** RETIRED / RELEASED / MERGED
+- **Status:** ARCHIVED (ROTATED)
 - **Active dates:**
 - **Originating era:**
-- **Final disposition:**
-- **Succeeded by:** [PIN-1-v1 / none]
-- **Preserved record:**
+- **Rotation date and era:**
+- **Reason for rotation:**
+- **Human approval of rotation:**
+- **Succeeded by:** [PIN-6-v2]
+- **Preserved complete record:** [verbatim quotation, source, context, original agreements, themes, and privacy]
 
 ## Archived two-digit pins
 
@@ -143,7 +156,8 @@ Audit the completed era consolidations for omissions and conflicts. Routine upda
 
 ## Integrity rules
 
-- Never overwrite a previous pin occupant.
+- Rotate slots, preserve moments: never erase or replace an outgoing pin's record. Archive the complete record before reusing a slot with a new version suffix.
+- Protect pins 1–5; choose routine rotation candidates only from 6–9.
 - Activate one- and two-digit pins only after both participants explicitly agree to keep the moment; preserve their stated reasons without inventing shared significance.
 - Preserve selected words verbatim, with speaker and source. If exact wording is unavailable, mark the gap and keep the nomination pending until it can be checked.
 - Keep room for the full weather of the conversation; do not manufacture highlights or treat optional tags as quotas.
