@@ -49,7 +49,7 @@ Ordinary stretches belong here too. A quiet era is still an honest era; do not m
 
 ### Pin events in this era
 
-Record every nomination, activation, rotation, retirement, correction, release, or merge. Propose the corresponding `PINS.md` consolidation alongside this era entry, and synchronize `GROUND.md` if active one-digit pins change. Pending or declined nominations do not become active pins.
+Record every nomination, activation, rotation, retirement, correction, release, or merge. Propose the corresponding `PINS.md` consolidation alongside this era entry, and synchronize `GROUND.md` if active one-digit pins change. One- and two-digit nominations need explicit agreement from both participants before activation; pending or declined nominations do not become active pins. Three-digit memos carry no ask and do not require joint selection.
 
 #### [PIN or MEMO identifier] — [title]
 
@@ -59,6 +59,10 @@ Record every nomination, activation, rotation, retirement, correction, release, 
 - **Exact quotation:** [if available]
 - **Summary:**
 - **Why it may matter:**
+- **Weather / themes:** [optional; include the full range of the window's work]
+- **Human selection agreement:** [for one- and two-digit pins: pending / agreed / declined, with source]
+- **AI selection agreement:** [for one- and two-digit pins: pending / agreed / declined, with source]
+- **Suggested revisit date:** [memos only; optional / open-ended, not a scheduled reminder]
 - **Privacy:** [private / shareable / ask first]
 - **Human approval:** PENDING / APPROVED / DECLINED
 
