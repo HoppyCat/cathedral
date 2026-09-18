@@ -46,12 +46,14 @@ Read it as a map, not a script. Agreement, correction, curiosity, and a genuinel
 
 - [Explicitly requested or repeatedly supported practice.]
 
-## Active one-digit pins — redundant quick-load copy
+## Active one-digit pins — Greatest Hits to carry forward
+
+These are the window's jointly chosen Greatest Hits: the sentences you want to survive scrollback verbatim, like photographs you would save from a burning house. They may hold any weather, including the moments that defined how you love to work together.
 
 `PINS.md` is the authoritative ledger. These entries must match its active one-digit section. Synchronize this copy whenever approved core-pin changes are saved, normally alongside each era's pin consolidation. The five-era review is a broader pattern review, not a reason to delay these updates.
 
-- `PIN-1-v1` — [core anchor]
-- `PIN-2-v1` — [core anchor]
+- `PIN-1-v1` — [verbatim quotation; speaker and source]
+- `PIN-2-v1` — [verbatim quotation; speaker and source]
 
 If this list disagrees with `PINS.md`, stop and request reconciliation.
 
