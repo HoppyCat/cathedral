@@ -8,7 +8,7 @@
 
 An era is not a claim that every twenty turns formed a chapter. It is simply a place to notice what changed, what stayed, what was repaired, and what the next arrival should not have to rediscover alone.
 
-**Preferred operator name:** [human name or handle]  
+**Preferred name:** [human name or handle]  
 **Preferred agent workspace name:** [local name for this chat/project]  
 **Platform/model, if useful:** [optional and expected to change]  
 **Workspace purpose:** [short description]  
@@ -55,6 +55,7 @@ Record every nomination, activation, rotation, retirement, correction, release, 
 
 - **Event:** NOMINATED / ACTIVATED / ROTATED / RETIRED / CORRECTED / RELEASED / MERGED
 - **Date:**
+- **Rotation record:** [if applicable: outgoing and incoming versioned identifiers, archive location, and reason; routine one-digit rotation uses slots 6–9, preserving 1–5]
 - **Speaker/source:**
 - **Exact quotation:** [if available]
 - **Summary:**
