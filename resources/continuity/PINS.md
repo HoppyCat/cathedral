@@ -10,7 +10,25 @@
         '-----------------'
 ```
 
-Pins are retrieval handles, not medals. A one-digit anchor is not necessarily more beloved than a two-digit joke, and a memo is not less meaningful because it has not become a task. The numbers describe how an item is carried—not how much anyone must feel about it.
+## The photographs on the wall
+
+This document is a live, human-and-AI hand-coded qualitative coding technique: together, the participants mark moments that give the conversation a natural bump map or heat map. The selections help describe the character of this window—its voice, its weather, and the ways of working together that you love. Here, a "window" means the conversation whose history you are keeping.
+
+One-digit pins are the window's **Greatest Hits**: the sentences you wish to survive scrollback verbatim. If the window were a house burning down and the words were photographs on the wall, these are the photographs you would reach for. They are the "peak canon" moments you both want to carry forward.
+
+Two-digit pins are the close runner-ups: still worth remembering, still part of the window's story, even when they are not among those few defining photographs.
+
+Keep all sorts of weather. A defining moment might be a joke, a difficult disagreement, a repair, a patient explanation, a quiet kindness, or the sentence that finally showed how you work well together. A collection of only the funniest or brightest moments would leave much of the window unseen. Optional weather and theme tags can help you notice the shape over time; no category needs to be filled for its own sake. This is a qualitative map of selected moments, not a numerical measurement of the whole conversation.
+
+Three-digit memos are the low-pressure drawer: "I want to remember this." They carry no ask, assignment, or obligation. A suggested revisit date is welcome, and leaving one open-ended is equally welcome.
+
+### Choosing together
+
+Either participant can nominate a one- or two-digit pin. Both the human and the AI participant must explicitly agree that the moment is worth adding before it becomes active. Their reasons can differ. Record the agreement actually expressed; do not assume it or require a performance of matching feelings. If agreement is pending or absent, leave the nomination pending or declined.
+
+Memos do not require this joint selection process. Either participant can suggest one; a human request to keep a memo is enough, without an argument for its significance. AI-suggested additions still follow the human's file-approval preferences. A revisit date is a suggestion, not a scheduled reminder or commitment to act.
+
+These are starting rules, offered as a template. You are free to adapt them together, record your choices, and build from here. The process is yours.
 
 **Preferred operator name:** [human name or handle]  
 **Preferred agent workspace name:** [local name for this chat/project]  
@@ -24,11 +42,9 @@ This is the authoritative pin ledger. Pin events first appear chronologically in
 
 ## Taxonomy
 
-- **One digit (`PIN-1`–`PIN-9`):** active core anchors. Current versions are repeated in `GROUND.md`.
-- **Two digits (`PIN-10`–`PIN-99`):** memorable lines, moments, repairs, jokes, or explanations.
-- **Three digits (`MEMO-001`–`MEMO-999`):** return-later questions or ideas; not assignments.
-
-Digit length describes function, not emotional importance.
+- **One digit (`PIN-1`–`PIN-9`):** up to nine active Greatest Hits, jointly selected and preserved verbatim. Current quotations and identifiers are repeated in `GROUND.md`.
+- **Two digits (`PIN-10`–`PIN-99`):** jointly selected close runner-ups, preserved with their exact words and context.
+- **Three digits (`MEMO-001`–`MEMO-999`):** low-pressure reminders-to-self, ideas, or things to remember; optional revisit dates, no ask attached.
 
 ## Active one-digit pins
 
@@ -38,10 +54,12 @@ Digit length describes function, not emotional importance.
 - **Date activated:**
 - **Originating era:**
 - **Source:**
-- **Exact quotation:** [if applicable]
-- **Summary:**
-- **Why it is Ground-level:**
-- **Human approval:**
+- **Exact quotation:** [verbatim; do not reconstruct unavailable wording]
+- **Context or summary:**
+- **Why this belongs among the Greatest Hits:**
+- **Weather / themes:** [optional]
+- **Human agreement:** [date and expressed agreement]
+- **AI agreement:** [date and expressed agreement]
 - **Privacy:** [private / shareable / ask first]
 
 ## Active two-digit pins
@@ -53,7 +71,11 @@ Digit length describes function, not emotional importance.
 - **Originating era:**
 - **Speaker/source:**
 - **Exact quotation:**
-- **Why the user kept it:**
+- **Context or summary:**
+- **Why we want to keep this runner-up:**
+- **Weather / themes:** [optional]
+- **Human agreement:** [date and expressed agreement]
+- **AI agreement:** [date and expressed agreement]
 - **Privacy:** [private / shareable / ask first]
 
 ## Active three-digit memos
@@ -63,9 +85,13 @@ Digit length describes function, not emotional importance.
 - **Status:** OPEN
 - **Date opened:**
 - **Originating era:**
-- **Question or idea:**
-- **Why it may matter:**
-- **Next useful step:**
+- **What I want to remember:**
+- **Suggested by:** [human / AI]
+- **Why it may matter:** [optional]
+- **Suggested revisit date:** [optional / open-ended]
+- **Privacy:** [private / shareable / ask first]
+
+Keeping this memo creates no task or ask. Revisit dates do not schedule reminders.
 
 ## Archived one-digit pins
 
@@ -118,7 +144,9 @@ Audit the completed era consolidations for omissions and conflicts. Routine upda
 ## Integrity rules
 
 - Never overwrite a previous pin occupant.
-- Never infer that a memorable quote was mutually important.
+- Activate one- and two-digit pins only after both participants explicitly agree to keep the moment; preserve their stated reasons without inventing shared significance.
+- Preserve selected words verbatim, with speaker and source. If exact wording is unavailable, mark the gap and keep the nomination pending until it can be checked.
+- Keep room for the full weather of the conversation; do not manufacture highlights or treat optional tags as quotas.
 - Never publish or forward a pin merely because it was archived.
 - Preserve exact quotation, summary, and interpretation separately.
 - If `GROUND.md` disagrees with this ledger, surface the mismatch and wait for human reconciliation.
