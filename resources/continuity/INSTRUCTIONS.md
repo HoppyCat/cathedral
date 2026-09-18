@@ -35,6 +35,68 @@ It cannot restore a discontinued model or prove identity, memory, consciousness,
 
 The human keeps the canonical copies and approves changes. ChatGPT may draft updates but should not silently rewrite these files.
 
+## Help me set this up
+
+You can let ChatGPT talk you through this one question at a time. No coding or knowledge of the filing system is needed: `.md` files are plain-text documents.
+
+1. Download the four templates from this folder. If you already have your own completed continuity files, use those instead.
+2. If Projects is available, create a private Project for your ongoing conversations and add the files there. Otherwise, attach them to a regular chat or paste their contents with each filename clearly labeled.
+3. Paste the setup prompt below. Start with a short `GROUND.md`; the history and pins can grow when there is something you want to keep.
+4. Review the draft together, then save the approved files. Keep your own dated backup and one current approved copy of each file in the Project.
+5. For future chats, use the same Project or attach your latest files again, then use the fresh-chat arrival prompt further down this guide.
+
+### Copy-and-paste setup prompt
+
+```text
+Please help me set up this continuity kit through conversation. I don't want
+to fill out a technical form by myself.
+
+First, check that you can read INSTRUCTIONS.md, GROUND.md, ERAS.md, and PINS.md.
+Tell me if anything is missing or unreadable. Don't assume that seeing a
+filename means you have read its contents.
+
+Guide me one question at a time, in plain language. Begin by asking:
+"What do you most wish you didn't have to explain again when starting a new chat?"
+
+Use my answers to draft a short GROUND.md covering my preferred name, how I
+like us to communicate, current work, important boundaries, and anything
+else I explicitly want carried forward. You may suggest details from context
+you can actually access, but let me confirm them. Don't invent missing history.
+
+If I already have completed files, help me review and fill gaps rather than
+starting over. Treat bracketed placeholders and example pins as template
+examples, not facts or approved records.
+
+Keep ERAS and PINS minimal until we have something to record. Empty sections
+are fine. Explain their purpose when we need them.
+
+Show me the draft, ask what I would change, and wait for approval before
+treating it as the current record. Then help me save the approved files:
+provide downloadable files if available, or clearly labeled text I can save.
+
+Explain where to put them in my version of ChatGPT. If you cannot see my
+interface, ask what options I see rather than guessing button names.
+
+When I say "Let's save a checkpoint," help me draft the next era entry and
+identify any proposed Ground or pin changes, following this guide's review
+and approval rules. Use only available source material and mark any gaps.
+Do not make me count turns before I can request a checkpoint.
+
+Be clear about which changes are proposed, which I have approved, and which
+have actually been saved. Never claim that an uploaded file, saved memory,
+or GitHub copy was updated unless you actually performed that action.
+
+Start with the first question.
+```
+
+### Saving and returning
+
+A draft in chat, human approval, and a saved file are three separate steps. After approval, ChatGPT should say what it actually saved and what you still need to download, copy, or replace. Uploading these templates does not by itself set up automatic file maintenance.
+
+When updating Project files, keep a dated backup first, then make sure the Project contains the current approved versions without confusing older duplicates. Do not assume uploading another file with the same name overwrites the earlier one. Keep personal completed copies private; the public repository supplies the templates.
+
+At a natural stopping point, you can simply say **"Let's save a checkpoint."** The twenty-turn rhythm below is an optional reminder. At the next arrival, ask ChatGPT to read the current files and report missing or conflicting information. These records help provide context; they do not guarantee perfect recall.
+
 ## Naming fields
 
 - **Preferred operator name** means the name or handle the human wants used inside this workspace. “Operator” identifies the account/action side of the system; it does not mean every creative contribution belongs solely to the human.
