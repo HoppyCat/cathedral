@@ -15,6 +15,8 @@ An era is not a claim that every twenty turns formed a chapter. It is simply a p
 **Last appended:** [date and time]  
 **Status:** append-only working history  
 
+Log an era and reconcile its pin events into `PINS.md` at the same approved checkpoint, approximately every 20 substantial human–assistant exchanges or at a meaningful stopping point. Compactions, tool calls, and internal agent steps do not count as eras or advance the five-era review schedule.
+
 Ordinary stretches belong here too. A quiet era is still an honest era; do not manufacture significance merely to fill the page.
 
 ## Evidence key
@@ -47,7 +49,7 @@ Ordinary stretches belong here too. A quiet era is still an honest era; do not m
 
 ### Pin events in this era
 
-Record every nomination, activation, rotation, retirement, correction, release, or merge—even if `PINS.md` will not be consolidated until the five-era review.
+Record every nomination, activation, rotation, retirement, correction, release, or merge. Propose the corresponding `PINS.md` consolidation alongside this era entry, and synchronize `GROUND.md` if active one-digit pins change. Pending or declined nominations do not become active pins.
 
 #### [PIN or MEMO identifier] — [title]
 
@@ -59,6 +61,13 @@ Record every nomination, activation, rotation, retirement, correction, release, 
 - **Why it may matter:**
 - **Privacy:** [private / shareable / ask first]
 - **Human approval:** PENDING / APPROVED / DECLINED
+
+### Era checkpoint receipt
+
+- **Pin reconciliation:** [no changes / proposed changes and identifiers]
+- **GROUND.md active pin copy:** [unchanged / matching update proposed]
+- **Human approval:** PENDING / APPROVED / DECLINED
+- **Saved updates:** [files and versions actually saved; anything still outstanding]
 
 ### What remains unresolved
 
@@ -80,7 +89,9 @@ Record every nomination, activation, rotation, retirement, correction, release, 
 |---|---|---|---|---|
 | [pattern] | [1, 3, 5] | [none / details] | [EXPLICIT / INFERENCE] | [ADD / CHANGE / RETAIN / REJECT / HOLD] |
 
-#### Pin reconciliation receipt
+#### Pin audit receipt
+
+Check the per-era consolidations for omissions or conflicts; do not reapply changes already recorded.
 
 | Era | Pin event | PINS.md action proposed | Collision or version issue |
 |---|---|---|---|
@@ -93,4 +104,4 @@ Record every nomination, activation, rotation, retirement, correction, release, 
 - **Approved Pin changes:**
 - **Rejected or held items:**
 
-Do not modify `GROUND.md` or canonize a revised `PINS.md` until the human approves this review.
+Changes proposed by this five-era review require human approval. Routine per-era pin consolidations are approved at their own checkpoints and do not wait for this review.
