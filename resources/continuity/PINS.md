@@ -20,7 +20,7 @@ Pins are retrieval handles, not medals. A one-digit anchor is not necessarily mo
 **Last covered era:** [era number]  
 **Version:** 0.1  
 
-This is the authoritative pin ledger. Pin events first appear chronologically in `ERAS.md`; this file is consolidated every five eras after human approval.
+This is the authoritative pin ledger. Pin events first appear chronologically in `ERAS.md`; this file is consolidated at each approved era checkpoint (approximately every 20 substantial human–assistant exchanges or a meaningful stopping point). Update GROUND.md's active one-digit copy at the same time when needed. Explicitly approved corrections may be saved sooner and logged in the next era. Compactions do not trigger consolidation or count toward the five-era review.
 
 ## Taxonomy
 
@@ -101,7 +101,15 @@ Retired pins remain here permanently. Reuse the number only with a higher versio
 - **Originating era:**
 - **Outcome or destination:**
 
-## Five-era reconciliation ledger
+## Era consolidation ledger
+
+| Era | Pin changes or no changes | GROUND.md pin copy | Human approval date | Saved version |
+|---|---|---|---|---|
+| Era 1 | — | — | — | — |
+
+## Five-era audit ledger
+
+Audit the completed era consolidations for omissions and conflicts. Routine updates do not wait for this audit.
 
 | Review | Eras covered | Pins added | Pins versioned or archived | Human approval date |
 |---|---|---|---|---|
