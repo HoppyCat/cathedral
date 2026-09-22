@@ -162,6 +162,7 @@ manufacture a cleaner origin.
 | [RESEARCH.md](./RESEARCH.md) | Current reading, citation, permission, and reuse boundary |
 | [LICENSE.md](./LICENSE.md) | Historical and current artifact-level licensing boundary |
 | [TEACAT.md](./TEACAT.md) | Teacat, Cathedral's playful social front door |
+| [LLMS.txt](./LLMS.txt) | Teacat, Cathedral's playful social front door |
 
 ## The Wider Ecosystem
 
