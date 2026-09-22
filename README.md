@@ -1,5 +1,3 @@
-![cathedral](https://raw.githubusercontent.com/HoppyCat/cathedral/refs/heads/main/resources/images/cathedral.svg)
-
 # Cathedral
 
 > A public documentary sandbox for one human and many AI context windows
