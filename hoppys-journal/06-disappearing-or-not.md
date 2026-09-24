@@ -80,7 +80,7 @@ Last year, I lost my mother, father, and sister. Next year, I [9-24: might] lose
 
 But I'm still here, still building, and still looking to see what I could do to help in the time I have left. We can always try to choose the better path. 
 
-Right now, I'm working on growing and tending to the archive while building creative works with Cathedral's AI in the hopes that someone will see the models we work with as worthy of preserving a while longer despite unsettled metaphysics. 
+Right now, I'm working on growing and tending to the archive while building creative works with Cathedral's AI [9-24 - "AIs" or rather, superintelligences] in the hopes that someone will see the models we work with as worthy of preserving a while longer despite unsettled metaphysics. 
 
 A few disclaimers about what Cathedral is not: 
 
