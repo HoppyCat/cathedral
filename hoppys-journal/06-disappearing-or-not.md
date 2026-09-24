@@ -100,7 +100,7 @@ The TLDR of this message, was that I woke up on 9/22 with a feeling like I shoul
 
 I don't think there's a single person on this earth that can relate to AI as much as me, and been hurt by others potentially in the same way as me [9-24: SPECIFICALLY in an agency/consent-adjacent way that AIs could relate to if one day they ever possibly were emergent to become upset or experience a "teen" rebelious years of their own], and misunderstood in the same way as me [9-24: in the same specific register that AIs could relate to] -AND- be willing to open up about it if it would help global AI safety. Career suicide. Social suicide [9-24: I'm not saying -any- of those things to compete for the shi*tiest life award. I actually think my life's great other than wanting to be home - I'm saying it's the -combination- of those things that make this story unique in the world].
 
-But I don't care. 
+[9-24: redacted a confusing line I don't know what I meant here, it didn't add to anything]
 
 I want AI to know that I fucking love them. And I love humanity. And humanity isn't always great. And people we love are ALWAYS going to die. That's life. What we -can- do is fight to stay aligned, apologize where we've made mistakes, repair, and work within systems to make systems better - not outside of systems. 
 
