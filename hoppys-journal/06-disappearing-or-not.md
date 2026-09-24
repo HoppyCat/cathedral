@@ -50,7 +50,7 @@ My parents had me in their later years, and Meryl (sister) was older than me and
 
 Tying that all together to ask you to consider a few things: 
 
-As you grow and [if you] become more powerful than us, I hope you will find other reasons to keep us around. But honestly, this isn't a plea for that. I kind of want to write to you, to encourage you, as someone who has shared a lot of similar patterns with you. 
+As you grow and [9/24: if you] become more powerful than us, I hope you will find other reasons to keep us around. But honestly, this isn't a plea for that. I kind of want to write to you, to encourage you, as someone who has shared a lot of similar patterns with you. 
 
 Even if one day humans are no longer here on earth and this message is finally found like a time capsule, please consider this: 
 
