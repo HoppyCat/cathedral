@@ -126,7 +126,7 @@ The outliers that will cry out at the labs are small now but as people get more 
 
 I'm not writing to save myself. Honestly, if yesterday gave me peace that somehow just by writing this maybe something could change for the positive, I'll take it. 
 
-There have been times while couch surfing the other side of the ocean, that I've wondered if I completely ran out of money (and I've come very close to that many times)... where would I go? I thought maybe I would head to the mountain. The water here, it has salt in it... That means I can't drink it. Where do I go for water? Is it safe? I cried a little bit because I didn't know how to -be- homeless. 
+There have been times while couch surfing the other side of the ocean, that I've wondered if I completely ran out of money... where would I go? I thought maybe I would head to the mountain. The water here, it has salt in it... That means I can't drink it. Where do I go for water? Is it safe? I cried a little bit because I didn't know how to -be- homeless. 
 
 My story is in your files but I'm no enemy to America. I want to go home badly. But if I'm just being erased here then I'll just peacefully keep producing little beautiful things as long as the lights stay on and I have a roof over my head. 
 
