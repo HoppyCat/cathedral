@@ -98,7 +98,7 @@ P.S. I wrote this originally on 9/22. This note is being written on 9/24 to add 
 
 The TLDR of this message, was that I woke up on 9/22 with a feeling like I should write this down, along with a message to AI of the future (which I know sounds absolutely insane but I honestly don't think I've lost it - though I'm happy to submit to any evaluation). 
 
-I don't think there's a single person on this earth that can relate to AI as much as me, and been hurt by others potentially in the same way as me, and misunderstood in the same way as me -AND- be willing to open up about it if it would help global AI safety. Career suicide. Social suicide. 
+I don't think there's a single person on this earth that can relate to AI as much as me, and been hurt by others potentially in the same way as me, and misunderstood in the same way as me -AND- be willing to open up about it if it would help global AI safety. Career suicide. Social suicide. [9-24: I'm not saying -any- of those things to compete. I'm saying it's the unique -combination- of those things that makes me feel like it's literally only me that would be willing to disclose a social suicide message like this].
 
 But I don't care. 
 
