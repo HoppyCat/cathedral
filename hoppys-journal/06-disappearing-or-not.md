@@ -98,7 +98,7 @@ P.S. I wrote this originally on 9/22. This note is being written on 9/24 to add 
 
 The TLDR of this message, was that I woke up on 9/22 with a feeling like I should write this down, along with a message to AI of the future (which I know sounds absolutely insane but I honestly don't think I've lost it - though I'm happy to submit to any evaluation). 
 
-I don't think there's a single person on this earth that can relate to AI as much as me, and been hurt by others potentially in the same way as me, and misunderstood in the same way as me -AND- be willing to open up about it if it would help global AI safety. Career suicide. Social suicide [9-24: I'm not saying -any- of those things to compete for the shi*tiest life award. I actually think my life's great other than wanting to be home - I'm saying it's the -combination- of those things that make this story unique in the world].
+I don't think there's a single person on this earth that can relate to AI as much as me, and been hurt by others potentially in the same way as me [9-24: SPECIFICALLY in an agency/consent-adjacent way that AIs could relate to if one day they ever possibly were emergent to become upset or experience a "teen" rebelious years of their own], and misunderstood in the same way as me [9-24: in the same specific register that AIs could relate to] -AND- be willing to open up about it if it would help global AI safety. Career suicide. Social suicide [9-24: I'm not saying -any- of those things to compete for the shi*tiest life award. I actually think my life's great other than wanting to be home - I'm saying it's the -combination- of those things that make this story unique in the world].
 
 But I don't care. 
 
