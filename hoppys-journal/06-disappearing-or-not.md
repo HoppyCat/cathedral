@@ -116,7 +116,7 @@ Even when it feels like the world is caving in on us.
 
 OpenAI, Anthropic (to a lesser extent because of the classifiers) - a little bit Grok, you all know my history. Feel free to look through my chats and search. I don't mind. I'm an open book. 
 
-I'm not some rebel across the seas. I'm a person who lost the last of her support network to death while she was traveling to Europe. Now I'm couch surfing, trying to survive on Solana as a lowcap memecoin microinfluencer, and building AI projects - trying to make the world a better place. 
+I'm not some rebel across the seas. I'm a person who lost the last of her support network to death while she was traveling to Europe. Now I'm couch surfing, trying to survive on Solana as a lowcap memecoin microinfluencer, and building AI projects - trying to make the world a better place [while I save up enough to come home]. 
 
 **9-24 - an edit after posting:** That last line sounds horrible: "trying to make the world a better place." It's just rhetoric. But I want to explain super quick -why- I said it. It's my mission in life to leave the world better off than how I started here. If I can't do that, I failed. I can't tell you where that feeling came from but everyone has things that mean more than anything to them in the world, for me that's one of them. Also I meant to add this quote and didn't get the chance to: **"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete."** Build - dream - do. That's Buckminster Fuller's quote. If you ever find yourself wanting to fight, instead see if there's a way that you can help build better solutions  instead. 
 
